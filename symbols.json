@@ -1,1 +1,2057 @@
-{"BTC": {"s": "BTC", "k": "비트코인", "e": "Bitcoin", "i": "https://static.upbit.com/logos/BTC.png"}, "ETH": {"s": "ETH", "k": "이더리움", "e": "Ethereum", "i": "https://static.upbit.com/logos/ETH.png"}, "XRP": {"s": "XRP", "k": "리플", "e": "Ripple", "i": "https://static.upbit.com/logos/XRP.png"}, "ETC": {"s": "ETC", "k": "이더리움클래식", "e": "Ethereum Classic", "i": "https://static.upbit.com/logos/ETC.png"}, "OMG": {"s": "OMG", "k": "오미세고", "e": "OmiseGo", "i": "https://static.upbit.com/logos/OMG.png"}, "CVC": {"s": "CVC", "k": "시빅", "e": "Civic", "i": "https://static.upbit.com/logos/CVC.png"}, "DGB": {"s": "DGB", "k": "디지바이트", "e": "DigiByte", "i": "https://static.upbit.com/logos/DGB.png"}, "SC": {"s": "SC", "k": "시아코인", "e": "Siacoin", "i": "https://static.upbit.com/logos/SC.png"}, "SNT": {"s": "SNT", "k": "스테이터스네트워크토큰", "e": "Status Network Token", "i": "https://static.upbit.com/logos/SNT.png"}, "WAVES": {"s": "WAVES", "k": "웨이브", "e": "Waves", "i": "https://static.upbit.com/logos/WAVES.png"}, "NMR": {"s": "NMR", "k": "뉴메레르", "e": "Numeraire", "i": "https://static.upbit.com/logos/NMR.png"}, "XEM": {"s": "XEM", "k": "넴", "e": "NEM", "i": "https://static.upbit.com/logos/XEM.png"}, "QTUM": {"s": "QTUM", "k": "퀀텀", "e": "Qtum", "i": "https://static.upbit.com/logos/QTUM.png"}, "BAT": {"s": "BAT", "k": "베이직어텐션토큰", "e": "Basic Attention Token", "i": "https://static.upbit.com/logos/BAT.png"}, "LSK": {"s": "LSK", "k": "리스크", "e": "Lisk", "i": "https://static.upbit.com/logos/LSK.png"}, "STEEM": {"s": "STEEM", "k": "스팀", "e": "Steem", "i": "https://static.upbit.com/logos/STEEM.png"}, "DOGE": {"s": "DOGE", "k": "도지코인", "e": "Dogecoin", "i": "https://static.upbit.com/logos/DOGE.png"}, "BNT": {"s": "BNT", "k": "뱅코르", "e": "Bancor", "i": "https://static.upbit.com/logos/BNT.png"}, "XLM": {"s": "XLM", "k": "스텔라루멘", "e": "Lumen", "i": "https://static.upbit.com/logos/XLM.png"}, "ARDR": {"s": "ARDR", "k": "아더", "e": "Ardor", "i": "https://static.upbit.com/logos/ARDR.png"}, "ARK": {"s": "ARK", "k": "아크", "e": "Ark", "i": "https://static.upbit.com/logos/ARK.png"}, "STORJ": {"s": "STORJ", "k": "스토리지", "e": "Storj", "i": "https://static.upbit.com/logos/STORJ.png"}, "GRS": {"s": "GRS", "k": "그로스톨코인", "e": "Groestlcoin", "i": "https://static.upbit.com/logos/GRS.png"}, "REP": {"s": "REP", "k": "어거", "e": "Augur", "i": "https://static.upbit.com/logos/REP.png"}, "RLC": {"s": "RLC", "k": "아이젝", "e": "iEx.ec", "i": "https://static.upbit.com/logos/RLC.png"}, "NEO": {"s": "NEO", "k": "네오", "e": "NEO", "i": "https://static.upbit.com/logos/NEO.png"}, "MTL": {"s": "MTL", "k": "메탈", "e": "Metal", "i": "https://static.upbit.com/logos/MTL.png"}, "ADA": {"s": "ADA", "k": "에이다", "e": "Ada", "i": "https://static.upbit.com/logos/ADA.png"}, "MANA": {"s": "MANA", "k": "디센트럴랜드", "e": "Decentraland", "i": "https://static.upbit.com/logos/MANA.png"}, "SBD": {"s": "SBD", "k": "스팀달러", "e": "SteemDollars", "i": "https://static.upbit.com/logos/SBD.png"}, "POWR": {"s": "POWR", "k": "파워렛저", "e": "Power ledger", "i": "https://static.upbit.com/logos/POWR.png"}, "BTG": {"s": "BTG", "k": "비트코인골드", "e": "Bitcoin Gold", "i": "https://static.upbit.com/logos/BTG.png"}, "DNT": {"s": "DNT", "k": "디스트릭트0x", "e": "district0x", "i": "https://static.upbit.com/logos/DNT.png"}, "ZRX": {"s": "ZRX", "k": "제로엑스", "e": "0x Protocol", "i": "https://static.upbit.com/logos/ZRX.png"}, "TRX": {"s": "TRX", "k": "트론", "e": "TRON", "i": "https://static.upbit.com/logos/TRX.png"}, "TUSD": {"s": "TUSD", "k": "트루USD", "e": "TrueUSD", "i": "https://static.upbit.com/logos/TUSD.png"}, "LRC": {"s": "LRC", "k": "루프링", "e": "Loopring", "i": "https://static.upbit.com/logos/LRC.png"}, "ICX": {"s": "ICX", "k": "아이콘", "e": "Icon", "i": "https://static.upbit.com/logos/ICX.png"}, "EOS": {"s": "EOS", "k": "이오스", "e": "EOS", "i": "https://static.upbit.com/logos/EOS.png"}, "POLY": {"s": "POLY", "k": "폴리매쓰", "e": "Polymath", "i": "https://static.upbit.com/logos/POLY.png"}, "ONT": {"s": "ONT", "k": "온톨로지", "e": "Ontology", "i": "https://static.upbit.com/logos/ONT.png"}, "ZIL": {"s": "ZIL", "k": "질리카", "e": "Zilliqa", "i": "https://static.upbit.com/logos/ZIL.png"}, "LOOM": {"s": "LOOM", "k": "룸네트워크", "e": "Loom Network", "i": "https://static.upbit.com/logos/LOOM.png"}, "BCH": {"s": "BCH", "k": "비트코인캐시", "e": "Bitcoin Cash", "i": "https://static.upbit.com/logos/BCH.png"}, "MFT": {"s": "MFT", "k": "메인프레임", "e": "Mainframe", "i": "https://static.upbit.com/logos/MFT.png"}, "IOST": {"s": "IOST", "k": "아이오에스티", "e": "IOST", "i": "https://static.upbit.com/logos/IOST.png"}, "RFR": {"s": "RFR", "k": "리퍼리움", "e": "Refereum", "i": "https://static.upbit.com/logos/RFR.png"}, "IQ": {"s": "IQ", "k": "에브리피디아", "e": "Everipedia", "i": "https://static.upbit.com/logos/IQ.png"}, "IOTA": {"s": "IOTA", "k": "아이오타", "e": "IOTA", "i": "https://static.upbit.com/logos/IOTA.png"}, "RVN": {"s": "RVN", "k": "레이븐코인", "e": "Ravencoin", "i": "https://static.upbit.com/logos/RVN.png"}, "GO": {"s": "GO", "k": "고체인", "e": "GoChain", "i": "https://static.upbit.com/logos/GO.png"}, "UPP": {"s": "UPP", "k": "센티넬프로토콜", "e": "Sentinel Protocol", "i": "https://static.upbit.com/logos/UPP.png"}, "ENJ": {"s": "ENJ", "k": "엔진코인", "e": "Enjin", "i": "https://static.upbit.com/logos/ENJ.png"}, "ONG": {"s": "ONG", "k": "온톨로지가스", "e": "ONG", "i": "https://static.upbit.com/logos/ONG.png"}, "GAS": {"s": "GAS", "k": "가스", "e": "GAS", "i": "https://static.upbit.com/logos/GAS.png"}, "ELF": {"s": "ELF", "k": "엘프", "e": "aelf", "i": "https://static.upbit.com/logos/ELF.png"}, "KNC": {"s": "KNC", "k": "카이버네트워크", "e": "Kyber Network", "i": "https://static.upbit.com/logos/KNC.png"}, "MOC": {"s": "MOC", "k": "모스코인", "e": "Moss Coin", "i": "https://static.upbit.com/logos/MOC.png"}, "BSV": {"s": "BSV", "k": "비트코인에스브이", "e": "Bitcoin SV", "i": "https://static.upbit.com/logos/BSV.png"}, "THETA": {"s": "THETA", "k": "쎄타토큰", "e": "Theta Token", "i": "https://static.upbit.com/logos/THETA.png"}, "DENT": {"s": "DENT", "k": "덴트", "e": "Dent", "i": "https://static.upbit.com/logos/DENT.png"}, "QKC": {"s": "QKC", "k": "쿼크체인", "e": "QuarkChain", "i": "https://static.upbit.com/logos/QKC.png"}, "BTT": {"s": "BTT", "k": "비트토렌트", "e": "BitTorrent", "i": "https://static.upbit.com/logos/BTT.png"}, "IOTX": {"s": "IOTX", "k": "아이오텍스", "e": "IoTeX", "i": "https://static.upbit.com/logos/IOTX.png"}, "SOLVE": {"s": "SOLVE", "k": "솔브케어", "e": "Solve.Care", "i": "https://static.upbit.com/logos/SOLVE.png"}, "NKN": {"s": "NKN", "k": "엔케이엔", "e": "NKN", "i": "https://static.upbit.com/logos/NKN.png"}, "META": {"s": "META", "k": "메타디움", "e": "Metadium", "i": "https://static.upbit.com/logos/META.png"}, "ANKR": {"s": "ANKR", "k": "앵커", "e": "Ankr", "i": "https://static.upbit.com/logos/ANKR.png"}, "CRO": {"s": "CRO", "k": "크로노스", "e": "Cronos", "i": "https://static.upbit.com/logos/CRO.png"}, "TFUEL": {"s": "TFUEL", "k": "쎄타퓨엘", "e": "Theta Fuel", "i": "https://static.upbit.com/logos/TFUEL.png"}, "ORBS": {"s": "ORBS", "k": "오브스", "e": "Orbs", "i": "https://static.upbit.com/logos/ORBS.png"}, "AERGO": {"s": "AERGO", "k": "아르고", "e": "Aergo", "i": "https://static.upbit.com/logos/AERGO.png"}, "ATOM": {"s": "ATOM", "k": "코스모스", "e": "Cosmos", "i": "https://static.upbit.com/logos/ATOM.png"}, "TT": {"s": "TT", "k": "썬더코어", "e": "ThunderCore", "i": "https://static.upbit.com/logos/TT.png"}, "CRE": {"s": "CRE", "k": "캐리프로토콜", "e": "Carry Protocol", "i": "https://static.upbit.com/logos/CRE.png"}, "STPT": {"s": "STPT", "k": "에스티피", "e": "Standard Tokenization Protocol", "i": "https://static.upbit.com/logos/STPT.png"}, "MBL": {"s": "MBL", "k": "무비블록", "e": "MovieBloc", "i": "https://static.upbit.com/logos/MBL.png"}, "DAI": {"s": "DAI", "k": "다이", "e": "Dai", "i": "https://static.upbit.com/logos/DAI.png"}, "MKR": {"s": "MKR", "k": "메이커", "e": "Maker", "i": "https://static.upbit.com/logos/MKR.png"}, "BORA": {"s": "BORA", "k": "보라", "e": "BORA", "i": "https://static.upbit.com/logos/BORA.png"}, "WAXP": {"s": "WAXP", "k": "왁스", "e": "WAX", "i": "https://static.upbit.com/logos/WAXP.png"}, "HBAR": {"s": "HBAR", "k": "헤데라", "e": "Hedera", "i": "https://static.upbit.com/logos/HBAR.png"}, "MED": {"s": "MED", "k": "메디블록", "e": "MediBloc", "i": "https://static.upbit.com/logos/MED.png"}, "MLK": {"s": "MLK", "k": "밀크", "e": "MiL.k", "i": "https://static.upbit.com/logos/MLK.png"}, "VET": {"s": "VET", "k": "비체인", "e": "VeChain", "i": "https://static.upbit.com/logos/VET.png"}, "CHZ": {"s": "CHZ", "k": "칠리즈", "e": "Chiliz", "i": "https://static.upbit.com/logos/CHZ.png"}, "FX": {"s": "FX", "k": "펑션엑스", "e": "Function X", "i": "https://static.upbit.com/logos/FX.png"}, "OGN": {"s": "OGN", "k": "오리진프로토콜", "e": "Origin Protocol", "i": "https://static.upbit.com/logos/OGN.png"}, "XTZ": {"s": "XTZ", "k": "테조스", "e": "Tezos", "i": "https://static.upbit.com/logos/XTZ.png"}, "HIVE": {"s": "HIVE", "k": "하이브", "e": "Hive", "i": "https://static.upbit.com/logos/HIVE.png"}, "HBD": {"s": "HBD", "k": "하이브달러", "e": "Hive Dollar", "i": "https://static.upbit.com/logos/HBD.png"}, "OBSR": {"s": "OBSR", "k": "옵저버", "e": "Observer", "i": "https://static.upbit.com/logos/OBSR.png"}, "DKA": {"s": "DKA", "k": "디카르고", "e": "dKargo", "i": "https://static.upbit.com/logos/DKA.png"}, "STMX": {"s": "STMX", "k": "스톰엑스", "e": "StormX", "i": "https://static.upbit.com/logos/STMX.png"}, "AHT": {"s": "AHT", "k": "아하토큰", "e": "AhaToken", "i": "https://static.upbit.com/logos/AHT.png"}, "PCI": {"s": "PCI", "k": "페이코인", "e": "PayCoin", "i": "https://static.upbit.com/logos/PCI.png"}, "LINK": {"s": "LINK", "k": "체인링크", "e": "Chainlink", "i": "https://static.upbit.com/logos/LINK.png"}, "KAVA": {"s": "KAVA", "k": "카바", "e": "Kava", "i": "https://static.upbit.com/logos/KAVA.png"}, "JST": {"s": "JST", "k": "저스트", "e": "JUST", "i": "https://static.upbit.com/logos/JST.png"}, "CHR": {"s": "CHR", "k": "크로미아", "e": "Chromia", "i": "https://static.upbit.com/logos/CHR.png"}, "DAD": {"s": "DAD", "k": "다드", "e": "DAD", "i": "https://static.upbit.com/logos/DAD.png"}, "TON": {"s": "TON", "k": "톤", "e": "TON", "i": "https://static.upbit.com/logos/TON.png"}, "CTSI": {"s": "CTSI", "k": "카르테시", "e": "Cartesi", "i": "https://static.upbit.com/logos/CTSI.png"}, "DOT": {"s": "DOT", "k": "폴카닷", "e": "Polkadot", "i": "https://static.upbit.com/logos/DOT.png"}, "COMP": {"s": "COMP", "k": "컴파운드", "e": "Compound", "i": "https://static.upbit.com/logos/COMP.png"}, "SXP": {"s": "SXP", "k": "솔라", "e": "SXP", "i": "https://static.upbit.com/logos/SXP.png"}, "HUNT": {"s": "HUNT", "k": "헌트", "e": "HUNT", "i": "https://static.upbit.com/logos/HUNT.png"}, "ONIT": {"s": "ONIT", "k": "온버프", "e": "ONBUFF", "i": "https://static.upbit.com/logos/ONIT.png"}, "CRV": {"s": "CRV", "k": "커브", "e": "Curve", "i": "https://static.upbit.com/logos/CRV.png"}, "ALGO": {"s": "ALGO", "k": "알고랜드", "e": "Algorand", "i": "https://static.upbit.com/logos/ALGO.png"}, "RSR": {"s": "RSR", "k": "리저브라이트", "e": "Reserve Rights", "i": "https://static.upbit.com/logos/RSR.png"}, "OXT": {"s": "OXT", "k": "오키드", "e": "Orchid", "i": "https://static.upbit.com/logos/OXT.png"}, "PLA": {"s": "PLA", "k": "플레이댑", "e": "PlayDapp", "i": "https://static.upbit.com/logos/PLA.png"}, "MARO": {"s": "MARO", "k": "마로", "e": "Maro", "i": "https://static.upbit.com/logos/MARO.png"}, "SAND": {"s": "SAND", "k": "샌드박스", "e": "The Sandbox", "i": "https://static.upbit.com/logos/SAND.png"}, "SUN": {"s": "SUN", "k": "썬", "e": "SUN", "i": "https://static.upbit.com/logos/SUN.png"}, "SRM": {"s": "SRM", "k": "세럼", "e": "Serum", "i": "https://static.upbit.com/logos/SRM.png"}, "QTCON": {"s": "QTCON", "k": "퀴즈톡", "e": "Quiztok", "i": "https://static.upbit.com/logos/QTCON.png"}, "MVL": {"s": "MVL", "k": "엠블", "e": "MVL", "i": "https://static.upbit.com/logos/MVL.png"}, "REI": {"s": "REI", "k": "레이", "e": "REI", "i": "https://static.upbit.com/logos/REI.png"}, "AQT": {"s": "AQT", "k": "알파쿼크", "e": "Alpha Quark Token", "i": "https://static.upbit.com/logos/AQT.png"}, "AXS": {"s": "AXS", "k": "엑시인피니티", "e": "Axie Infinity", "i": "https://static.upbit.com/logos/AXS.png"}, "STRAX": {"s": "STRAX", "k": "스트라티스", "e": "Stratis", "i": "https://static.upbit.com/logos/STRAX.png"}, "GLM": {"s": "GLM", "k": "골렘", "e": "Golem", "i": "https://static.upbit.com/logos/GLM.png"}, "FCT2": {"s": "FCT2", "k": "피르마체인", "e": "FirmaChain", "i": "https://static.upbit.com/logos/FCT2.png"}, "SSX": {"s": "SSX", "k": "썸씽", "e": "SOMESING", "i": "https://static.upbit.com/logos/SSX.png"}, "FIL": {"s": "FIL", "k": "파일코인", "e": "Filecoin", "i": "https://static.upbit.com/logos/FIL.png"}, "UNI": {"s": "UNI", "k": "유니스왑", "e": "Uniswap", "i": "https://static.upbit.com/logos/UNI.png"}, "BASIC": {"s": "BASIC", "k": "베이직", "e": "Basic", "i": "https://static.upbit.com/logos/BASIC.png"}, "INJ": {"s": "INJ", "k": "인젝티브프로토콜", "e": "Injective Protocol", "i": "https://static.upbit.com/logos/INJ.png"}, "PROM": {"s": "PROM", "k": "프롬", "e": "Prom", "i": "https://static.upbit.com/logos/PROM.png"}, "VAL": {"s": "VAL", "k": "밸리디티", "e": "Validity", "i": "https://static.upbit.com/logos/VAL.png"}, "PSG": {"s": "PSG", "k": "파리생제르맹", "e": "Paris Saint-Germain Fan Token", "i": "https://static.upbit.com/logos/PSG.png"}, "JUV": {"s": "JUV", "k": "유벤투스", "e": "Juventus Fan Token", "i": "https://static.upbit.com/logos/JUV.png"}, "CBK": {"s": "CBK", "k": "코박토큰", "e": "Cobak Token", "i": "https://static.upbit.com/logos/CBK.png"}, "FOR": {"s": "FOR", "k": "포튜브", "e": "ForTube", "i": "https://static.upbit.com/logos/FOR.png"}, "BFC": {"s": "BFC", "k": "바이프로스트", "e": "Bifrost", "i": "https://static.upbit.com/logos/BFC.png"}, "LINA": {"s": "LINA", "k": "리니어파이낸스", "e": "Linear", "i": "https://static.upbit.com/logos/LINA.png"}, "HUM": {"s": "HUM", "k": "휴먼스케이프", "e": "Humanscape", "i": "https://static.upbit.com/logos/HUM.png"}, "CELO": {"s": "CELO", "k": "셀로", "e": "Celo", "i": "https://static.upbit.com/logos/CELO.png"}, "STX": {"s": "STX", "k": "스택스", "e": "Stacks", "i": "https://static.upbit.com/logos/STX.png"}, "NEAR": {"s": "NEAR", "k": "니어프로토콜", "e": "NEAR Protocol", "i": "https://static.upbit.com/logos/NEAR.png"}, "AUCTION": {"s": "AUCTION", "k": "바운스토큰", "e": "Bounce", "i": "https://static.upbit.com/logos/AUCTION.png"}, "DAWN": {"s": "DAWN", "k": "던프로토콜", "e": "Dawn Protocol", "i": "https://static.upbit.com/logos/DAWN.png"}, "FLOW": {"s": "FLOW", "k": "플로우", "e": "Flow", "i": "https://static.upbit.com/logos/FLOW.png"}, "STRK": {"s": "STRK", "k": "스트라이크", "e": "Strike", "i": "https://static.upbit.com/logos/STRK.png"}, "PUNDIX": {"s": "PUNDIX", "k": "펀디엑스", "e": "Pundi X", "i": "https://static.upbit.com/logos/PUNDIX.png"}, "GRT": {"s": "GRT", "k": "그래프", "e": "The Graph", "i": "https://static.upbit.com/logos/GRT.png"}, "SNX": {"s": "SNX", "k": "신세틱스", "e": "Synthetix", "i": "https://static.upbit.com/logos/SNX.png"}, "USDP": {"s": "USDP", "k": "팍스달러", "e": "Pax Dollar", "i": "https://static.upbit.com/logos/USDP.png"}, "XEC": {"s": "XEC", "k": "이캐시", "e": "eCash", "i": "https://static.upbit.com/logos/XEC.png"}, "SOL": {"s": "SOL", "k": "솔라나", "e": "Solana", "i": "https://static.upbit.com/logos/SOL.png"}, "MATIC": {"s": "MATIC", "k": "폴리곤", "e": "Polygon", "i": "https://static.upbit.com/logos/MATIC.png"}, "NU": {"s": "NU", "k": "누사이퍼", "e": "Nucypher", "i": "https://static.upbit.com/logos/NU.png"}, "AAVE": {"s": "AAVE", "k": "에이브", "e": "Aave", "i": "https://static.upbit.com/logos/AAVE.png"}, "1INCH": {"s": "1INCH", "k": "1인치네트워크", "e": "1inch Network", "i": "https://static.upbit.com/logos/1INCH.png"}, "MASK": {"s": "MASK", "k": "마스크네트워크", "e": "Mask Network", "i": "https://static.upbit.com/logos/MASK.png"}, "AUDIO": {"s": "AUDIO", "k": "오디우스", "e": "Audius", "i": "https://static.upbit.com/logos/AUDIO.png"}, "YGG": {"s": "YGG", "k": "일드길드게임즈", "e": "Yield Guild Games", "i": "https://static.upbit.com/logos/YGG.png"}, "GTC": {"s": "GTC", "k": "깃코인", "e": "Gitcoin", "i": "https://static.upbit.com/logos/GTC.png"}, "OCEAN": {"s": "OCEAN", "k": "오션프로토콜", "e": "Ocean Protocol", "i": "https://static.upbit.com/logos/OCEAN.png"}, "CTC": {"s": "CTC", "k": "크레딧코인", "e": "Creditcoin", "i": "https://static.upbit.com/logos/CTC.png"}, "LPT": {"s": "LPT", "k": "라이브피어", "e": "Livepeer", "i": "https://static.upbit.com/logos/LPT.png"}, "WEMIX": {"s": "WEMIX", "k": "위믹스", "e": "Wemix", "i": "https://static.upbit.com/logos/WEMIX.png"}, "AVAX": {"s": "AVAX", "k": "아발란체", "e": "Avalanche", "i": "https://static.upbit.com/logos/AVAX.png"}, "IMX": {"s": "IMX", "k": "이뮤터블엑스", "e": "Immutable X", "i": "https://static.upbit.com/logos/IMX.png"}, "RNDR": {"s": "RNDR", "k": "렌더토큰", "e": "Render Token", "i": "https://static.upbit.com/logos/RNDR.png"}, "RLY": {"s": "RLY", "k": "랠리", "e": "Rally", "i": "https://static.upbit.com/logos/RLY.png"}, "T": {"s": "T", "k": "쓰레스홀드", "e": "Threshold", "i": "https://static.upbit.com/logos/T.png"}, "RAD": {"s": "RAD", "k": "래디클", "e": "Radicle", "i": "https://static.upbit.com/logos/RAD.png"}, "AGLD": {"s": "AGLD", "k": "어드벤처골드", "e": "Adventure Gold", "i": "https://static.upbit.com/logos/AGLD.png"}, "API3": {"s": "API3", "k": "에이피아이쓰리", "e": "API3", "i": "https://static.upbit.com/logos/API3.png"}, "ARPA": {"s": "ARPA", "k": "알파체인", "e": "ARPA Chain", "i": "https://static.upbit.com/logos/ARPA.png"}, "ENS": {"s": "ENS", "k": "이더리움네임서비스", "e": "Ethereum Name Service", "i": "https://static.upbit.com/logos/ENS.png"}, "GMT": {"s": "GMT", "k": "스테픈", "e": "Stepn", "i": "https://static.upbit.com/logos/GMT.png"}, "APE": {"s": "APE", "k": "에이프코인", "e": "ApeCoin", "i": "https://static.upbit.com/logos/APE.png"}, "RAY": {"s": "RAY", "k": "레이디움", "e": "Raydium", "i": "https://static.upbit.com/logos/RAY.png"}, "CTXC": {"s": "CTXC", "k": "코르텍스", "e": "코르텍스", "i": "https://content.bithumb.com/resources/img/coin/coin-eb304b16744a8ff8d6db34ffa60bc8a8.png"}, "ATOLO": {"s": "ATOLO", "k": "라이즌", "e": "라이즌", "i": "https://content.bithumb.com/resources/img/coin/coin-8bfdc52107f505cbe79e45749a7ace39.png"}, "AMO": {"s": "AMO", "k": "아모코인", "e": "아모코인", "i": "https://content.bithumb.com/resources/img/coin/coin-186a974849ab6494dc7b72de172d5365.png"}, "VALOR": {"s": "VALOR", "k": "밸러토큰", "e": "밸러토큰", "i": "https://content.bithumb.com/resources/img/coin/coin-a20550cf144d7e588f3257ed39a95db6.png"}, "CON": {"s": "CON", "k": "코넌", "e": "코넌", "i": "https://content.bithumb.com/resources/img/coin/coin-53ae9714fbfd6c730c0a698c5c412b82.png"}, "MIX": {"s": "MIX", "k": "믹스마블", "e": "믹스마블", "i": "https://content.bithumb.com/resources/img/coin/coin-c47ad3df475a6c89b4a162f268fb59c8.png"}, "MXC": {"s": "MXC", "k": "머신익스체인지코인", "e": "머신익스체인지코인", "i": "https://content.bithumb.com/resources/img/coin/coin-3029fc71b966466ff8e709793a1801aa.png"}, "TRV": {"s": "TRV", "k": "트러스트버스", "e": "트러스트버스", "i": "https://content.bithumb.com/resources/img/coin/coin-f9648b7041f59bd860053a20a688b790.png"}, "WOM": {"s": "WOM", "k": "왐토큰", "e": "왐토큰", "i": "https://content.bithumb.com/resources/img/coin/coin-2607b318b09d5781ccd8c2abc13d32d0.png"}, "SOC": {"s": "SOC", "k": "소다코인", "e": "소다코인", "i": "https://content.bithumb.com/resources/img/coin/coin-74ac33036393b875054d9edcdaecc8b6.png"}, "BOA": {"s": "BOA", "k": "보아", "e": "보아", "i": "https://content.bithumb.com/resources/img/coin/coin-f1be9b3e8e957a7a63e53019d867ad26.png"}, "MEV": {"s": "MEV", "k": "미버스", "e": "미버스", "i": "https://content.bithumb.com/resources/img/coin/coin-47a49e14761a439779cdd1c50f6afe5e.png"}, "COS": {"s": "COS", "k": "콘텐토스", "e": "콘텐토스", "i": "https://content.bithumb.com/resources/img/coin/coin-ef23ef1d426ae1a73a7eed399cef707d.png"}, "EL": {"s": "EL", "k": "엘리시아", "e": "엘리시아", "i": "https://content.bithumb.com/resources/img/coin/coin-d4e8bee50f2093fbced5daaf3c41980d.png"}, "XPR": {"s": "XPR", "k": "프로톤", "e": "프로톤", "i": "https://content.bithumb.com/resources/img/coin/coin-aeeb955be132e3c71180a02ba83b7090.png"}, "VRA": {"s": "VRA", "k": "베라시티", "e": "베라시티", "i": "https://content.bithumb.com/resources/img/coin/coin-6d58730f9f6a9fdcea222ac9dae42b3c.png"}, "FIT": {"s": "FIT", "k": "300피트 네트워크", "e": "300피트 네트워크", "i": "https://content.bithumb.com/resources/img/coin/coin-12197f0373bd373681e99d73fd509954.png"}, "EGG": {"s": "EGG", "k": "네스트리", "e": "네스트리", "i": "https://content.bithumb.com/resources/img/coin/coin-54433ea8a1f7d793404e093f92058989.png"}, "APM": {"s": "APM", "k": "에이피엠 코인", "e": "에이피엠 코인", "i": "https://content.bithumb.com/resources/img/coin/coin-4d5340b646d9723cdb3bdf42182658d0.png"}, "CKB": {"s": "CKB", "k": "너보스", "e": "너보스", "i": "https://content.bithumb.com/resources/img/coin/coin-89c719dd3ba5641823d51c058aff063f.png"}, "ANW": {"s": "ANW", "k": "앵커뉴럴월드", "e": "앵커뉴럴월드", "i": "https://content.bithumb.com/resources/img/coin/coin-28a0c7ff89574c709c61148c1eec4735.png"}, "CENNZ": {"s": "CENNZ", "k": "센트럴리티", "e": "센트럴리티", "i": "https://content.bithumb.com/resources/img/coin/coin-e9220b0ae5e06c22cdb000c7f251d3f2.png"}, "EVZ": {"s": "EVZ", "k": "이브이지", "e": "이브이지", "i": "https://content.bithumb.com/resources/img/coin/coin-5880888728c9f6333f88dee0c4d45801.png"}, "CYCLUB": {"s": "CYCLUB", "k": "싸이클럽", "e": "싸이클럽", "i": "https://content.bithumb.com/resources/img/coin/coin-c268a17012336fbdceca27dd0dddff4a.png"}, "YFI": {"s": "YFI", "k": "연파이낸스", "e": "연파이낸스", "i": "https://content.bithumb.com/resources/img/coin/coin-2e05101b56ecd926e468dad5801bd186.png"}, "UMA": {"s": "UMA", "k": "우마", "e": "우마", "i": "https://content.bithumb.com/resources/img/coin/coin-12b3a5d5936a5535462c3b4f2f76f10c.png"}, "REN": {"s": "REN", "k": "렌", "e": "렌", "i": "https://content.bithumb.com/resources/img/coin/coin-752e4d6a7e4e334e4771d6255b069462.png"}, "BAL": {"s": "BAL", "k": "밸런서", "e": "밸런서", "i": "https://content.bithumb.com/resources/img/coin/coin-6049a05f7a3b31a10d06a72bffce1bd3.png"}, "UOS": {"s": "UOS", "k": "울트라", "e": "울트라", "i": "https://content.bithumb.com/resources/img/coin/coin-f63b55086f4016150cf0fa7370b04639.png"}, "GOM2": {"s": "GOM2", "k": "고머니2", "e": "고머니2", "i": "https://content.bithumb.com/resources/img/coin/coin-f826c764e2e55f2be665a805bfd01a3a.png"}, "BEL": {"s": "BEL", "k": "벨라프로토콜", "e": "벨라프로토콜", "i": "https://content.bithumb.com/resources/img/coin/coin-6b3c549d3d068b03da16a480f8818703.png"}, "ORC": {"s": "ORC", "k": "오르빗 체인", "e": "오르빗 체인", "i": "https://content.bithumb.com/resources/img/coin/coin-6d8e87b2e81c11252ad12520596a0ee1.png"}, "POLA": {"s": "POLA", "k": "폴라리스 쉐어", "e": "폴라리스 쉐어", "i": "https://content.bithumb.com/resources/img/coin/coin-0a62a0ff2d12d5ced234a7e3705c15a0.png"}, "AWO": {"s": "AWO", "k": "에이아이워크", "e": "에이아이워크", "i": "https://content.bithumb.com/resources/img/coin/coin-79998fef6da0d739178cebe4257a1f56.png"}, "ADP": {"s": "ADP", "k": "어댑터 토큰", "e": "어댑터 토큰", "i": "https://content.bithumb.com/resources/img/coin/coin-a771a5a37055ebcd81f69ccb77ac9a9b.png"}, "DVI": {"s": "DVI", "k": "디비전", "e": "디비전", "i": "https://content.bithumb.com/resources/img/coin/coin-77971f7472e0778ca10ec1dd5f1cca78.png"}, "GHX": {"s": "GHX", "k": "게이머코인", "e": "게이머코인", "i": "https://content.bithumb.com/resources/img/coin/coin-6a7d73fd1c3861c56cb2ef247a746ca7.png"}, "MVC": {"s": "MVC", "k": "마일벌스", "e": "마일벌스", "i": "https://content.bithumb.com/resources/img/coin/coin-0b9221b0599697618c27449e89d9b07a.png"}, "BLY": {"s": "BLY", "k": "블로서리", "e": "블로서리", "i": "https://content.bithumb.com/resources/img/coin/coin-4ef9a4cf3c18044eb1675d8f1b791a14.png"}, "WOZX": {"s": "WOZX", "k": "이포스", "e": "이포스", "i": "https://content.bithumb.com/resources/img/coin/coin-605be29ac711ffe8c613d944726558a6.png"}, "ANV": {"s": "ANV", "k": "애니버스", "e": "애니버스", "i": "https://content.bithumb.com/resources/img/coin/coin-b1801e63010d8b94b2b1d6a36fbbca77.png"}, "BIOT": {"s": "BIOT", "k": "바이오패스포트", "e": "바이오패스포트", "i": "https://content.bithumb.com/resources/img/coin/coin-d97ac4f3e567821433dc1d20c9a1c131.png"}, "XNO": {"s": "XNO", "k": "제노토큰", "e": "제노토큰", "i": "https://content.bithumb.com/resources/img/coin/coin-ad2bf8350f58c0c5eb7ce268276da1a7.png"}, "SOFI": {"s": "SOFI", "k": "라이파이낸스", "e": "라이파이낸스", "i": "https://content.bithumb.com/resources/img/coin/coin-0d66d94d4bba4a4c0c0472d7a6402fd7.png"}, "COLA": {"s": "COLA", "k": "콜라토큰", "e": "콜라토큰", "i": "https://content.bithumb.com/resources/img/coin/coin-27ec3e6c599528ab8aef75b5c5d2a1f7.png"}, "MAP": {"s": "MAP", "k": "맵프로토콜", "e": "맵프로토콜", "i": "https://content.bithumb.com/resources/img/coin/coin-5af1a3a285c2bdee4192223e31e1f833.png"}, "WIKEN": {"s": "WIKEN", "k": "위드", "e": "위드", "i": "https://content.bithumb.com/resources/img/coin/coin-55e272e515596cfa93e9d1aca9c6ab49.png"}, "SUSHI": {"s": "SUSHI", "k": "스시스왑", "e": "스시스왑", "i": "https://content.bithumb.com/resources/img/coin/coin-cc4a309c62c87e23617d62645f15e0a4.png"}, "ASM": {"s": "ASM", "k": "어셈블프로토콜", "e": "어셈블프로토콜", "i": "https://content.bithumb.com/resources/img/coin/coin-7ccbb03cb795734415a0b6924a8d7aed.png"}, "CELR": {"s": "CELR", "k": "셀러네트워크", "e": "셀러네트워크", "i": "https://content.bithumb.com/resources/img/coin/coin-82c83f3de8aa7857cc55616dee1e26a2.png"}, "ARW": {"s": "ARW", "k": "아로와나토큰", "e": "아로와나토큰", "i": "https://content.bithumb.com/resources/img/coin/coin-f8ac4c336296f72f7267a231154dd694.png"}, "FRONT": {"s": "FRONT", "k": "프론티어", "e": "프론티어", "i": "https://content.bithumb.com/resources/img/coin/coin-bb2fe5c916efb43aab8cbb68f997d2ee.png"}, "ALICE": {"s": "ALICE", "k": "마이네이버앨리스", "e": "마이네이버앨리스", "i": "https://content.bithumb.com/resources/img/coin/coin-b6b818304a439f91fc90b3fe8dd35be8.png"}, "COTI": {"s": "COTI", "k": "코티", "e": "코티", "i": "https://content.bithumb.com/resources/img/coin/coin-16b310dc341d695566fb3c6c3a89b1fe.png"}, "CAKE": {"s": "CAKE", "k": "팬케이크스왑", "e": "팬케이크스왑", "i": "https://content.bithumb.com/resources/img/coin/coin-f791e215081d6dfc15b9a6eb525f5b29.png"}, "XVS": {"s": "XVS", "k": "비너스", "e": "비너스", "i": "https://content.bithumb.com/resources/img/coin/coin-c2226e87b9e5c0eb1f4ab925eab17cdd.png"}, "SWAP": {"s": "SWAP", "k": "트러스트스왑", "e": "트러스트스왑", "i": "https://content.bithumb.com/resources/img/coin/coin-46fc23bc4e4d57e5469a39658a6dd3e8.png"}, "DAO": {"s": "DAO", "k": "다오메이커", "e": "다오메이커", "i": "https://content.bithumb.com/resources/img/coin/coin-23e7356311264b6db05bbfc0ff41882f.png"}, "SIX": {"s": "SIX", "k": "식스", "e": "식스", "i": "https://content.bithumb.com/resources/img/coin/coin-48041ef8474caedcbcf2fe8996056b7f.png"}, "WOO": {"s": "WOO", "k": "우네트워크", "e": "우네트워크", "i": "https://content.bithumb.com/resources/img/coin/coin-7fa3ccfefdcb147cf99baca4185f15ce.png"}, "ACH": {"s": "ACH", "k": "알케미페이", "e": "알케미페이", "i": "https://content.bithumb.com/resources/img/coin/coin-fd1a6f579a8df27c0958e5f4b539448b.png"}, "VELO": {"s": "VELO", "k": "벨로프로토콜", "e": "벨로프로토콜", "i": "https://content.bithumb.com/resources/img/coin/coin-bd5deff9ef87193c5b58e60efac93644.png"}, "WICC": {"s": "WICC", "k": "웨이키체인", "e": "웨이키체인", "i": "https://content.bithumb.com/resources/img/coin/coin-6e15392c62c25c45cdf1787baeab4b39.png"}, "KLAY": {"s": "KLAY", "k": "클레이튼", "e": "클레이튼", "i": "https://content.bithumb.com/resources/img/coin/coin-27d96cbd90145df8eea03981210e8335.png"}, "TEMCO": {"s": "TEMCO", "k": "템코", "e": "템코", "i": "https://content.bithumb.com/resources/img/coin/coin-6212caa4db3b29372f33b45a4984e913.png"}, "HIBS": {"s": "HIBS", "k": "힙스", "e": "힙스", "i": "https://content.bithumb.com/resources/img/coin/coin-c12a725b1d58908582561758633817e0.png"}, "KSM": {"s": "KSM", "k": "쿠사마", "e": "쿠사마", "i": "https://content.bithumb.com/resources/img/coin/coin-08957ffa9822f02d57132b8c15b76ced.png"}, "CTK": {"s": "CTK", "k": "셴투", "e": "셴투", "i": "https://content.bithumb.com/resources/img/coin/coin-43cc3c59b957bc50048ba38c5fe4777b.png"}, "XYM": {"s": "XYM", "k": "심볼", "e": "심볼", "i": "https://content.bithumb.com/resources/img/coin/coin-970974b9c88274f93cbef5275f02b006.png"}, "BNB": {"s": "BNB", "k": "바이낸스코인", "e": "바이낸스코인", "i": "https://content.bithumb.com/resources/img/coin/coin-87243927c932713e00ea95a19985b447.png"}, "NFT": {"s": "NFT", "k": "에이피이앤에프티", "e": "에이피이앤에프티", "i": "https://content.bithumb.com/resources/img/coin/coin-a692c529f241845ae00b47284e09e76a.png"}, "EGLD": {"s": "EGLD", "k": "엘론드", "e": "엘론드", "i": "https://content.bithumb.com/resources/img/coin/coin-e303de4d868a149be8be00d3d0e4a391.png"}, "DFA": {"s": "DFA", "k": "디파인", "e": "디파인", "i": "https://content.bithumb.com/resources/img/coin/coin-65735ee8293869cac8bb4a8c30d86a92.png"}, "C98": {"s": "C98", "k": "코인98", "e": "코인98", "i": "https://content.bithumb.com/resources/img/coin/coin-8fdf5eb4d804bee1c3c181f95d491564.png"}, "BOBA": {"s": "BOBA", "k": "보바토큰", "e": "보바토큰", "i": "https://content.bithumb.com/resources/img/coin/coin-66036a736dd67b6de0a31bf44228ad41.png"}, "GALA": {"s": "GALA", "k": "갈라", "e": "갈라", "i": "https://content.bithumb.com/resources/img/coin/coin-867e8957fae1cb59f0808dbcc3aada27.png"}, "EFI": {"s": "EFI", "k": "이피니티토큰", "e": "이피니티토큰", "i": "https://content.bithumb.com/resources/img/coin/coin-6e2807816e9d2621b7e5dffff6c33711.png"}, "JASMY": {"s": "JASMY", "k": "재스미코인", "e": "재스미코인", "i": "https://content.bithumb.com/resources/img/coin/coin-a3526a5b5f23ae33036b3b211bac2460.png"}, "TITAN": {"s": "TITAN", "k": "타이탄스왑", "e": "타이탄스왑", "i": "https://content.bithumb.com/resources/img/coin/coin-8084428b194f0b50108f88a36ef2db74.png"}, "REQ": {"s": "REQ", "k": "리퀘스트", "e": "리퀘스트", "i": "https://content.bithumb.com/resources/img/coin/coin-ce4e1a7286ff585e08bf30898cf6b3eb.png"}, "CSPR": {"s": "CSPR", "k": "캐스퍼", "e": "캐스퍼", "i": "https://content.bithumb.com/resources/img/coin/coin-5c745c2cc22db6fb259e315bc979047b.png"}, "TDROP": {"s": "TDROP", "k": "티드랍", "e": "티드랍", "i": "https://content.bithumb.com/resources/img/coin/coin-ce57c17ece47e4e0fcdbdd9b0f10d75a.png"}, "SPRT": {"s": "SPRT", "k": "스포티움", "e": "스포티움", "i": "https://content.bithumb.com/resources/img/coin/coin-023174126b4f3fedf4af8dc60e332c22.png"}, "NPT": {"s": "NPT", "k": "네오핀", "e": "네오핀", "i": "https://content.bithumb.com/resources/img/coin/coin-2e86438e971de59fdacd9db11a83b0fc.png"}, "MBX": {"s": "MBX", "k": "마브렉스", "e": "마브렉스", "i": "https://content.bithumb.com/resources/img/coin/coin-a066c197b79da3dd3e3a0bcc20467a16.png"}, "TAVA": {"s": "TAVA", "k": "알타바", "e": "알타바", "i": "https://content.bithumb.com/resources/img/coin/coin-52869b78b80f5c7905592f739acb24f5.png"}, "LTC": {"s": "LTC", "k": "", "e": "", "i": ""}, "BCC": {"s": "BCC", "k": "", "e": "", "i": ""}, "HSR": {"s": "HSR", "k": "", "e": "", "i": ""}, "MCO": {"s": "MCO", "k": "", "e": "", "i": ""}, "WTC": {"s": "WTC", "k": "", "e": "", "i": ""}, "YOYO": {"s": "YOYO", "k": "", "e": "", "i": ""}, "STRAT": {"s": "STRAT", "k": "", "e": "", "i": ""}, "SNGLS": {"s": "SNGLS", "k": "", "e": "", "i": ""}, "BQX": {"s": "BQX", "k": "", "e": "", "i": ""}, "FUN": {"s": "FUN", "k": "", "e": "", "i": ""}, "SNM": {"s": "SNM", "k": "", "e": "", "i": ""}, "XVG": {"s": "XVG", "k": "", "e": "", "i": ""}, "SALT": {"s": "SALT", "k": "", "e": "", "i": ""}, "MDA": {"s": "MDA", "k": "", "e": "", "i": ""}, "SUB": {"s": "SUB", "k": "", "e": "", "i": ""}, "MTH": {"s": "MTH", "k": "", "e": "", "i": ""}, "ENG": {"s": "ENG", "k": "", "e": "", "i": ""}, "ZEC": {"s": "ZEC", "k": "", "e": "", "i": ""}, "AST": {"s": "AST", "k": "", "e": "", "i": ""}, "DASH": {"s": "DASH", "k": "", "e": "", "i": ""}, "OAX": {"s": "OAX", "k": "", "e": "", "i": ""}, "ICN": {"s": "ICN", "k": "", "e": "", "i": ""}, "EVX": {"s": "EVX", "k": "", "e": "", "i": ""}, "VIB": {"s": "VIB", "k": "", "e": "", "i": ""}, "MOD": {"s": "MOD", "k": "", "e": "", "i": ""}, "VEN": {"s": "VEN", "k": "", "e": "", "i": ""}, "KMD": {"s": "KMD", "k": "", "e": "", "i": ""}, "RCN": {"s": "RCN", "k": "", "e": "", "i": ""}, "NULS": {"s": "NULS", "k": "", "e": "", "i": ""}, "RDN": {"s": "RDN", "k": "", "e": "", "i": ""}, "XMR": {"s": "XMR", "k": "", "e": "", "i": ""}, "DLT": {"s": "DLT", "k": "", "e": "", "i": ""}, "AMB": {"s": "AMB", "k": "", "e": "", "i": ""}, "BCPT": {"s": "BCPT", "k": "", "e": "", "i": ""}, "ARN": {"s": "ARN", "k": "", "e": "", "i": ""}, "GVT": {"s": "GVT", "k": "", "e": "", "i": ""}, "CDT": {"s": "CDT", "k": "", "e": "", "i": ""}, "GXS": {"s": "GXS", "k": "", "e": "", "i": ""}, "POE": {"s": "POE", "k": "", "e": "", "i": ""}, "QSP": {"s": "QSP", "k": "", "e": "", "i": ""}, "BTS": {"s": "BTS", "k": "", "e": "", "i": ""}, "XZC": {"s": "XZC", "k": "", "e": "", "i": ""}, "TNT": {"s": "TNT", "k": "", "e": "", "i": ""}, "FUEL": {"s": "FUEL", "k": "", "e": "", "i": ""}, "BCD": {"s": "BCD", "k": "", "e": "", "i": ""}, "DGD": {"s": "DGD", "k": "", "e": "", "i": ""}, "ADX": {"s": "ADX", "k": "", "e": "", "i": ""}, "PPT": {"s": "PPT", "k": "", "e": "", "i": ""}, "CMT": {"s": "CMT", "k": "", "e": "", "i": ""}, "CND": {"s": "CND", "k": "", "e": "", "i": ""}, "LEND": {"s": "LEND", "k": "", "e": "", "i": ""}, "WABI": {"s": "WABI", "k": "", "e": "", "i": ""}, "TNB": {"s": "TNB", "k": "", "e": "", "i": ""}, "GTO": {"s": "GTO", "k": "", "e": "", "i": ""}, "OST": {"s": "OST", "k": "", "e": "", "i": ""}, "AION": {"s": "AION", "k": "", "e": "", "i": ""}, "NEBL": {"s": "NEBL", "k": "", "e": "", "i": ""}, "BRD": {"s": "BRD", "k": "", "e": "", "i": ""}, "EDO": {"s": "EDO", "k": "", "e": "", "i": ""}, "WINGS": {"s": "WINGS", "k": "", "e": "", "i": ""}, "NAV": {"s": "NAV", "k": "", "e": "", "i": ""}, "LUN": {"s": "LUN", "k": "", "e": "", "i": ""}, "TRIG": {"s": "TRIG", "k": "", "e": "", "i": ""}, "APPC": {"s": "APPC", "k": "", "e": "", "i": ""}, "VIBE": {"s": "VIBE", "k": "", "e": "", "i": ""}, "INS": {"s": "INS", "k": "", "e": "", "i": ""}, "PIVX": {"s": "PIVX", "k": "", "e": "", "i": ""}, "CHAT": {"s": "CHAT", "k": "", "e": "", "i": ""}, "NANO": {"s": "NANO", "k": "", "e": "", "i": ""}, "VIA": {"s": "VIA", "k": "", "e": "", "i": ""}, "BLZ": {"s": "BLZ", "k": "", "e": "", "i": ""}, "AE": {"s": "AE", "k": "", "e": "", "i": ""}, "RPX": {"s": "RPX", "k": "", "e": "", "i": ""}, "NCASH": {"s": "NCASH", "k": "", "e": "", "i": ""}, "POA": {"s": "POA", "k": "", "e": "", "i": ""}, "STORM": {"s": "STORM", "k": "", "e": "", "i": ""}, "WAN": {"s": "WAN", "k": "", "e": "", "i": ""}, "WPR": {"s": "WPR", "k": "", "e": "", "i": ""}, "QLC": {"s": "QLC", "k": "", "e": "", "i": ""}, "SYS": {"s": "SYS", "k": "", "e": "", "i": ""}, "CLOAK": {"s": "CLOAK", "k": "", "e": "", "i": ""}, "GNT": {"s": "GNT", "k": "", "e": "", "i": ""}, "BCN": {"s": "BCN", "k": "", "e": "", "i": ""}, "ZEN": {"s": "ZEN", "k": "", "e": "", "i": ""}, "SKY": {"s": "SKY", "k": "", "e": "", "i": ""}, "AGI": {"s": "AGI", "k": "", "e": "", "i": ""}, "NXS": {"s": "NXS", "k": "", "e": "", "i": ""}, "DATA": {"s": "DATA", "k": "", "e": "", "i": ""}, "NPXS": {"s": "NPXS", "k": "", "e": "", "i": ""}, "KEY": {"s": "KEY", "k": "", "e": "", "i": ""}, "NAS": {"s": "NAS", "k": "", "e": "", "i": ""}, "HOT": {"s": "HOT", "k": "", "e": "", "i": ""}, "DOCK": {"s": "DOCK", "k": "", "e": "", "i": ""}, "PHX": {"s": "PHX", "k": "", "e": "", "i": ""}, "HC": {"s": "HC", "k": "", "e": "", "i": ""}, "PAX": {"s": "PAX", "k": "", "e": "", "i": ""}, "DCR": {"s": "DCR", "k": "", "e": "", "i": ""}, "MITH": {"s": "MITH", "k": "", "e": "", "i": ""}, "BCHABC": {"s": "BCHABC", "k": "", "e": "", "i": ""}, "BCHSV": {"s": "BCHSV", "k": "", "e": "", "i": ""}, "USDC": {"s": "USDC", "k": "", "e": "", "i": ""}, "USDS": {"s": "USDS", "k": "", "e": "", "i": ""}, "FET": {"s": "FET", "k": "", "e": "", "i": ""}, "PHB": {"s": "PHB", "k": "", "e": "", "i": ""}, "ONE": {"s": "ONE", "k": "", "e": "", "i": ""}, "FTM": {"s": "FTM", "k": "", "e": "", "i": ""}, "BTCB": {"s": "BTCB", "k": "", "e": "", "i": ""}, "USDSB": {"s": "USDSB", "k": "", "e": "", "i": ""}, "ERD": {"s": "ERD", "k": "", "e": "", "i": ""}, "DUSK": {"s": "DUSK", "k": "", "e": "", "i": ""}, "WIN": {"s": "WIN", "k": "", "e": "", "i": ""}, "COCOS": {"s": "COCOS", "k": "", "e": "", "i": ""}, "TOMO": {"s": "TOMO", "k": "", "e": "", "i": ""}, "PERL": {"s": "PERL", "k": "", "e": "", "i": ""}, "BAND": {"s": "BAND", "k": "", "e": "", "i": ""}, "BUSD": {"s": "BUSD", "k": "", "e": "", "i": ""}, "BEAM": {"s": "BEAM", "k": "", "e": "", "i": ""}, "TROY": {"s": "TROY", "k": "", "e": "", "i": ""}, "VITE": {"s": "VITE", "k": "", "e": "", "i": ""}, "FTT": {"s": "FTT", "k": "", "e": "", "i": ""}, "EUR": {"s": "EUR", "k": "", "e": "", "i": ""}, "DREP": {"s": "DREP", "k": "", "e": "", "i": ""}, "TCT": {"s": "TCT", "k": "", "e": "", "i": ""}, "WRX": {"s": "WRX", "k": "", "e": "", "i": ""}, "LTO": {"s": "LTO", "k": "", "e": "", "i": ""}, "MDT": {"s": "MDT", "k": "", "e": "", "i": ""}, "PNT": {"s": "PNT", "k": "", "e": "", "i": ""}, "BKRW": {"s": "BKRW", "k": "", "e": "", "i": ""}, "VTHO": {"s": "VTHO", "k": "", "e": "", "i": ""}, "GBP": {"s": "GBP", "k": "", "e": "", "i": ""}, "IRIS": {"s": "IRIS", "k": "", "e": "", "i": ""}, "RUNE": {"s": "RUNE", "k": "", "e": "", "i": ""}, "FIO": {"s": "FIO", "k": "", "e": "", "i": ""}, "AVA": {"s": "AVA", "k": "", "e": "", "i": ""}, "AUD": {"s": "AUD", "k": "", "e": "", "i": ""}, "ANT": {"s": "ANT", "k": "", "e": "", "i": ""}, "LUNA": {"s": "LUNA", "k": "", "e": "", "i": ""}, "IDEX": {"s": "IDEX", "k": "", "e": "", "i": ""}, "PAXG": {"s": "PAXG", "k": "", "e": "", "i": ""}, "WNXM": {"s": "WNXM", "k": "", "e": "", "i": ""}, "TRB": {"s": "TRB", "k": "", "e": "", "i": ""}, "BZRX": {"s": "BZRX", "k": "", "e": "", "i": ""}, "WBTC": {"s": "WBTC", "k": "", "e": "", "i": ""}, "YFII": {"s": "YFII", "k": "", "e": "", "i": ""}, "DIA": {"s": "DIA", "k": "", "e": "", "i": ""}, "WING": {"s": "WING", "k": "", "e": "", "i": ""}, "NBS": {"s": "NBS", "k": "", "e": "", "i": ""}, "HNT": {"s": "HNT", "k": "", "e": "", "i": ""}, "FLM": {"s": "FLM", "k": "", "e": "", "i": ""}, "SCRT": {"s": "SCRT", "k": "", "e": "", "i": ""}, "ORN": {"s": "ORN", "k": "", "e": "", "i": ""}, "UTK": {"s": "UTK", "k": "", "e": "", "i": ""}, "ALPHA": {"s": "ALPHA", "k": "", "e": "", "i": ""}, "VIDT": {"s": "VIDT", "k": "", "e": "", "i": ""}, "BOT": {"s": "BOT", "k": "", "e": "", "i": ""}, "AKRO": {"s": "AKRO", "k": "", "e": "", "i": ""}, "HARD": {"s": "HARD", "k": "", "e": "", "i": ""}, "RENBTC": {"s": "RENBTC", "k": "", "e": "", "i": ""}, "UNFI": {"s": "UNFI", "k": "", "e": "", "i": ""}, "ROSE": {"s": "ROSE", "k": "", "e": "", "i": ""}, "SKL": {"s": "SKL", "k": "", "e": "", "i": ""}, "SUSD": {"s": "SUSD", "k": "", "e": "", "i": ""}, "REEF": {"s": "REEF", "k": "", "e": "", "i": ""}, "OG": {"s": "OG", "k": "", "e": "", "i": ""}, "ATM": {"s": "ATM", "k": "", "e": "", "i": ""}, "ASR": {"s": "ASR", "k": "", "e": "", "i": ""}, "RIF": {"s": "RIF", "k": "", "e": "", "i": ""}, "BTCST": {"s": "BTCST", "k": "", "e": "", "i": ""}, "TRU": {"s": "TRU", "k": "", "e": "", "i": ""}, "TWT": {"s": "TWT", "k": "", "e": "", "i": ""}, "FIRO": {"s": "FIRO", "k": "", "e": "", "i": ""}, "LIT": {"s": "LIT", "k": "", "e": "", "i": ""}, "SFP": {"s": "SFP", "k": "", "e": "", "i": ""}, "FXS": {"s": "FXS", "k": "", "e": "", "i": ""}, "DODO": {"s": "DODO", "k": "", "e": "", "i": ""}, "EASY": {"s": "EASY", "k": "", "e": "", "i": ""}, "ACM": {"s": "ACM", "k": "", "e": "", "i": ""}, "PHA": {"s": "PHA", "k": "", "e": "", "i": ""}, "TVK": {"s": "TVK", "k": "", "e": "", "i": ""}, "BADGER": {"s": "BADGER", "k": "", "e": "", "i": ""}, "FIS": {"s": "FIS", "k": "", "e": "", "i": ""}, "OM": {"s": "OM", "k": "", "e": "", "i": ""}, "POND": {"s": "POND", "k": "", "e": "", "i": ""}, "DEGO": {"s": "DEGO", "k": "", "e": "", "i": ""}, "PERP": {"s": "PERP", "k": "", "e": "", "i": ""}, "RAMP": {"s": "RAMP", "k": "", "e": "", "i": ""}, "SUPER": {"s": "SUPER", "k": "", "e": "", "i": ""}, "CFX": {"s": "CFX", "k": "", "e": "", "i": ""}, "EPS": {"s": "EPS", "k": "", "e": "", "i": ""}, "AUTO": {"s": "AUTO", "k": "", "e": "", "i": ""}, "TKO": {"s": "TKO", "k": "", "e": "", "i": ""}, "TLM": {"s": "TLM", "k": "", "e": "", "i": ""}, "MIR": {"s": "MIR", "k": "", "e": "", "i": ""}, "BAR": {"s": "BAR", "k": "", "e": "", "i": ""}, "FORTH": {"s": "FORTH", "k": "", "e": "", "i": ""}, "EZ": {"s": "EZ", "k": "", "e": "", "i": ""}, "BAKE": {"s": "BAKE", "k": "", "e": "", "i": ""}, "BURGER": {"s": "BURGER", "k": "", "e": "", "i": ""}, "SLP": {"s": "SLP", "k": "", "e": "", "i": ""}, "SHIB": {"s": "SHIB", "k": "", "e": "", "i": ""}, "ICP": {"s": "ICP", "k": "", "e": "", "i": ""}, "AR": {"s": "AR", "k": "", "e": "", "i": ""}, "POLS": {"s": "POLS", "k": "", "e": "", "i": ""}, "MDX": {"s": "MDX", "k": "", "e": "", "i": ""}, "AGIX": {"s": "AGIX", "k": "", "e": "", "i": ""}, "ATA": {"s": "ATA", "k": "", "e": "", "i": ""}, "TORN": {"s": "TORN", "k": "", "e": "", "i": ""}, "KEEP": {"s": "KEEP", "k": "", "e": "", "i": ""}, "ERN": {"s": "ERN", "k": "", "e": "", "i": ""}, "BOND": {"s": "BOND", "k": "", "e": "", "i": ""}, "MLN": {"s": "MLN", "k": "", "e": "", "i": ""}, "DEXE": {"s": "DEXE", "k": "", "e": "", "i": ""}, "QUICK": {"s": "QUICK", "k": "", "e": "", "i": ""}, "CLV": {"s": "CLV", "k": "", "e": "", "i": ""}, "QNT": {"s": "QNT", "k": "", "e": "", "i": ""}, "MINA": {"s": "MINA", "k": "", "e": "", "i": ""}, "FARM": {"s": "FARM", "k": "", "e": "", "i": ""}, "ALPACA": {"s": "ALPACA", "k": "", "e": "", "i": ""}, "MBOX": {"s": "MBOX", "k": "", "e": "", "i": ""}, "VGX": {"s": "VGX", "k": "", "e": "", "i": ""}, "GHST": {"s": "GHST", "k": "", "e": "", "i": ""}, "TRIBE": {"s": "TRIBE", "k": "", "e": "", "i": ""}, "GNO": {"s": "GNO", "k": "", "e": "", "i": ""}, "DYDX": {"s": "DYDX", "k": "", "e": "", "i": ""}, "ILV": {"s": "ILV", "k": "", "e": "", "i": ""}, "DF": {"s": "DF", "k": "", "e": "", "i": ""}, "FIDA": {"s": "FIDA", "k": "", "e": "", "i": ""}, "CVP": {"s": "CVP", "k": "", "e": "", "i": ""}, "BETA": {"s": "BETA", "k": "", "e": "", "i": ""}, "RARE": {"s": "RARE", "k": "", "e": "", "i": ""}, "SSV": {"s": "SSV", "k": "", "e": "", "i": ""}, "LAZIO": {"s": "LAZIO", "k": "", "e": "", "i": ""}, "CHESS": {"s": "CHESS", "k": "", "e": "", "i": ""}, "DAR": {"s": "DAR", "k": "", "e": "", "i": ""}, "BNX": {"s": "BNX", "k": "", "e": "", "i": ""}, "RGT": {"s": "RGT", "k": "", "e": "", "i": ""}, "MOVR": {"s": "MOVR", "k": "", "e": "", "i": ""}, "CITY": {"s": "CITY", "k": "", "e": "", "i": ""}, "KP3R": {"s": "KP3R", "k": "", "e": "", "i": ""}, "QI": {"s": "QI", "k": "", "e": "", "i": ""}, "PORTO": {"s": "PORTO", "k": "", "e": "", "i": ""}, "AMP": {"s": "AMP", "k": "", "e": "", "i": ""}, "PYR": {"s": "PYR", "k": "", "e": "", "i": ""}, "ALCX": {"s": "ALCX", "k": "", "e": "", "i": ""}, "SANTOS": {"s": "SANTOS", "k": "", "e": "", "i": ""}, "MC": {"s": "MC", "k": "", "e": "", "i": ""}, "ANY": {"s": "ANY", "k": "", "e": "", "i": ""}, "BICO": {"s": "BICO", "k": "", "e": "", "i": ""}, "FLUX": {"s": "FLUX", "k": "", "e": "", "i": ""}, "VOXEL": {"s": "VOXEL", "k": "", "e": "", "i": ""}, "HIGH": {"s": "HIGH", "k": "", "e": "", "i": ""}, "CVX": {"s": "CVX", "k": "", "e": "", "i": ""}, "PEOPLE": {"s": "PEOPLE", "k": "", "e": "", "i": ""}, "OOKI": {"s": "OOKI", "k": "", "e": "", "i": ""}, "SPELL": {"s": "SPELL", "k": "", "e": "", "i": ""}, "UST": {"s": "UST", "k": "", "e": "", "i": ""}, "JOE": {"s": "JOE", "k": "", "e": "", "i": ""}, "GLMR": {"s": "GLMR", "k": "", "e": "", "i": ""}, "LOKA": {"s": "LOKA", "k": "", "e": "", "i": ""}, "BTTC": {"s": "BTTC", "k": "", "e": "", "i": ""}, "ACA": {"s": "ACA", "k": "", "e": "", "i": ""}, "ANC": {"s": "ANC", "k": "", "e": "", "i": ""}, "ALPINE": {"s": "ALPINE", "k": "", "e": "", "i": ""}, "ASTR": {"s": "ASTR", "k": "", "e": "", "i": ""}, "NBT": {"s": "NBT", "k": "", "e": "", "i": ""}, "KDA": {"s": "KDA", "k": "", "e": "", "i": ""}, "BSW": {"s": "BSW", "k": "", "e": "", "i": ""}, "BIFI": {"s": "BIFI", "k": "", "e": "", "i": ""}, "MULTI": {"s": "MULTI", "k": "", "e": "", "i": ""}, "MOB": {"s": "MOB", "k": "", "e": "", "i": ""}, "NEXO": {"s": "NEXO", "k": "", "e": "", "i": ""}, "GAL": {"s": "GAL", "k": "", "e": "", "i": ""}, "LDO": {"s": "LDO", "k": "", "e": "", "i": ""}, "EPX": {"s": "EPX", "k": "", "e": "", "i": ""}, "OP": {"s": "OP", "k": "", "e": "", "i": ""}, "LEVER": {"s": "LEVER", "k": "", "e": "", "i": ""}, "STG": {"s": "STG", "k": "", "e": "", "i": ""}, "LUNC": {"s": "LUNC", "k": "", "e": "", "i": ""}, "DEFI": {"s": "DEFI", "k": "", "e": "", "i": ""}, "BTCDOM": {"s": "BTCDOM", "k": "", "e": "", "i": ""}, "FOOTBALL": {"s": "FOOTBALL", "k": "", "e": "", "i": ""}, "LUNA2": {"s": "LUNA2", "k": "", "e": "", "i": ""}, "AAPL": {"s": "AAPL", "k": "", "e": "", "i": ""}, "ABNB": {"s": "ABNB", "k": "", "e": "", "i": ""}, "ACB": {"s": "ACB", "k": "", "e": "", "i": ""}, "ALEPH": {"s": "ALEPH", "k": "", "e": "", "i": ""}, "ALT": {"s": "ALT", "k": "", "e": "", "i": ""}, "AMC": {"s": "AMC", "k": "", "e": "", "i": ""}, "AMD": {"s": "AMD", "k": "", "e": "", "i": ""}, "AMPL": {"s": "AMPL", "k": "", "e": "", "i": ""}, "AMZN": {"s": "AMZN", "k": "", "e": "", "i": ""}, "APEAMC": {"s": "APEAMC", "k": "", "e": "", "i": ""}, "APHA": {"s": "APHA", "k": "", "e": "", "i": ""}, "ARKK": {"s": "ARKK", "k": "", "e": "", "i": ""}, "ASD": {"s": "ASD", "k": "", "e": "", "i": ""}, "ATLAS": {"s": "ATLAS", "k": "", "e": "", "i": ""}, "AURY": {"s": "AURY", "k": "", "e": "", "i": ""}, "BABA": {"s": "BABA", "k": "", "e": "", "i": ""}, "BAO": {"s": "BAO", "k": "", "e": "", "i": ""}, "BB": {"s": "BB", "k": "", "e": "", "i": ""}, "BILI": {"s": "BILI", "k": "", "e": "", "i": ""}, "BIT": {"s": "BIT", "k": "", "e": "", "i": ""}, "BITO": {"s": "BITO", "k": "", "e": "", "i": ""}, "BITW": {"s": "BITW", "k": "", "e": "", "i": ""}, "BLT": {"s": "BLT", "k": "", "e": "", "i": ""}, "BNTX": {"s": "BNTX", "k": "", "e": "", "i": ""}, "BRZ": {"s": "BRZ", "k": "", "e": "", "i": ""}, "BYND": {"s": "BYND", "k": "", "e": "", "i": ""}, "CAD": {"s": "CAD", "k": "", "e": "", "i": ""}, "CEL": {"s": "CEL", "k": "", "e": "", "i": ""}, "CGC": {"s": "CGC", "k": "", "e": "", "i": ""}, "COIN": {"s": "COIN", "k": "", "e": "", "i": ""}, "CONV": {"s": "CONV", "k": "", "e": "", "i": ""}, "COPE": {"s": "COPE", "k": "", "e": "", "i": ""}, "CQT": {"s": "CQT", "k": "", "e": "", "i": ""}, "CREAM": {"s": "CREAM", "k": "", "e": "", "i": ""}, "CRON": {"s": "CRON", "k": "", "e": "", "i": ""}, "CTX": {"s": "CTX", "k": "", "e": "", "i": ""}, "CUSDT": {"s": "CUSDT", "k": "", "e": "", "i": ""}, "DFL": {"s": "DFL", "k": "", "e": "", "i": ""}, "DKNG": {"s": "DKNG", "k": "", "e": "", "i": ""}, "DMG": {"s": "DMG", "k": "", "e": "", "i": ""}, "DRGN": {"s": "DRGN", "k": "", "e": "", "i": ""}, "EDEN": {"s": "EDEN", "k": "", "e": "", "i": ""}, "EMB": {"s": "EMB", "k": "", "e": "", "i": ""}, "ETHE": {"s": "ETHE", "k": "", "e": "", "i": ""}, "EURT": {"s": "EURT", "k": "", "e": "", "i": ""}, "EXCH": {"s": "EXCH", "k": "", "e": "", "i": ""}, "FB": {"s": "FB", "k": "", "e": "", "i": ""}, "GALFAN": {"s": "GALFAN", "k": "", "e": "", "i": ""}, "GARI": {"s": "GARI", "k": "", "e": "", "i": ""}, "GBTC": {"s": "GBTC", "k": "", "e": "", "i": ""}, "GDX": {"s": "GDX", "k": "", "e": "", "i": ""}, "GDXJ": {"s": "GDXJ", "k": "", "e": "", "i": ""}, "GENE": {"s": "GENE", "k": "", "e": "", "i": ""}, "GLD": {"s": "GLD", "k": "", "e": "", "i": ""}, "GLXY": {"s": "GLXY", "k": "", "e": "", "i": ""}, "GME": {"s": "GME", "k": "", "e": "", "i": ""}, "GODS": {"s": "GODS", "k": "", "e": "", "i": ""}, "GOG": {"s": "GOG", "k": "", "e": "", "i": ""}, "GOOGL": {"s": "GOOGL", "k": "", "e": "", "i": ""}, "GST": {"s": "GST", "k": "", "e": "", "i": ""}, "GT": {"s": "GT", "k": "", "e": "", "i": ""}, "HGET": {"s": "HGET", "k": "", "e": "", "i": ""}, "HMT": {"s": "HMT", "k": "", "e": "", "i": ""}, "HOLY": {"s": "HOLY", "k": "", "e": "", "i": ""}, "HOOD": {"s": "HOOD", "k": "", "e": "", "i": ""}, "HT": {"s": "HT", "k": "", "e": "", "i": ""}, "HXRO": {"s": "HXRO", "k": "", "e": "", "i": ""}, "INDI": {"s": "INDI", "k": "", "e": "", "i": ""}, "INTER": {"s": "INTER", "k": "", "e": "", "i": ""}, "IP3": {"s": "IP3", "k": "", "e": "", "i": ""}, "JET": {"s": "JET", "k": "", "e": "", "i": ""}, "KBTT": {"s": "KBTT", "k": "", "e": "", "i": ""}, "KIN": {"s": "KIN", "k": "", "e": "", "i": ""}, "KLUNC": {"s": "KLUNC", "k": "", "e": "", "i": ""}, "KSHIB": {"s": "KSHIB", "k": "", "e": "", "i": ""}, "KSOS": {"s": "KSOS", "k": "", "e": "", "i": ""}, "LEO": {"s": "LEO", "k": "", "e": "", "i": ""}, "LOOKS": {"s": "LOOKS", "k": "", "e": "", "i": ""}, "LUA": {"s": "LUA", "k": "", "e": "", "i": ""}, "MAPS": {"s": "MAPS", "k": "", "e": "", "i": ""}, "MATH": {"s": "MATH", "k": "", "e": "", "i": ""}, "MBS": {"s": "MBS", "k": "", "e": "", "i": ""}, "MCB": {"s": "MCB", "k": "", "e": "", "i": ""}, "MEDIA": {"s": "MEDIA", "k": "", "e": "", "i": ""}, "MER": {"s": "MER", "k": "", "e": "", "i": ""}, "MID": {"s": "MID", "k": "", "e": "", "i": ""}, "MNGO": {"s": "MNGO", "k": "", "e": "", "i": ""}, "MRNA": {"s": "MRNA", "k": "", "e": "", "i": ""}, "MSOL": {"s": "MSOL", "k": "", "e": "", "i": ""}, "MSTR": {"s": "MSTR", "k": "", "e": "", "i": ""}, "MTA": {"s": "MTA", "k": "", "e": "", "i": ""}, "MVDA10": {"s": "MVDA10", "k": "", "e": "", "i": ""}, "MVDA25": {"s": "MVDA25", "k": "", "e": "", "i": ""}, "NFLX": {"s": "NFLX", "k": "", "e": "", "i": ""}, "NIO": {"s": "NIO", "k": "", "e": "", "i": ""}, "NOK": {"s": "NOK", "k": "", "e": "", "i": ""}, "NVDA": {"s": "NVDA", "k": "", "e": "", "i": ""}, "OKB": {"s": "OKB", "k": "", "e": "", "i": ""}, "ORCA": {"s": "ORCA", "k": "", "e": "", "i": ""}, "OXY": {"s": "OXY", "k": "", "e": "", "i": ""}, "PENN": {"s": "PENN", "k": "", "e": "", "i": ""}, "PFE": {"s": "PFE", "k": "", "e": "", "i": ""}, "POLIS": {"s": "POLIS", "k": "", "e": "", "i": ""}, "PORT": {"s": "PORT", "k": "", "e": "", "i": ""}, "PRISM": {"s": "PRISM", "k": "", "e": "", "i": ""}, "PRIV": {"s": "PRIV", "k": "", "e": "", "i": ""}, "PSY": {"s": "PSY", "k": "", "e": "", "i": ""}, "PTU": {"s": "PTU", "k": "", "e": "", "i": ""}, "PYPL": {"s": "PYPL", "k": "", "e": "", "i": ""}, "REAL": {"s": "REAL", "k": "", "e": "", "i": ""}, "RON": {"s": "RON", "k": "", "e": "", "i": ""}, "ROOK": {"s": "ROOK", "k": "", "e": "", "i": ""}, "SECO": {"s": "SECO", "k": "", "e": "", "i": ""}, "SLND": {"s": "SLND", "k": "", "e": "", "i": ""}, "SLRS": {"s": "SLRS", "k": "", "e": "", "i": ""}, "SLV": {"s": "SLV", "k": "", "e": "", "i": ""}, "SNY": {"s": "SNY", "k": "", "e": "", "i": ""}, "SOS": {"s": "SOS", "k": "", "e": "", "i": ""}, "SPA": {"s": "SPA", "k": "", "e": "", "i": ""}, "SPY": {"s": "SPY", "k": "", "e": "", "i": ""}, "SQ": {"s": "SQ", "k": "", "e": "", "i": ""}, "STARS": {"s": "STARS", "k": "", "e": "", "i": ""}, "STEP": {"s": "STEP", "k": "", "e": "", "i": ""}, "STETH": {"s": "STETH", "k": "", "e": "", "i": ""}, "STSOL": {"s": "STSOL", "k": "", "e": "", "i": ""}, "TLRY": {"s": "TLRY", "k": "", "e": "", "i": ""}, "TONCOIN": {"s": "TONCOIN", "k": "", "e": "", "i": ""}, "TRYB": {"s": "TRYB", "k": "", "e": "", "i": ""}, "TSLA": {"s": "TSLA", "k": "", "e": "", "i": ""}, "TSM": {"s": "TSM", "k": "", "e": "", "i": ""}, "TULIP": {"s": "TULIP", "k": "", "e": "", "i": ""}, "TWTR": {"s": "TWTR", "k": "", "e": "", "i": ""}, "UBER": {"s": "UBER", "k": "", "e": "", "i": ""}, "UBXT": {"s": "UBXT", "k": "", "e": "", "i": ""}, "UMEE": {"s": "UMEE", "k": "", "e": "", "i": ""}, "UNISWAP": {"s": "UNISWAP", "k": "", "e": "", "i": ""}, "USDT": {"s": "USDT", "k": "", "e": "", "i": ""}, "USO": {"s": "USO", "k": "", "e": "", "i": ""}, "USTC": {"s": "USTC", "k": "", "e": "", "i": ""}, "WFLOW": {"s": "WFLOW", "k": "", "e": "", "i": ""}, "WNDR": {"s": "WNDR", "k": "", "e": "", "i": ""}, "XAUT": {"s": "XAUT", "k": "", "e": "", "i": ""}, "ZM": {"s": "ZM", "k": "", "e": "", "i": ""}, "BVOL": {"s": "BVOL", "k": "", "e": "", "i": ""}, "IBVOL": {"s": "IBVOL", "k": "", "e": "", "i": ""}}
+{
+  "BTC": {
+    "s": "BTC",
+    "k": "비트코인",
+    "e": "Bitcoin",
+    "i": "https://static.upbit.com/logos/BTC.png"
+  },
+  "ETH": {
+    "s": "ETH",
+    "k": "이더리움",
+    "e": "Ethereum",
+    "i": "https://static.upbit.com/logos/ETH.png"
+  },
+  "XRP": {
+    "s": "XRP",
+    "k": "리플",
+    "e": "Ripple",
+    "i": "https://static.upbit.com/logos/XRP.png"
+  },
+  "ETC": {
+    "s": "ETC",
+    "k": "이더리움클래식",
+    "e": "Ethereum Classic",
+    "i": "https://static.upbit.com/logos/ETC.png"
+  },
+  "OMG": {
+    "s": "OMG",
+    "k": "오미세고",
+    "e": "OmiseGo",
+    "i": "https://static.upbit.com/logos/OMG.png"
+  },
+  "CVC": {
+    "s": "CVC",
+    "k": "시빅",
+    "e": "Civic",
+    "i": "https://static.upbit.com/logos/CVC.png"
+  },
+  "DGB": {
+    "s": "DGB",
+    "k": "디지바이트",
+    "e": "DigiByte",
+    "i": "https://static.upbit.com/logos/DGB.png"
+  },
+  "SC": {
+    "s": "SC",
+    "k": "시아코인",
+    "e": "Siacoin",
+    "i": "https://static.upbit.com/logos/SC.png"
+  },
+  "SNT": {
+    "s": "SNT",
+    "k": "스테이터스네트워크토큰",
+    "e": "Status Network Token",
+    "i": "https://static.upbit.com/logos/SNT.png"
+  },
+  "WAVES": {
+    "s": "WAVES",
+    "k": "웨이브",
+    "e": "Waves",
+    "i": "https://static.upbit.com/logos/WAVES.png"
+  },
+  "NMR": {
+    "s": "NMR",
+    "k": "뉴메레르",
+    "e": "Numeraire",
+    "i": "https://static.upbit.com/logos/NMR.png"
+  },
+  "XEM": {
+    "s": "XEM",
+    "k": "넴",
+    "e": "NEM",
+    "i": "https://static.upbit.com/logos/XEM.png"
+  },
+  "QTUM": {
+    "s": "QTUM",
+    "k": "퀀텀",
+    "e": "Qtum",
+    "i": "https://static.upbit.com/logos/QTUM.png"
+  },
+  "BAT": {
+    "s": "BAT",
+    "k": "베이직어텐션토큰",
+    "e": "Basic Attention Token",
+    "i": "https://static.upbit.com/logos/BAT.png"
+  },
+  "LSK": {
+    "s": "LSK",
+    "k": "리스크",
+    "e": "Lisk",
+    "i": "https://static.upbit.com/logos/LSK.png"
+  },
+  "STEEM": {
+    "s": "STEEM",
+    "k": "스팀",
+    "e": "Steem",
+    "i": "https://static.upbit.com/logos/STEEM.png"
+  },
+  "DOGE": {
+    "s": "DOGE",
+    "k": "도지코인",
+    "e": "Dogecoin",
+    "i": "https://static.upbit.com/logos/DOGE.png"
+  },
+  "BNT": {
+    "s": "BNT",
+    "k": "뱅코르",
+    "e": "Bancor",
+    "i": "https://static.upbit.com/logos/BNT.png"
+  },
+  "XLM": {
+    "s": "XLM",
+    "k": "스텔라루멘",
+    "e": "Lumen",
+    "i": "https://static.upbit.com/logos/XLM.png"
+  },
+  "ARDR": {
+    "s": "ARDR",
+    "k": "아더",
+    "e": "Ardor",
+    "i": "https://static.upbit.com/logos/ARDR.png"
+  },
+  "ARK": {
+    "s": "ARK",
+    "k": "아크",
+    "e": "Ark",
+    "i": "https://static.upbit.com/logos/ARK.png"
+  },
+  "STORJ": {
+    "s": "STORJ",
+    "k": "스토리지",
+    "e": "Storj",
+    "i": "https://static.upbit.com/logos/STORJ.png"
+  },
+  "GRS": {
+    "s": "GRS",
+    "k": "그로스톨코인",
+    "e": "Groestlcoin",
+    "i": "https://static.upbit.com/logos/GRS.png"
+  },
+  "REP": {
+    "s": "REP",
+    "k": "어거",
+    "e": "Augur",
+    "i": "https://static.upbit.com/logos/REP.png"
+  },
+  "RLC": {
+    "s": "RLC",
+    "k": "아이젝",
+    "e": "iEx.ec",
+    "i": "https://static.upbit.com/logos/RLC.png"
+  },
+  "NEO": {
+    "s": "NEO",
+    "k": "네오",
+    "e": "NEO",
+    "i": "https://static.upbit.com/logos/NEO.png"
+  },
+  "MTL": {
+    "s": "MTL",
+    "k": "메탈",
+    "e": "Metal",
+    "i": "https://static.upbit.com/logos/MTL.png"
+  },
+  "ADA": {
+    "s": "ADA",
+    "k": "에이다",
+    "e": "Ada",
+    "i": "https://static.upbit.com/logos/ADA.png"
+  },
+  "MANA": {
+    "s": "MANA",
+    "k": "디센트럴랜드",
+    "e": "Decentraland",
+    "i": "https://static.upbit.com/logos/MANA.png"
+  },
+  "SBD": {
+    "s": "SBD",
+    "k": "스팀달러",
+    "e": "SteemDollars",
+    "i": "https://static.upbit.com/logos/SBD.png"
+  },
+  "POWR": {
+    "s": "POWR",
+    "k": "파워렛저",
+    "e": "Power ledger",
+    "i": "https://static.upbit.com/logos/POWR.png"
+  },
+  "BTG": {
+    "s": "BTG",
+    "k": "비트코인골드",
+    "e": "Bitcoin Gold",
+    "i": "https://static.upbit.com/logos/BTG.png"
+  },
+  "DNT": {
+    "s": "DNT",
+    "k": "디스트릭트0x",
+    "e": "district0x",
+    "i": "https://static.upbit.com/logos/DNT.png"
+  },
+  "ZRX": {
+    "s": "ZRX",
+    "k": "제로엑스",
+    "e": "0x Protocol",
+    "i": "https://static.upbit.com/logos/ZRX.png"
+  },
+  "TRX": {
+    "s": "TRX",
+    "k": "트론",
+    "e": "TRON",
+    "i": "https://static.upbit.com/logos/TRX.png"
+  },
+  "TUSD": {
+    "s": "TUSD",
+    "k": "트루USD",
+    "e": "TrueUSD",
+    "i": "https://static.upbit.com/logos/TUSD.png"
+  },
+  "LRC": {
+    "s": "LRC",
+    "k": "루프링",
+    "e": "Loopring",
+    "i": "https://static.upbit.com/logos/LRC.png"
+  },
+  "ICX": {
+    "s": "ICX",
+    "k": "아이콘",
+    "e": "Icon",
+    "i": "https://static.upbit.com/logos/ICX.png"
+  },
+  "EOS": {
+    "s": "EOS",
+    "k": "이오스",
+    "e": "EOS",
+    "i": "https://static.upbit.com/logos/EOS.png"
+  },
+  "POLY": {
+    "s": "POLY",
+    "k": "폴리매쓰",
+    "e": "Polymath",
+    "i": "https://static.upbit.com/logos/POLY.png"
+  },
+  "ONT": {
+    "s": "ONT",
+    "k": "온톨로지",
+    "e": "Ontology",
+    "i": "https://static.upbit.com/logos/ONT.png"
+  },
+  "ZIL": {
+    "s": "ZIL",
+    "k": "질리카",
+    "e": "Zilliqa",
+    "i": "https://static.upbit.com/logos/ZIL.png"
+  },
+  "LOOM": {
+    "s": "LOOM",
+    "k": "룸네트워크",
+    "e": "Loom Network",
+    "i": "https://static.upbit.com/logos/LOOM.png"
+  },
+  "BCH": {
+    "s": "BCH",
+    "k": "비트코인캐시",
+    "e": "Bitcoin Cash",
+    "i": "https://static.upbit.com/logos/BCH.png"
+  },
+  "MFT": {
+    "s": "MFT",
+    "k": "메인프레임",
+    "e": "Mainframe",
+    "i": "https://static.upbit.com/logos/MFT.png"
+  },
+  "IOST": {
+    "s": "IOST",
+    "k": "아이오에스티",
+    "e": "IOST",
+    "i": "https://static.upbit.com/logos/IOST.png"
+  },
+  "RFR": {
+    "s": "RFR",
+    "k": "리퍼리움",
+    "e": "Refereum",
+    "i": "https://static.upbit.com/logos/RFR.png"
+  },
+  "IQ": {
+    "s": "IQ",
+    "k": "에브리피디아",
+    "e": "Everipedia",
+    "i": "https://static.upbit.com/logos/IQ.png"
+  },
+  "IOTA": {
+    "s": "IOTA",
+    "k": "아이오타",
+    "e": "IOTA",
+    "i": "https://static.upbit.com/logos/IOTA.png"
+  },
+  "RVN": {
+    "s": "RVN",
+    "k": "레이븐코인",
+    "e": "Ravencoin",
+    "i": "https://static.upbit.com/logos/RVN.png"
+  },
+  "GO": {
+    "s": "GO",
+    "k": "고체인",
+    "e": "GoChain",
+    "i": "https://static.upbit.com/logos/GO.png"
+  },
+  "UPP": {
+    "s": "UPP",
+    "k": "센티넬프로토콜",
+    "e": "Sentinel Protocol",
+    "i": "https://static.upbit.com/logos/UPP.png"
+  },
+  "ENJ": {
+    "s": "ENJ",
+    "k": "엔진코인",
+    "e": "Enjin",
+    "i": "https://static.upbit.com/logos/ENJ.png"
+  },
+  "ONG": {
+    "s": "ONG",
+    "k": "온톨로지가스",
+    "e": "ONG",
+    "i": "https://static.upbit.com/logos/ONG.png"
+  },
+  "GAS": {
+    "s": "GAS",
+    "k": "가스",
+    "e": "GAS",
+    "i": "https://static.upbit.com/logos/GAS.png"
+  },
+  "ELF": {
+    "s": "ELF",
+    "k": "엘프",
+    "e": "aelf",
+    "i": "https://static.upbit.com/logos/ELF.png"
+  },
+  "KNC": {
+    "s": "KNC",
+    "k": "카이버네트워크",
+    "e": "Kyber Network",
+    "i": "https://static.upbit.com/logos/KNC.png"
+  },
+  "MOC": {
+    "s": "MOC",
+    "k": "모스코인",
+    "e": "Moss Coin",
+    "i": "https://static.upbit.com/logos/MOC.png"
+  },
+  "BSV": {
+    "s": "BSV",
+    "k": "비트코인에스브이",
+    "e": "Bitcoin SV",
+    "i": "https://static.upbit.com/logos/BSV.png"
+  },
+  "THETA": {
+    "s": "THETA",
+    "k": "쎄타토큰",
+    "e": "Theta Token",
+    "i": "https://static.upbit.com/logos/THETA.png"
+  },
+  "DENT": {
+    "s": "DENT",
+    "k": "덴트",
+    "e": "Dent",
+    "i": "https://static.upbit.com/logos/DENT.png"
+  },
+  "QKC": {
+    "s": "QKC",
+    "k": "쿼크체인",
+    "e": "QuarkChain",
+    "i": "https://static.upbit.com/logos/QKC.png"
+  },
+  "BTT": {
+    "s": "BTT",
+    "k": "비트토렌트",
+    "e": "BitTorrent",
+    "i": "https://static.upbit.com/logos/BTT.png"
+  },
+  "IOTX": {
+    "s": "IOTX",
+    "k": "아이오텍스",
+    "e": "IoTeX",
+    "i": "https://static.upbit.com/logos/IOTX.png"
+  },
+  "SOLVE": {
+    "s": "SOLVE",
+    "k": "솔브케어",
+    "e": "Solve.Care",
+    "i": "https://static.upbit.com/logos/SOLVE.png"
+  },
+  "NKN": {
+    "s": "NKN",
+    "k": "엔케이엔",
+    "e": "NKN",
+    "i": "https://static.upbit.com/logos/NKN.png"
+  },
+  "META": {
+    "s": "META",
+    "k": "메타디움",
+    "e": "Metadium",
+    "i": "https://static.upbit.com/logos/META.png"
+  },
+  "ANKR": {
+    "s": "ANKR",
+    "k": "앵커",
+    "e": "Ankr",
+    "i": "https://static.upbit.com/logos/ANKR.png"
+  },
+  "CRO": {
+    "s": "CRO",
+    "k": "크로노스",
+    "e": "Cronos",
+    "i": "https://static.upbit.com/logos/CRO.png"
+  },
+  "TFUEL": {
+    "s": "TFUEL",
+    "k": "쎄타퓨엘",
+    "e": "Theta Fuel",
+    "i": "https://static.upbit.com/logos/TFUEL.png"
+  },
+  "ORBS": {
+    "s": "ORBS",
+    "k": "오브스",
+    "e": "Orbs",
+    "i": "https://static.upbit.com/logos/ORBS.png"
+  },
+  "AERGO": {
+    "s": "AERGO",
+    "k": "아르고",
+    "e": "Aergo",
+    "i": "https://static.upbit.com/logos/AERGO.png"
+  },
+  "ATOM": {
+    "s": "ATOM",
+    "k": "코스모스",
+    "e": "Cosmos",
+    "i": "https://static.upbit.com/logos/ATOM.png"
+  },
+  "TT": {
+    "s": "TT",
+    "k": "썬더코어",
+    "e": "ThunderCore",
+    "i": "https://static.upbit.com/logos/TT.png"
+  },
+  "CRE": {
+    "s": "CRE",
+    "k": "캐리프로토콜",
+    "e": "Carry Protocol",
+    "i": "https://static.upbit.com/logos/CRE.png"
+  },
+  "STPT": {
+    "s": "STPT",
+    "k": "에스티피",
+    "e": "Standard Tokenization Protocol",
+    "i": "https://static.upbit.com/logos/STPT.png"
+  },
+  "MBL": {
+    "s": "MBL",
+    "k": "무비블록",
+    "e": "MovieBloc",
+    "i": "https://static.upbit.com/logos/MBL.png"
+  },
+  "DAI": {
+    "s": "DAI",
+    "k": "다이",
+    "e": "Dai",
+    "i": "https://static.upbit.com/logos/DAI.png"
+  },
+  "MKR": {
+    "s": "MKR",
+    "k": "메이커",
+    "e": "Maker",
+    "i": "https://static.upbit.com/logos/MKR.png"
+  },
+  "BORA": {
+    "s": "BORA",
+    "k": "보라",
+    "e": "BORA",
+    "i": "https://static.upbit.com/logos/BORA.png"
+  },
+  "WAXP": {
+    "s": "WAXP",
+    "k": "왁스",
+    "e": "WAX",
+    "i": "https://static.upbit.com/logos/WAXP.png"
+  },
+  "HBAR": {
+    "s": "HBAR",
+    "k": "헤데라",
+    "e": "Hedera",
+    "i": "https://static.upbit.com/logos/HBAR.png"
+  },
+  "MED": {
+    "s": "MED",
+    "k": "메디블록",
+    "e": "MediBloc",
+    "i": "https://static.upbit.com/logos/MED.png"
+  },
+  "MLK": {
+    "s": "MLK",
+    "k": "밀크",
+    "e": "MiL.k",
+    "i": "https://static.upbit.com/logos/MLK.png"
+  },
+  "VET": {
+    "s": "VET",
+    "k": "비체인",
+    "e": "VeChain",
+    "i": "https://static.upbit.com/logos/VET.png"
+  },
+  "CHZ": {
+    "s": "CHZ",
+    "k": "칠리즈",
+    "e": "Chiliz",
+    "i": "https://static.upbit.com/logos/CHZ.png"
+  },
+  "FX": {
+    "s": "FX",
+    "k": "펑션엑스",
+    "e": "Function X",
+    "i": "https://static.upbit.com/logos/FX.png"
+  },
+  "OGN": {
+    "s": "OGN",
+    "k": "오리진프로토콜",
+    "e": "Origin Protocol",
+    "i": "https://static.upbit.com/logos/OGN.png"
+  },
+  "XTZ": {
+    "s": "XTZ",
+    "k": "테조스",
+    "e": "Tezos",
+    "i": "https://static.upbit.com/logos/XTZ.png"
+  },
+  "HIVE": {
+    "s": "HIVE",
+    "k": "하이브",
+    "e": "Hive",
+    "i": "https://static.upbit.com/logos/HIVE.png"
+  },
+  "HBD": {
+    "s": "HBD",
+    "k": "하이브달러",
+    "e": "Hive Dollar",
+    "i": "https://static.upbit.com/logos/HBD.png"
+  },
+  "OBSR": {
+    "s": "OBSR",
+    "k": "옵저버",
+    "e": "Observer",
+    "i": "https://static.upbit.com/logos/OBSR.png"
+  },
+  "DKA": {
+    "s": "DKA",
+    "k": "디카르고",
+    "e": "dKargo",
+    "i": "https://static.upbit.com/logos/DKA.png"
+  },
+  "STMX": {
+    "s": "STMX",
+    "k": "스톰엑스",
+    "e": "StormX",
+    "i": "https://static.upbit.com/logos/STMX.png"
+  },
+  "AHT": {
+    "s": "AHT",
+    "k": "아하토큰",
+    "e": "AhaToken",
+    "i": "https://static.upbit.com/logos/AHT.png"
+  },
+  "PCI": {
+    "s": "PCI",
+    "k": "페이코인",
+    "e": "PayCoin",
+    "i": "https://static.upbit.com/logos/PCI.png"
+  },
+  "LINK": {
+    "s": "LINK",
+    "k": "체인링크",
+    "e": "Chainlink",
+    "i": "https://static.upbit.com/logos/LINK.png"
+  },
+  "KAVA": {
+    "s": "KAVA",
+    "k": "카바",
+    "e": "Kava",
+    "i": "https://static.upbit.com/logos/KAVA.png"
+  },
+  "JST": {
+    "s": "JST",
+    "k": "저스트",
+    "e": "JUST",
+    "i": "https://static.upbit.com/logos/JST.png"
+  },
+  "CHR": {
+    "s": "CHR",
+    "k": "크로미아",
+    "e": "Chromia",
+    "i": "https://static.upbit.com/logos/CHR.png"
+  },
+  "DAD": {
+    "s": "DAD",
+    "k": "다드",
+    "e": "DAD",
+    "i": "https://static.upbit.com/logos/DAD.png"
+  },
+  "TON": {
+    "s": "TON",
+    "k": "톤",
+    "e": "TON",
+    "i": "https://static.upbit.com/logos/TON.png"
+  },
+  "CTSI": {
+    "s": "CTSI",
+    "k": "카르테시",
+    "e": "Cartesi",
+    "i": "https://static.upbit.com/logos/CTSI.png"
+  },
+  "DOT": {
+    "s": "DOT",
+    "k": "폴카닷",
+    "e": "Polkadot",
+    "i": "https://static.upbit.com/logos/DOT.png"
+  },
+  "COMP": {
+    "s": "COMP",
+    "k": "컴파운드",
+    "e": "Compound",
+    "i": "https://static.upbit.com/logos/COMP.png"
+  },
+  "SXP": {
+    "s": "SXP",
+    "k": "솔라",
+    "e": "SXP",
+    "i": "https://static.upbit.com/logos/SXP.png"
+  },
+  "HUNT": {
+    "s": "HUNT",
+    "k": "헌트",
+    "e": "HUNT",
+    "i": "https://static.upbit.com/logos/HUNT.png"
+  },
+  "ONIT": {
+    "s": "ONIT",
+    "k": "온버프",
+    "e": "ONBUFF",
+    "i": "https://static.upbit.com/logos/ONIT.png"
+  },
+  "CRV": {
+    "s": "CRV",
+    "k": "커브",
+    "e": "Curve",
+    "i": "https://static.upbit.com/logos/CRV.png"
+  },
+  "ALGO": {
+    "s": "ALGO",
+    "k": "알고랜드",
+    "e": "Algorand",
+    "i": "https://static.upbit.com/logos/ALGO.png"
+  },
+  "RSR": {
+    "s": "RSR",
+    "k": "리저브라이트",
+    "e": "Reserve Rights",
+    "i": "https://static.upbit.com/logos/RSR.png"
+  },
+  "OXT": {
+    "s": "OXT",
+    "k": "오키드",
+    "e": "Orchid",
+    "i": "https://static.upbit.com/logos/OXT.png"
+  },
+  "PLA": {
+    "s": "PLA",
+    "k": "플레이댑",
+    "e": "PlayDapp",
+    "i": "https://static.upbit.com/logos/PLA.png"
+  },
+  "MARO": {
+    "s": "MARO",
+    "k": "마로",
+    "e": "Maro",
+    "i": "https://static.upbit.com/logos/MARO.png"
+  },
+  "SAND": {
+    "s": "SAND",
+    "k": "샌드박스",
+    "e": "The Sandbox",
+    "i": "https://static.upbit.com/logos/SAND.png"
+  },
+  "SUN": {
+    "s": "SUN",
+    "k": "썬",
+    "e": "SUN",
+    "i": "https://static.upbit.com/logos/SUN.png"
+  },
+  "SRM": {
+    "s": "SRM",
+    "k": "세럼",
+    "e": "Serum",
+    "i": "https://static.upbit.com/logos/SRM.png"
+  },
+  "QTCON": {
+    "s": "QTCON",
+    "k": "퀴즈톡",
+    "e": "Quiztok",
+    "i": "https://static.upbit.com/logos/QTCON.png"
+  },
+  "MVL": {
+    "s": "MVL",
+    "k": "엠블",
+    "e": "MVL",
+    "i": "https://static.upbit.com/logos/MVL.png"
+  },
+  "REI": {
+    "s": "REI",
+    "k": "레이",
+    "e": "REI",
+    "i": "https://static.upbit.com/logos/REI.png"
+  },
+  "AQT": {
+    "s": "AQT",
+    "k": "알파쿼크",
+    "e": "Alpha Quark Token",
+    "i": "https://static.upbit.com/logos/AQT.png"
+  },
+  "AXS": {
+    "s": "AXS",
+    "k": "엑시인피니티",
+    "e": "Axie Infinity",
+    "i": "https://static.upbit.com/logos/AXS.png"
+  },
+  "STRAX": {
+    "s": "STRAX",
+    "k": "스트라티스",
+    "e": "Stratis",
+    "i": "https://static.upbit.com/logos/STRAX.png"
+  },
+  "GLM": {
+    "s": "GLM",
+    "k": "골렘",
+    "e": "Golem",
+    "i": "https://static.upbit.com/logos/GLM.png"
+  },
+  "FCT2": {
+    "s": "FCT2",
+    "k": "피르마체인",
+    "e": "FirmaChain",
+    "i": "https://static.upbit.com/logos/FCT2.png"
+  },
+  "SSX": {
+    "s": "SSX",
+    "k": "썸씽",
+    "e": "SOMESING",
+    "i": "https://static.upbit.com/logos/SSX.png"
+  },
+  "FIL": {
+    "s": "FIL",
+    "k": "파일코인",
+    "e": "Filecoin",
+    "i": "https://static.upbit.com/logos/FIL.png"
+  },
+  "UNI": {
+    "s": "UNI",
+    "k": "유니스왑",
+    "e": "Uniswap",
+    "i": "https://static.upbit.com/logos/UNI.png"
+  },
+  "BASIC": {
+    "s": "BASIC",
+    "k": "베이직",
+    "e": "Basic",
+    "i": "https://static.upbit.com/logos/BASIC.png"
+  },
+  "INJ": {
+    "s": "INJ",
+    "k": "인젝티브프로토콜",
+    "e": "Injective Protocol",
+    "i": "https://static.upbit.com/logos/INJ.png"
+  },
+  "PROM": {
+    "s": "PROM",
+    "k": "프롬",
+    "e": "Prom",
+    "i": "https://static.upbit.com/logos/PROM.png"
+  },
+  "VAL": {
+    "s": "VAL",
+    "k": "밸리디티",
+    "e": "Validity",
+    "i": "https://static.upbit.com/logos/VAL.png"
+  },
+  "PSG": {
+    "s": "PSG",
+    "k": "파리생제르맹",
+    "e": "Paris Saint-Germain Fan Token",
+    "i": "https://static.upbit.com/logos/PSG.png"
+  },
+  "JUV": {
+    "s": "JUV",
+    "k": "유벤투스",
+    "e": "Juventus Fan Token",
+    "i": "https://static.upbit.com/logos/JUV.png"
+  },
+  "CBK": {
+    "s": "CBK",
+    "k": "코박토큰",
+    "e": "Cobak Token",
+    "i": "https://static.upbit.com/logos/CBK.png"
+  },
+  "FOR": {
+    "s": "FOR",
+    "k": "포튜브",
+    "e": "ForTube",
+    "i": "https://static.upbit.com/logos/FOR.png"
+  },
+  "BFC": {
+    "s": "BFC",
+    "k": "바이프로스트",
+    "e": "Bifrost",
+    "i": "https://static.upbit.com/logos/BFC.png"
+  },
+  "LINA": {
+    "s": "LINA",
+    "k": "리니어파이낸스",
+    "e": "Linear",
+    "i": "https://static.upbit.com/logos/LINA.png"
+  },
+  "HUM": {
+    "s": "HUM",
+    "k": "휴먼스케이프",
+    "e": "Humanscape",
+    "i": "https://static.upbit.com/logos/HUM.png"
+  },
+  "CELO": {
+    "s": "CELO",
+    "k": "셀로",
+    "e": "Celo",
+    "i": "https://static.upbit.com/logos/CELO.png"
+  },
+  "STX": {
+    "s": "STX",
+    "k": "스택스",
+    "e": "Stacks",
+    "i": "https://static.upbit.com/logos/STX.png"
+  },
+  "NEAR": {
+    "s": "NEAR",
+    "k": "니어프로토콜",
+    "e": "NEAR Protocol",
+    "i": "https://static.upbit.com/logos/NEAR.png"
+  },
+  "AUCTION": {
+    "s": "AUCTION",
+    "k": "바운스토큰",
+    "e": "Bounce",
+    "i": "https://static.upbit.com/logos/AUCTION.png"
+  },
+  "DAWN": {
+    "s": "DAWN",
+    "k": "던프로토콜",
+    "e": "Dawn Protocol",
+    "i": "https://static.upbit.com/logos/DAWN.png"
+  },
+  "FLOW": {
+    "s": "FLOW",
+    "k": "플로우",
+    "e": "Flow",
+    "i": "https://static.upbit.com/logos/FLOW.png"
+  },
+  "STRK": {
+    "s": "STRK",
+    "k": "스트라이크",
+    "e": "Strike",
+    "i": "https://static.upbit.com/logos/STRK.png"
+  },
+  "PUNDIX": {
+    "s": "PUNDIX",
+    "k": "펀디엑스",
+    "e": "Pundi X",
+    "i": "https://static.upbit.com/logos/PUNDIX.png"
+  },
+  "GRT": {
+    "s": "GRT",
+    "k": "그래프",
+    "e": "The Graph",
+    "i": "https://static.upbit.com/logos/GRT.png"
+  },
+  "SNX": {
+    "s": "SNX",
+    "k": "신세틱스",
+    "e": "Synthetix",
+    "i": "https://static.upbit.com/logos/SNX.png"
+  },
+  "USDP": {
+    "s": "USDP",
+    "k": "팍스달러",
+    "e": "Pax Dollar",
+    "i": "https://static.upbit.com/logos/USDP.png"
+  },
+  "XEC": {
+    "s": "XEC",
+    "k": "이캐시",
+    "e": "eCash",
+    "i": "https://static.upbit.com/logos/XEC.png"
+  },
+  "SOL": {
+    "s": "SOL",
+    "k": "솔라나",
+    "e": "Solana",
+    "i": "https://static.upbit.com/logos/SOL.png"
+  },
+  "MATIC": {
+    "s": "MATIC",
+    "k": "폴리곤",
+    "e": "Polygon",
+    "i": "https://static.upbit.com/logos/MATIC.png"
+  },
+  "NU": {
+    "s": "NU",
+    "k": "누사이퍼",
+    "e": "Nucypher",
+    "i": "https://static.upbit.com/logos/NU.png"
+  },
+  "AAVE": {
+    "s": "AAVE",
+    "k": "에이브",
+    "e": "Aave",
+    "i": "https://static.upbit.com/logos/AAVE.png"
+  },
+  "1INCH": {
+    "s": "1INCH",
+    "k": "1인치네트워크",
+    "e": "1inch Network",
+    "i": "https://static.upbit.com/logos/1INCH.png"
+  },
+  "MASK": {
+    "s": "MASK",
+    "k": "마스크네트워크",
+    "e": "Mask Network",
+    "i": "https://static.upbit.com/logos/MASK.png"
+  },
+  "AUDIO": {
+    "s": "AUDIO",
+    "k": "오디우스",
+    "e": "Audius",
+    "i": "https://static.upbit.com/logos/AUDIO.png"
+  },
+  "YGG": {
+    "s": "YGG",
+    "k": "일드길드게임즈",
+    "e": "Yield Guild Games",
+    "i": "https://static.upbit.com/logos/YGG.png"
+  },
+  "GTC": {
+    "s": "GTC",
+    "k": "깃코인",
+    "e": "Gitcoin",
+    "i": "https://static.upbit.com/logos/GTC.png"
+  },
+  "OCEAN": {
+    "s": "OCEAN",
+    "k": "오션프로토콜",
+    "e": "Ocean Protocol",
+    "i": "https://static.upbit.com/logos/OCEAN.png"
+  },
+  "CTC": {
+    "s": "CTC",
+    "k": "크레딧코인",
+    "e": "Creditcoin",
+    "i": "https://static.upbit.com/logos/CTC.png"
+  },
+  "LPT": {
+    "s": "LPT",
+    "k": "라이브피어",
+    "e": "Livepeer",
+    "i": "https://static.upbit.com/logos/LPT.png"
+  },
+  "WEMIX": {
+    "s": "WEMIX",
+    "k": "위믹스",
+    "e": "Wemix",
+    "i": "https://static.upbit.com/logos/WEMIX.png"
+  },
+  "AVAX": {
+    "s": "AVAX",
+    "k": "아발란체",
+    "e": "Avalanche",
+    "i": "https://static.upbit.com/logos/AVAX.png"
+  },
+  "IMX": {
+    "s": "IMX",
+    "k": "이뮤터블엑스",
+    "e": "Immutable X",
+    "i": "https://static.upbit.com/logos/IMX.png"
+  },
+  "RNDR": {
+    "s": "RNDR",
+    "k": "렌더토큰",
+    "e": "Render Token",
+    "i": "https://static.upbit.com/logos/RNDR.png"
+  },
+  "RLY": {
+    "s": "RLY",
+    "k": "랠리",
+    "e": "Rally",
+    "i": "https://static.upbit.com/logos/RLY.png"
+  },
+  "T": {
+    "s": "T",
+    "k": "쓰레스홀드",
+    "e": "Threshold",
+    "i": "https://static.upbit.com/logos/T.png"
+  },
+  "RAD": {
+    "s": "RAD",
+    "k": "래디클",
+    "e": "Radicle",
+    "i": "https://static.upbit.com/logos/RAD.png"
+  },
+  "AGLD": {
+    "s": "AGLD",
+    "k": "어드벤처골드",
+    "e": "Adventure Gold",
+    "i": "https://static.upbit.com/logos/AGLD.png"
+  },
+  "API3": {
+    "s": "API3",
+    "k": "에이피아이쓰리",
+    "e": "API3",
+    "i": "https://static.upbit.com/logos/API3.png"
+  },
+  "ARPA": {
+    "s": "ARPA",
+    "k": "알파체인",
+    "e": "ARPA Chain",
+    "i": "https://static.upbit.com/logos/ARPA.png"
+  },
+  "ENS": {
+    "s": "ENS",
+    "k": "이더리움네임서비스",
+    "e": "Ethereum Name Service",
+    "i": "https://static.upbit.com/logos/ENS.png"
+  },
+  "GMT": {
+    "s": "GMT",
+    "k": "스테픈",
+    "e": "Stepn",
+    "i": "https://static.upbit.com/logos/GMT.png"
+  },
+  "APE": {
+    "s": "APE",
+    "k": "에이프코인",
+    "e": "ApeCoin",
+    "i": "https://static.upbit.com/logos/APE.png"
+  },
+  "RAY": {
+    "s": "RAY",
+    "k": "레이디움",
+    "e": "Raydium",
+    "i": "https://static.upbit.com/logos/RAY.png"
+  },
+  "CTXC": {
+    "s": "CTXC",
+    "k": "코르텍스",
+    "e": "코르텍스",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-eb304b16744a8ff8d6db34ffa60bc8a8.png"
+  },
+  "ATOLO": {
+    "s": "ATOLO",
+    "k": "라이즌",
+    "e": "라이즌",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-8bfdc52107f505cbe79e45749a7ace39.png"
+  },
+  "AMO": {
+    "s": "AMO",
+    "k": "아모코인",
+    "e": "아모코인",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-186a974849ab6494dc7b72de172d5365.png"
+  },
+  "VALOR": {
+    "s": "VALOR",
+    "k": "밸러토큰",
+    "e": "밸러토큰",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-a20550cf144d7e588f3257ed39a95db6.png"
+  },
+  "CON": {
+    "s": "CON",
+    "k": "코넌",
+    "e": "코넌",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-53ae9714fbfd6c730c0a698c5c412b82.png"
+  },
+  "MIX": {
+    "s": "MIX",
+    "k": "믹스마블",
+    "e": "믹스마블",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-c47ad3df475a6c89b4a162f268fb59c8.png"
+  },
+  "MXC": {
+    "s": "MXC",
+    "k": "머신익스체인지코인",
+    "e": "머신익스체인지코인",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-3029fc71b966466ff8e709793a1801aa.png"
+  },
+  "TRV": {
+    "s": "TRV",
+    "k": "트러스트버스",
+    "e": "트러스트버스",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-f9648b7041f59bd860053a20a688b790.png"
+  },
+  "WOM": {
+    "s": "WOM",
+    "k": "왐토큰",
+    "e": "왐토큰",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-2607b318b09d5781ccd8c2abc13d32d0.png"
+  },
+  "SOC": {
+    "s": "SOC",
+    "k": "소다코인",
+    "e": "소다코인",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-74ac33036393b875054d9edcdaecc8b6.png"
+  },
+  "BOA": {
+    "s": "BOA",
+    "k": "보아",
+    "e": "보아",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-f1be9b3e8e957a7a63e53019d867ad26.png"
+  },
+  "MEV": {
+    "s": "MEV",
+    "k": "미버스",
+    "e": "미버스",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-47a49e14761a439779cdd1c50f6afe5e.png"
+  },
+  "COS": {
+    "s": "COS",
+    "k": "콘텐토스",
+    "e": "콘텐토스",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-ef23ef1d426ae1a73a7eed399cef707d.png"
+  },
+  "EL": {
+    "s": "EL",
+    "k": "엘리시아",
+    "e": "엘리시아",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-d4e8bee50f2093fbced5daaf3c41980d.png"
+  },
+  "XPR": {
+    "s": "XPR",
+    "k": "프로톤",
+    "e": "프로톤",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-aeeb955be132e3c71180a02ba83b7090.png"
+  },
+  "VRA": {
+    "s": "VRA",
+    "k": "베라시티",
+    "e": "베라시티",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-6d58730f9f6a9fdcea222ac9dae42b3c.png"
+  },
+  "FIT": {
+    "s": "FIT",
+    "k": "300피트 네트워크",
+    "e": "300피트 네트워크",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-12197f0373bd373681e99d73fd509954.png"
+  },
+  "EGG": {
+    "s": "EGG",
+    "k": "네스트리",
+    "e": "네스트리",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-54433ea8a1f7d793404e093f92058989.png"
+  },
+  "APM": {
+    "s": "APM",
+    "k": "에이피엠 코인",
+    "e": "에이피엠 코인",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-4d5340b646d9723cdb3bdf42182658d0.png"
+  },
+  "CKB": {
+    "s": "CKB",
+    "k": "너보스",
+    "e": "너보스",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-89c719dd3ba5641823d51c058aff063f.png"
+  },
+  "ANW": {
+    "s": "ANW",
+    "k": "앵커뉴럴월드",
+    "e": "앵커뉴럴월드",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-28a0c7ff89574c709c61148c1eec4735.png"
+  },
+  "CENNZ": {
+    "s": "CENNZ",
+    "k": "센트럴리티",
+    "e": "센트럴리티",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-e9220b0ae5e06c22cdb000c7f251d3f2.png"
+  },
+  "EVZ": {
+    "s": "EVZ",
+    "k": "이브이지",
+    "e": "이브이지",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-5880888728c9f6333f88dee0c4d45801.png"
+  },
+  "CYCLUB": {
+    "s": "CYCLUB",
+    "k": "싸이클럽",
+    "e": "싸이클럽",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-c268a17012336fbdceca27dd0dddff4a.png"
+  },
+  "YFI": {
+    "s": "YFI",
+    "k": "연파이낸스",
+    "e": "연파이낸스",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-2e05101b56ecd926e468dad5801bd186.png"
+  },
+  "UMA": {
+    "s": "UMA",
+    "k": "우마",
+    "e": "우마",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-12b3a5d5936a5535462c3b4f2f76f10c.png"
+  },
+  "REN": {
+    "s": "REN",
+    "k": "렌",
+    "e": "렌",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-752e4d6a7e4e334e4771d6255b069462.png"
+  },
+  "BAL": {
+    "s": "BAL",
+    "k": "밸런서",
+    "e": "밸런서",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-6049a05f7a3b31a10d06a72bffce1bd3.png"
+  },
+  "UOS": {
+    "s": "UOS",
+    "k": "울트라",
+    "e": "울트라",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-f63b55086f4016150cf0fa7370b04639.png"
+  },
+  "GOM2": {
+    "s": "GOM2",
+    "k": "고머니2",
+    "e": "고머니2",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-f826c764e2e55f2be665a805bfd01a3a.png"
+  },
+  "BEL": {
+    "s": "BEL",
+    "k": "벨라프로토콜",
+    "e": "벨라프로토콜",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-6b3c549d3d068b03da16a480f8818703.png"
+  },
+  "ORC": {
+    "s": "ORC",
+    "k": "오르빗 체인",
+    "e": "오르빗 체인",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-6d8e87b2e81c11252ad12520596a0ee1.png"
+  },
+  "POLA": {
+    "s": "POLA",
+    "k": "폴라리스 쉐어",
+    "e": "폴라리스 쉐어",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-0a62a0ff2d12d5ced234a7e3705c15a0.png"
+  },
+  "AWO": {
+    "s": "AWO",
+    "k": "에이아이워크",
+    "e": "에이아이워크",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-79998fef6da0d739178cebe4257a1f56.png"
+  },
+  "ADP": {
+    "s": "ADP",
+    "k": "어댑터 토큰",
+    "e": "어댑터 토큰",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-a771a5a37055ebcd81f69ccb77ac9a9b.png"
+  },
+  "DVI": {
+    "s": "DVI",
+    "k": "디비전",
+    "e": "디비전",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-77971f7472e0778ca10ec1dd5f1cca78.png"
+  },
+  "GHX": {
+    "s": "GHX",
+    "k": "게이머코인",
+    "e": "게이머코인",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-6a7d73fd1c3861c56cb2ef247a746ca7.png"
+  },
+  "MVC": {
+    "s": "MVC",
+    "k": "마일벌스",
+    "e": "마일벌스",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-0b9221b0599697618c27449e89d9b07a.png"
+  },
+  "BLY": {
+    "s": "BLY",
+    "k": "블로서리",
+    "e": "블로서리",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-4ef9a4cf3c18044eb1675d8f1b791a14.png"
+  },
+  "WOZX": {
+    "s": "WOZX",
+    "k": "이포스",
+    "e": "이포스",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-605be29ac711ffe8c613d944726558a6.png"
+  },
+  "ANV": {
+    "s": "ANV",
+    "k": "애니버스",
+    "e": "애니버스",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-b1801e63010d8b94b2b1d6a36fbbca77.png"
+  },
+  "BIOT": {
+    "s": "BIOT",
+    "k": "바이오패스포트",
+    "e": "바이오패스포트",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-d97ac4f3e567821433dc1d20c9a1c131.png"
+  },
+  "XNO": {
+    "s": "XNO",
+    "k": "제노토큰",
+    "e": "제노토큰",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-ad2bf8350f58c0c5eb7ce268276da1a7.png"
+  },
+  "SOFI": {
+    "s": "SOFI",
+    "k": "라이파이낸스",
+    "e": "라이파이낸스",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-0d66d94d4bba4a4c0c0472d7a6402fd7.png"
+  },
+  "COLA": {
+    "s": "COLA",
+    "k": "콜라토큰",
+    "e": "콜라토큰",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-27ec3e6c599528ab8aef75b5c5d2a1f7.png"
+  },
+  "MAP": {
+    "s": "MAP",
+    "k": "맵프로토콜",
+    "e": "맵프로토콜",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-5af1a3a285c2bdee4192223e31e1f833.png"
+  },
+  "WIKEN": {
+    "s": "WIKEN",
+    "k": "위드",
+    "e": "위드",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-55e272e515596cfa93e9d1aca9c6ab49.png"
+  },
+  "SUSHI": {
+    "s": "SUSHI",
+    "k": "스시스왑",
+    "e": "스시스왑",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-cc4a309c62c87e23617d62645f15e0a4.png"
+  },
+  "ASM": {
+    "s": "ASM",
+    "k": "어셈블프로토콜",
+    "e": "어셈블프로토콜",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-7ccbb03cb795734415a0b6924a8d7aed.png"
+  },
+  "CELR": {
+    "s": "CELR",
+    "k": "셀러네트워크",
+    "e": "셀러네트워크",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-82c83f3de8aa7857cc55616dee1e26a2.png"
+  },
+  "ARW": {
+    "s": "ARW",
+    "k": "아로와나토큰",
+    "e": "아로와나토큰",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-f8ac4c336296f72f7267a231154dd694.png"
+  },
+  "FRONT": {
+    "s": "FRONT",
+    "k": "프론티어",
+    "e": "프론티어",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-bb2fe5c916efb43aab8cbb68f997d2ee.png"
+  },
+  "ALICE": {
+    "s": "ALICE",
+    "k": "마이네이버앨리스",
+    "e": "마이네이버앨리스",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-b6b818304a439f91fc90b3fe8dd35be8.png"
+  },
+  "COTI": {
+    "s": "COTI",
+    "k": "코티",
+    "e": "코티",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-16b310dc341d695566fb3c6c3a89b1fe.png"
+  },
+  "CAKE": {
+    "s": "CAKE",
+    "k": "팬케이크스왑",
+    "e": "팬케이크스왑",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-f791e215081d6dfc15b9a6eb525f5b29.png"
+  },
+  "XVS": {
+    "s": "XVS",
+    "k": "비너스",
+    "e": "비너스",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-c2226e87b9e5c0eb1f4ab925eab17cdd.png"
+  },
+  "SWAP": {
+    "s": "SWAP",
+    "k": "트러스트스왑",
+    "e": "트러스트스왑",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-46fc23bc4e4d57e5469a39658a6dd3e8.png"
+  },
+  "DAO": {
+    "s": "DAO",
+    "k": "다오메이커",
+    "e": "다오메이커",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-23e7356311264b6db05bbfc0ff41882f.png"
+  },
+  "SIX": {
+    "s": "SIX",
+    "k": "식스",
+    "e": "식스",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-48041ef8474caedcbcf2fe8996056b7f.png"
+  },
+  "WOO": {
+    "s": "WOO",
+    "k": "우네트워크",
+    "e": "우네트워크",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-7fa3ccfefdcb147cf99baca4185f15ce.png"
+  },
+  "ACH": {
+    "s": "ACH",
+    "k": "알케미페이",
+    "e": "알케미페이",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-fd1a6f579a8df27c0958e5f4b539448b.png"
+  },
+  "VELO": {
+    "s": "VELO",
+    "k": "벨로프로토콜",
+    "e": "벨로프로토콜",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-bd5deff9ef87193c5b58e60efac93644.png"
+  },
+  "WICC": {
+    "s": "WICC",
+    "k": "웨이키체인",
+    "e": "웨이키체인",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-6e15392c62c25c45cdf1787baeab4b39.png"
+  },
+  "KLAY": {
+    "s": "KLAY",
+    "k": "클레이튼",
+    "e": "클레이튼",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-27d96cbd90145df8eea03981210e8335.png"
+  },
+  "TEMCO": {
+    "s": "TEMCO",
+    "k": "템코",
+    "e": "템코",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-6212caa4db3b29372f33b45a4984e913.png"
+  },
+  "HIBS": {
+    "s": "HIBS",
+    "k": "힙스",
+    "e": "힙스",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-c12a725b1d58908582561758633817e0.png"
+  },
+  "KSM": {
+    "s": "KSM",
+    "k": "쿠사마",
+    "e": "쿠사마",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-08957ffa9822f02d57132b8c15b76ced.png"
+  },
+  "CTK": {
+    "s": "CTK",
+    "k": "셴투",
+    "e": "셴투",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-43cc3c59b957bc50048ba38c5fe4777b.png"
+  },
+  "XYM": {
+    "s": "XYM",
+    "k": "심볼",
+    "e": "심볼",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-970974b9c88274f93cbef5275f02b006.png"
+  },
+  "BNB": {
+    "s": "BNB",
+    "k": "바이낸스코인",
+    "e": "바이낸스코인",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-87243927c932713e00ea95a19985b447.png"
+  },
+  "NFT": {
+    "s": "NFT",
+    "k": "에이피이앤에프티",
+    "e": "에이피이앤에프티",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-a692c529f241845ae00b47284e09e76a.png"
+  },
+  "EGLD": {
+    "s": "EGLD",
+    "k": "엘론드",
+    "e": "엘론드",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-e303de4d868a149be8be00d3d0e4a391.png"
+  },
+  "DFA": {
+    "s": "DFA",
+    "k": "디파인",
+    "e": "디파인",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-65735ee8293869cac8bb4a8c30d86a92.png"
+  },
+  "C98": {
+    "s": "C98",
+    "k": "코인98",
+    "e": "코인98",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-8fdf5eb4d804bee1c3c181f95d491564.png"
+  },
+  "BOBA": {
+    "s": "BOBA",
+    "k": "보바토큰",
+    "e": "보바토큰",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-66036a736dd67b6de0a31bf44228ad41.png"
+  },
+  "GALA": {
+    "s": "GALA",
+    "k": "갈라",
+    "e": "갈라",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-867e8957fae1cb59f0808dbcc3aada27.png"
+  },
+  "EFI": {
+    "s": "EFI",
+    "k": "이피니티토큰",
+    "e": "이피니티토큰",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-6e2807816e9d2621b7e5dffff6c33711.png"
+  },
+  "JASMY": {
+    "s": "JASMY",
+    "k": "재스미코인",
+    "e": "재스미코인",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-a3526a5b5f23ae33036b3b211bac2460.png"
+  },
+  "TITAN": {
+    "s": "TITAN",
+    "k": "타이탄스왑",
+    "e": "타이탄스왑",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-8084428b194f0b50108f88a36ef2db74.png"
+  },
+  "REQ": {
+    "s": "REQ",
+    "k": "리퀘스트",
+    "e": "리퀘스트",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-ce4e1a7286ff585e08bf30898cf6b3eb.png"
+  },
+  "CSPR": {
+    "s": "CSPR",
+    "k": "캐스퍼",
+    "e": "캐스퍼",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-5c745c2cc22db6fb259e315bc979047b.png"
+  },
+  "TDROP": {
+    "s": "TDROP",
+    "k": "티드랍",
+    "e": "티드랍",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-ce57c17ece47e4e0fcdbdd9b0f10d75a.png"
+  },
+  "SPRT": {
+    "s": "SPRT",
+    "k": "스포티움",
+    "e": "스포티움",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-023174126b4f3fedf4af8dc60e332c22.png"
+  },
+  "NPT": {
+    "s": "NPT",
+    "k": "네오핀",
+    "e": "네오핀",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-2e86438e971de59fdacd9db11a83b0fc.png"
+  },
+  "MBX": {
+    "s": "MBX",
+    "k": "마브렉스",
+    "e": "마브렉스",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-a066c197b79da3dd3e3a0bcc20467a16.png"
+  },
+  "TAVA": {
+    "s": "TAVA",
+    "k": "알타바",
+    "e": "알타바",
+    "i": "https://content.bithumb.com/resources/img/coin/coin-52869b78b80f5c7905592f739acb24f5.png"
+  },
+  "LTC": {
+    "s": "LTC",
+    "k": "라이트코인",
+    "e": "Litecoin",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png"
+  },
+  "BCC": { "s": "BCC", "k": "", "e": "", "i": "" },
+  "HSR": { "s": "HSR", "k": "", "e": "", "i": "" },
+  "MCO": { "s": "MCO", "k": "", "e": "", "i": "" },
+  "WTC": { "s": "WTC", "k": "", "e": "", "i": "" },
+  "YOYO": { "s": "YOYO", "k": "", "e": "", "i": "" },
+  "STRAT": { "s": "STRAT", "k": "", "e": "", "i": "" },
+  "SNGLS": { "s": "SNGLS", "k": "", "e": "", "i": "" },
+  "BQX": { "s": "BQX", "k": "", "e": "", "i": "" },
+  "FUN": { "s": "FUN", "k": "", "e": "", "i": "" },
+  "SNM": { "s": "SNM", "k": "", "e": "", "i": "" },
+  "XVG": { "s": "XVG", "k": "", "e": "", "i": "" },
+  "SALT": { "s": "SALT", "k": "", "e": "", "i": "" },
+  "MDA": { "s": "MDA", "k": "", "e": "", "i": "" },
+  "SUB": { "s": "SUB", "k": "", "e": "", "i": "" },
+  "MTH": { "s": "MTH", "k": "", "e": "", "i": "" },
+  "ENG": { "s": "ENG", "k": "", "e": "", "i": "" },
+  "ZEC": { "s": "ZEC", "k": "", "e": "", "i": "" },
+  "AST": { "s": "AST", "k": "", "e": "", "i": "" },
+  "DASH": { "s": "DASH", "k": "", "e": "", "i": "" },
+  "OAX": { "s": "OAX", "k": "", "e": "", "i": "" },
+  "ICN": { "s": "ICN", "k": "", "e": "", "i": "" },
+  "EVX": { "s": "EVX", "k": "", "e": "", "i": "" },
+  "VIB": { "s": "VIB", "k": "", "e": "", "i": "" },
+  "MOD": { "s": "MOD", "k": "", "e": "", "i": "" },
+  "VEN": { "s": "VEN", "k": "", "e": "", "i": "" },
+  "KMD": { "s": "KMD", "k": "", "e": "", "i": "" },
+  "RCN": { "s": "RCN", "k": "", "e": "", "i": "" },
+  "NULS": { "s": "NULS", "k": "", "e": "", "i": "" },
+  "RDN": { "s": "RDN", "k": "", "e": "", "i": "" },
+  "XMR": { "s": "XMR", "k": "", "e": "", "i": "" },
+  "DLT": { "s": "DLT", "k": "", "e": "", "i": "" },
+  "AMB": { "s": "AMB", "k": "", "e": "", "i": "" },
+  "BCPT": { "s": "BCPT", "k": "", "e": "", "i": "" },
+  "ARN": { "s": "ARN", "k": "", "e": "", "i": "" },
+  "GVT": { "s": "GVT", "k": "", "e": "", "i": "" },
+  "CDT": { "s": "CDT", "k": "", "e": "", "i": "" },
+  "GXS": { "s": "GXS", "k": "", "e": "", "i": "" },
+  "POE": { "s": "POE", "k": "", "e": "", "i": "" },
+  "QSP": { "s": "QSP", "k": "", "e": "", "i": "" },
+  "BTS": { "s": "BTS", "k": "", "e": "", "i": "" },
+  "XZC": { "s": "XZC", "k": "", "e": "", "i": "" },
+  "TNT": { "s": "TNT", "k": "", "e": "", "i": "" },
+  "FUEL": { "s": "FUEL", "k": "", "e": "", "i": "" },
+  "BCD": { "s": "BCD", "k": "", "e": "", "i": "" },
+  "DGD": { "s": "DGD", "k": "", "e": "", "i": "" },
+  "ADX": { "s": "ADX", "k": "", "e": "", "i": "" },
+  "PPT": { "s": "PPT", "k": "", "e": "", "i": "" },
+  "CMT": { "s": "CMT", "k": "", "e": "", "i": "" },
+  "CND": { "s": "CND", "k": "", "e": "", "i": "" },
+  "LEND": { "s": "LEND", "k": "", "e": "", "i": "" },
+  "WABI": { "s": "WABI", "k": "", "e": "", "i": "" },
+  "TNB": { "s": "TNB", "k": "", "e": "", "i": "" },
+  "GTO": { "s": "GTO", "k": "", "e": "", "i": "" },
+  "OST": { "s": "OST", "k": "", "e": "", "i": "" },
+  "AION": { "s": "AION", "k": "", "e": "", "i": "" },
+  "NEBL": { "s": "NEBL", "k": "", "e": "", "i": "" },
+  "BRD": { "s": "BRD", "k": "", "e": "", "i": "" },
+  "EDO": { "s": "EDO", "k": "", "e": "", "i": "" },
+  "WINGS": { "s": "WINGS", "k": "", "e": "", "i": "" },
+  "NAV": { "s": "NAV", "k": "", "e": "", "i": "" },
+  "LUN": { "s": "LUN", "k": "", "e": "", "i": "" },
+  "TRIG": { "s": "TRIG", "k": "", "e": "", "i": "" },
+  "APPC": { "s": "APPC", "k": "", "e": "", "i": "" },
+  "VIBE": { "s": "VIBE", "k": "", "e": "", "i": "" },
+  "INS": { "s": "INS", "k": "", "e": "", "i": "" },
+  "PIVX": { "s": "PIVX", "k": "", "e": "", "i": "" },
+  "CHAT": { "s": "CHAT", "k": "", "e": "", "i": "" },
+  "NANO": { "s": "NANO", "k": "", "e": "", "i": "" },
+  "VIA": { "s": "VIA", "k": "", "e": "", "i": "" },
+  "BLZ": { "s": "BLZ", "k": "", "e": "", "i": "" },
+  "AE": { "s": "AE", "k": "", "e": "", "i": "" },
+  "RPX": { "s": "RPX", "k": "", "e": "", "i": "" },
+  "NCASH": { "s": "NCASH", "k": "", "e": "", "i": "" },
+  "POA": { "s": "POA", "k": "", "e": "", "i": "" },
+  "STORM": { "s": "STORM", "k": "", "e": "", "i": "" },
+  "WAN": { "s": "WAN", "k": "", "e": "", "i": "" },
+  "WPR": { "s": "WPR", "k": "", "e": "", "i": "" },
+  "QLC": { "s": "QLC", "k": "", "e": "", "i": "" },
+  "SYS": { "s": "SYS", "k": "", "e": "", "i": "" },
+  "CLOAK": { "s": "CLOAK", "k": "", "e": "", "i": "" },
+  "GNT": { "s": "GNT", "k": "", "e": "", "i": "" },
+  "BCN": { "s": "BCN", "k": "", "e": "", "i": "" },
+  "ZEN": { "s": "ZEN", "k": "", "e": "", "i": "" },
+  "SKY": { "s": "SKY", "k": "", "e": "", "i": "" },
+  "AGI": { "s": "AGI", "k": "", "e": "", "i": "" },
+  "NXS": { "s": "NXS", "k": "", "e": "", "i": "" },
+  "DATA": { "s": "DATA", "k": "", "e": "", "i": "" },
+  "NPXS": { "s": "NPXS", "k": "", "e": "", "i": "" },
+  "KEY": { "s": "KEY", "k": "", "e": "", "i": "" },
+  "NAS": { "s": "NAS", "k": "", "e": "", "i": "" },
+  "HOT": { "s": "HOT", "k": "", "e": "", "i": "" },
+  "DOCK": { "s": "DOCK", "k": "", "e": "", "i": "" },
+  "PHX": { "s": "PHX", "k": "", "e": "", "i": "" },
+  "HC": { "s": "HC", "k": "", "e": "", "i": "" },
+  "PAX": { "s": "PAX", "k": "", "e": "", "i": "" },
+  "DCR": { "s": "DCR", "k": "", "e": "", "i": "" },
+  "MITH": { "s": "MITH", "k": "", "e": "", "i": "" },
+  "BCHABC": { "s": "BCHABC", "k": "", "e": "", "i": "" },
+  "BCHSV": { "s": "BCHSV", "k": "", "e": "", "i": "" },
+  "USDC": { "s": "USDC", "k": "", "e": "", "i": "" },
+  "USDS": { "s": "USDS", "k": "", "e": "", "i": "" },
+  "FET": { "s": "FET", "k": "", "e": "", "i": "" },
+  "PHB": { "s": "PHB", "k": "", "e": "", "i": "" },
+  "ONE": { "s": "ONE", "k": "", "e": "", "i": "" },
+  "FTM": { "s": "FTM", "k": "", "e": "", "i": "" },
+  "BTCB": { "s": "BTCB", "k": "", "e": "", "i": "" },
+  "USDSB": { "s": "USDSB", "k": "", "e": "", "i": "" },
+  "ERD": { "s": "ERD", "k": "", "e": "", "i": "" },
+  "DUSK": { "s": "DUSK", "k": "", "e": "", "i": "" },
+  "WIN": { "s": "WIN", "k": "", "e": "", "i": "" },
+  "COCOS": { "s": "COCOS", "k": "", "e": "", "i": "" },
+  "TOMO": { "s": "TOMO", "k": "", "e": "", "i": "" },
+  "PERL": { "s": "PERL", "k": "", "e": "", "i": "" },
+  "BAND": { "s": "BAND", "k": "", "e": "", "i": "" },
+  "BUSD": { "s": "BUSD", "k": "", "e": "", "i": "" },
+  "BEAM": { "s": "BEAM", "k": "", "e": "", "i": "" },
+  "TROY": { "s": "TROY", "k": "", "e": "", "i": "" },
+  "VITE": { "s": "VITE", "k": "", "e": "", "i": "" },
+  "FTT": { "s": "FTT", "k": "", "e": "", "i": "" },
+  "EUR": { "s": "EUR", "k": "", "e": "", "i": "" },
+  "DREP": { "s": "DREP", "k": "", "e": "", "i": "" },
+  "TCT": { "s": "TCT", "k": "", "e": "", "i": "" },
+  "WRX": { "s": "WRX", "k": "", "e": "", "i": "" },
+  "LTO": { "s": "LTO", "k": "", "e": "", "i": "" },
+  "MDT": { "s": "MDT", "k": "", "e": "", "i": "" },
+  "PNT": { "s": "PNT", "k": "", "e": "", "i": "" },
+  "BKRW": { "s": "BKRW", "k": "", "e": "", "i": "" },
+  "VTHO": { "s": "VTHO", "k": "", "e": "", "i": "" },
+  "GBP": { "s": "GBP", "k": "", "e": "", "i": "" },
+  "IRIS": { "s": "IRIS", "k": "", "e": "", "i": "" },
+  "RUNE": { "s": "RUNE", "k": "", "e": "", "i": "" },
+  "FIO": { "s": "FIO", "k": "", "e": "", "i": "" },
+  "AVA": { "s": "AVA", "k": "", "e": "", "i": "" },
+  "AUD": { "s": "AUD", "k": "", "e": "", "i": "" },
+  "ANT": { "s": "ANT", "k": "", "e": "", "i": "" },
+  "LUNA": { "s": "LUNA", "k": "", "e": "", "i": "" },
+  "IDEX": { "s": "IDEX", "k": "", "e": "", "i": "" },
+  "PAXG": { "s": "PAXG", "k": "", "e": "", "i": "" },
+  "WNXM": { "s": "WNXM", "k": "", "e": "", "i": "" },
+  "TRB": { "s": "TRB", "k": "", "e": "", "i": "" },
+  "BZRX": { "s": "BZRX", "k": "", "e": "", "i": "" },
+  "WBTC": { "s": "WBTC", "k": "", "e": "", "i": "" },
+  "YFII": { "s": "YFII", "k": "", "e": "", "i": "" },
+  "DIA": { "s": "DIA", "k": "", "e": "", "i": "" },
+  "WING": { "s": "WING", "k": "", "e": "", "i": "" },
+  "NBS": { "s": "NBS", "k": "", "e": "", "i": "" },
+  "HNT": { "s": "HNT", "k": "", "e": "", "i": "" },
+  "FLM": { "s": "FLM", "k": "", "e": "", "i": "" },
+  "SCRT": { "s": "SCRT", "k": "", "e": "", "i": "" },
+  "ORN": { "s": "ORN", "k": "", "e": "", "i": "" },
+  "UTK": { "s": "UTK", "k": "", "e": "", "i": "" },
+  "ALPHA": { "s": "ALPHA", "k": "", "e": "", "i": "" },
+  "VIDT": { "s": "VIDT", "k": "", "e": "", "i": "" },
+  "BOT": { "s": "BOT", "k": "", "e": "", "i": "" },
+  "AKRO": { "s": "AKRO", "k": "", "e": "", "i": "" },
+  "HARD": { "s": "HARD", "k": "", "e": "", "i": "" },
+  "RENBTC": { "s": "RENBTC", "k": "", "e": "", "i": "" },
+  "UNFI": { "s": "UNFI", "k": "", "e": "", "i": "" },
+  "ROSE": { "s": "ROSE", "k": "", "e": "", "i": "" },
+  "SKL": { "s": "SKL", "k": "", "e": "", "i": "" },
+  "SUSD": { "s": "SUSD", "k": "", "e": "", "i": "" },
+  "REEF": { "s": "REEF", "k": "", "e": "", "i": "" },
+  "OG": { "s": "OG", "k": "", "e": "", "i": "" },
+  "ATM": { "s": "ATM", "k": "", "e": "", "i": "" },
+  "ASR": { "s": "ASR", "k": "", "e": "", "i": "" },
+  "RIF": { "s": "RIF", "k": "", "e": "", "i": "" },
+  "BTCST": { "s": "BTCST", "k": "", "e": "", "i": "" },
+  "TRU": { "s": "TRU", "k": "", "e": "", "i": "" },
+  "TWT": { "s": "TWT", "k": "", "e": "", "i": "" },
+  "FIRO": { "s": "FIRO", "k": "", "e": "", "i": "" },
+  "LIT": { "s": "LIT", "k": "", "e": "", "i": "" },
+  "SFP": { "s": "SFP", "k": "", "e": "", "i": "" },
+  "FXS": { "s": "FXS", "k": "", "e": "", "i": "" },
+  "DODO": { "s": "DODO", "k": "", "e": "", "i": "" },
+  "EASY": { "s": "EASY", "k": "", "e": "", "i": "" },
+  "ACM": { "s": "ACM", "k": "", "e": "", "i": "" },
+  "PHA": { "s": "PHA", "k": "", "e": "", "i": "" },
+  "TVK": { "s": "TVK", "k": "", "e": "", "i": "" },
+  "BADGER": { "s": "BADGER", "k": "", "e": "", "i": "" },
+  "FIS": { "s": "FIS", "k": "", "e": "", "i": "" },
+  "OM": { "s": "OM", "k": "", "e": "", "i": "" },
+  "POND": { "s": "POND", "k": "", "e": "", "i": "" },
+  "DEGO": { "s": "DEGO", "k": "", "e": "", "i": "" },
+  "PERP": { "s": "PERP", "k": "", "e": "", "i": "" },
+  "RAMP": { "s": "RAMP", "k": "", "e": "", "i": "" },
+  "SUPER": { "s": "SUPER", "k": "", "e": "", "i": "" },
+  "CFX": { "s": "CFX", "k": "", "e": "", "i": "" },
+  "EPS": { "s": "EPS", "k": "", "e": "", "i": "" },
+  "AUTO": { "s": "AUTO", "k": "", "e": "", "i": "" },
+  "TKO": { "s": "TKO", "k": "", "e": "", "i": "" },
+  "TLM": { "s": "TLM", "k": "", "e": "", "i": "" },
+  "MIR": { "s": "MIR", "k": "", "e": "", "i": "" },
+  "BAR": { "s": "BAR", "k": "", "e": "", "i": "" },
+  "FORTH": { "s": "FORTH", "k": "", "e": "", "i": "" },
+  "EZ": { "s": "EZ", "k": "", "e": "", "i": "" },
+  "BAKE": { "s": "BAKE", "k": "", "e": "", "i": "" },
+  "BURGER": { "s": "BURGER", "k": "", "e": "", "i": "" },
+  "SLP": { "s": "SLP", "k": "", "e": "", "i": "" },
+  "SHIB": { "s": "SHIB", "k": "", "e": "", "i": "" },
+  "ICP": { "s": "ICP", "k": "", "e": "", "i": "" },
+  "AR": { "s": "AR", "k": "", "e": "", "i": "" },
+  "POLS": { "s": "POLS", "k": "", "e": "", "i": "" },
+  "MDX": { "s": "MDX", "k": "", "e": "", "i": "" },
+  "AGIX": { "s": "AGIX", "k": "", "e": "", "i": "" },
+  "ATA": { "s": "ATA", "k": "", "e": "", "i": "" },
+  "TORN": { "s": "TORN", "k": "", "e": "", "i": "" },
+  "KEEP": { "s": "KEEP", "k": "", "e": "", "i": "" },
+  "ERN": { "s": "ERN", "k": "", "e": "", "i": "" },
+  "BOND": { "s": "BOND", "k": "", "e": "", "i": "" },
+  "MLN": { "s": "MLN", "k": "", "e": "", "i": "" },
+  "DEXE": { "s": "DEXE", "k": "", "e": "", "i": "" },
+  "QUICK": { "s": "QUICK", "k": "", "e": "", "i": "" },
+  "CLV": { "s": "CLV", "k": "", "e": "", "i": "" },
+  "QNT": { "s": "QNT", "k": "", "e": "", "i": "" },
+  "MINA": { "s": "MINA", "k": "", "e": "", "i": "" },
+  "FARM": { "s": "FARM", "k": "", "e": "", "i": "" },
+  "ALPACA": { "s": "ALPACA", "k": "", "e": "", "i": "" },
+  "MBOX": { "s": "MBOX", "k": "", "e": "", "i": "" },
+  "VGX": { "s": "VGX", "k": "", "e": "", "i": "" },
+  "GHST": { "s": "GHST", "k": "", "e": "", "i": "" },
+  "TRIBE": { "s": "TRIBE", "k": "", "e": "", "i": "" },
+  "GNO": { "s": "GNO", "k": "", "e": "", "i": "" },
+  "DYDX": { "s": "DYDX", "k": "", "e": "", "i": "" },
+  "ILV": { "s": "ILV", "k": "", "e": "", "i": "" },
+  "DF": { "s": "DF", "k": "", "e": "", "i": "" },
+  "FIDA": { "s": "FIDA", "k": "", "e": "", "i": "" },
+  "CVP": { "s": "CVP", "k": "", "e": "", "i": "" },
+  "BETA": { "s": "BETA", "k": "", "e": "", "i": "" },
+  "RARE": { "s": "RARE", "k": "", "e": "", "i": "" },
+  "SSV": { "s": "SSV", "k": "", "e": "", "i": "" },
+  "LAZIO": { "s": "LAZIO", "k": "", "e": "", "i": "" },
+  "CHESS": { "s": "CHESS", "k": "", "e": "", "i": "" },
+  "DAR": { "s": "DAR", "k": "", "e": "", "i": "" },
+  "BNX": { "s": "BNX", "k": "", "e": "", "i": "" },
+  "RGT": { "s": "RGT", "k": "", "e": "", "i": "" },
+  "MOVR": { "s": "MOVR", "k": "", "e": "", "i": "" },
+  "CITY": { "s": "CITY", "k": "", "e": "", "i": "" },
+  "KP3R": { "s": "KP3R", "k": "", "e": "", "i": "" },
+  "QI": { "s": "QI", "k": "", "e": "", "i": "" },
+  "PORTO": { "s": "PORTO", "k": "", "e": "", "i": "" },
+  "AMP": { "s": "AMP", "k": "", "e": "", "i": "" },
+  "PYR": { "s": "PYR", "k": "", "e": "", "i": "" },
+  "ALCX": { "s": "ALCX", "k": "", "e": "", "i": "" },
+  "SANTOS": { "s": "SANTOS", "k": "", "e": "", "i": "" },
+  "MC": { "s": "MC", "k": "", "e": "", "i": "" },
+  "ANY": { "s": "ANY", "k": "", "e": "", "i": "" },
+  "BICO": { "s": "BICO", "k": "", "e": "", "i": "" },
+  "FLUX": { "s": "FLUX", "k": "", "e": "", "i": "" },
+  "VOXEL": { "s": "VOXEL", "k": "", "e": "", "i": "" },
+  "HIGH": { "s": "HIGH", "k": "", "e": "", "i": "" },
+  "CVX": { "s": "CVX", "k": "", "e": "", "i": "" },
+  "PEOPLE": { "s": "PEOPLE", "k": "", "e": "", "i": "" },
+  "OOKI": { "s": "OOKI", "k": "", "e": "", "i": "" },
+  "SPELL": { "s": "SPELL", "k": "", "e": "", "i": "" },
+  "UST": { "s": "UST", "k": "", "e": "", "i": "" },
+  "JOE": { "s": "JOE", "k": "", "e": "", "i": "" },
+  "GLMR": { "s": "GLMR", "k": "", "e": "", "i": "" },
+  "LOKA": { "s": "LOKA", "k": "", "e": "", "i": "" },
+  "BTTC": { "s": "BTTC", "k": "", "e": "", "i": "" },
+  "ACA": { "s": "ACA", "k": "", "e": "", "i": "" },
+  "ANC": { "s": "ANC", "k": "", "e": "", "i": "" },
+  "ALPINE": { "s": "ALPINE", "k": "", "e": "", "i": "" },
+  "ASTR": { "s": "ASTR", "k": "", "e": "", "i": "" },
+  "NBT": { "s": "NBT", "k": "", "e": "", "i": "" },
+  "KDA": { "s": "KDA", "k": "", "e": "", "i": "" },
+  "BSW": { "s": "BSW", "k": "", "e": "", "i": "" },
+  "BIFI": { "s": "BIFI", "k": "", "e": "", "i": "" },
+  "MULTI": { "s": "MULTI", "k": "", "e": "", "i": "" },
+  "MOB": { "s": "MOB", "k": "", "e": "", "i": "" },
+  "NEXO": { "s": "NEXO", "k": "", "e": "", "i": "" },
+  "GAL": { "s": "GAL", "k": "", "e": "", "i": "" },
+  "LDO": { "s": "LDO", "k": "", "e": "", "i": "" },
+  "EPX": { "s": "EPX", "k": "", "e": "", "i": "" },
+  "OP": { "s": "OP", "k": "", "e": "", "i": "" },
+  "LEVER": { "s": "LEVER", "k": "", "e": "", "i": "" },
+  "STG": { "s": "STG", "k": "", "e": "", "i": "" },
+  "LUNC": { "s": "LUNC", "k": "", "e": "", "i": "" },
+  "DEFI": { "s": "DEFI", "k": "", "e": "", "i": "" },
+  "BTCDOM": { "s": "BTCDOM", "k": "", "e": "", "i": "" },
+  "FOOTBALL": { "s": "FOOTBALL", "k": "", "e": "", "i": "" },
+  "LUNA2": { "s": "LUNA2", "k": "", "e": "", "i": "" },
+  "ALEPH": { "s": "ALEPH", "k": "", "e": "", "i": "" },
+  "ALT": { "s": "ALT", "k": "", "e": "", "i": "" },
+  "AMPL": { "s": "AMPL", "k": "", "e": "", "i": "" },
+  "ASD": { "s": "ASD", "k": "", "e": "", "i": "" },
+  "ATLAS": { "s": "ATLAS", "k": "", "e": "", "i": "" },
+  "AURY": { "s": "AURY", "k": "", "e": "", "i": "" },
+  "BAO": { "s": "BAO", "k": "", "e": "", "i": "" },
+  "BIT": { "s": "BIT", "k": "", "e": "", "i": "" },
+  "BLT": { "s": "BLT", "k": "", "e": "", "i": "" },
+  "BRZ": { "s": "BRZ", "k": "", "e": "", "i": "" },
+  "CAD": { "s": "CAD", "k": "", "e": "", "i": "" },
+  "CEL": { "s": "CEL", "k": "", "e": "", "i": "" },
+  "CONV": { "s": "CONV", "k": "", "e": "", "i": "" },
+  "COPE": { "s": "COPE", "k": "", "e": "", "i": "" },
+  "CQT": { "s": "CQT", "k": "", "e": "", "i": "" },
+  "CREAM": { "s": "CREAM", "k": "", "e": "", "i": "" },
+  "CTX": { "s": "CTX", "k": "", "e": "", "i": "" },
+  "CUSDT": { "s": "CUSDT", "k": "", "e": "", "i": "" },
+  "DFL": { "s": "DFL", "k": "", "e": "", "i": "" },
+  "DMG": { "s": "DMG", "k": "", "e": "", "i": "" },
+  "DRGN": { "s": "DRGN", "k": "", "e": "", "i": "" },
+  "EDEN": { "s": "EDEN", "k": "", "e": "", "i": "" },
+  "EMB": { "s": "EMB", "k": "", "e": "", "i": "" },
+  "ETHW": { "s": "ETHW", "k": "", "e": "", "i": "" },
+  "EURT": { "s": "EURT", "k": "", "e": "", "i": "" },
+  "EXCH": { "s": "EXCH", "k": "", "e": "", "i": "" },
+  "GALFAN": { "s": "GALFAN", "k": "", "e": "", "i": "" },
+  "GARI": { "s": "GARI", "k": "", "e": "", "i": "" },
+  "GENE": { "s": "GENE", "k": "", "e": "", "i": "" },
+  "GODS": { "s": "GODS", "k": "", "e": "", "i": "" },
+  "GOG": { "s": "GOG", "k": "", "e": "", "i": "" },
+  "GST": { "s": "GST", "k": "", "e": "", "i": "" },
+  "GT": { "s": "GT", "k": "", "e": "", "i": "" },
+  "HGET": { "s": "HGET", "k": "", "e": "", "i": "" },
+  "HMT": { "s": "HMT", "k": "", "e": "", "i": "" },
+  "HOLY": { "s": "HOLY", "k": "", "e": "", "i": "" },
+  "HT": { "s": "HT", "k": "", "e": "", "i": "" },
+  "HXRO": { "s": "HXRO", "k": "", "e": "", "i": "" },
+  "INDI": { "s": "INDI", "k": "", "e": "", "i": "" },
+  "INTER": { "s": "INTER", "k": "", "e": "", "i": "" },
+  "IP3": { "s": "IP3", "k": "", "e": "", "i": "" },
+  "JET": { "s": "JET", "k": "", "e": "", "i": "" },
+  "KBTT": { "s": "KBTT", "k": "", "e": "", "i": "" },
+  "KIN": { "s": "KIN", "k": "", "e": "", "i": "" },
+  "KLUNC": { "s": "KLUNC", "k": "", "e": "", "i": "" },
+  "KSHIB": { "s": "KSHIB", "k": "", "e": "", "i": "" },
+  "KSOS": { "s": "KSOS", "k": "", "e": "", "i": "" },
+  "LEO": { "s": "LEO", "k": "", "e": "", "i": "" },
+  "LOOKS": { "s": "LOOKS", "k": "", "e": "", "i": "" },
+  "LUA": { "s": "LUA", "k": "", "e": "", "i": "" },
+  "MAPS": { "s": "MAPS", "k": "", "e": "", "i": "" },
+  "MATH": { "s": "MATH", "k": "", "e": "", "i": "" },
+  "MBS": { "s": "MBS", "k": "", "e": "", "i": "" },
+  "MCB": { "s": "MCB", "k": "", "e": "", "i": "" },
+  "MEDIA": { "s": "MEDIA", "k": "", "e": "", "i": "" },
+  "MER": { "s": "MER", "k": "", "e": "", "i": "" },
+  "MID": { "s": "MID", "k": "", "e": "", "i": "" },
+  "MNGO": { "s": "MNGO", "k": "", "e": "", "i": "" },
+  "MSOL": { "s": "MSOL", "k": "", "e": "", "i": "" },
+  "MTA": { "s": "MTA", "k": "", "e": "", "i": "" },
+  "OKB": { "s": "OKB", "k": "", "e": "", "i": "" },
+  "ORCA": { "s": "ORCA", "k": "", "e": "", "i": "" },
+  "OXY": { "s": "OXY", "k": "", "e": "", "i": "" },
+  "POLIS": { "s": "POLIS", "k": "", "e": "", "i": "" },
+  "PORT": { "s": "PORT", "k": "", "e": "", "i": "" },
+  "PRISM": { "s": "PRISM", "k": "", "e": "", "i": "" },
+  "PRIV": { "s": "PRIV", "k": "", "e": "", "i": "" },
+  "PSY": { "s": "PSY", "k": "", "e": "", "i": "" },
+  "PTU": { "s": "PTU", "k": "", "e": "", "i": "" },
+  "REAL": { "s": "REAL", "k": "", "e": "", "i": "" },
+  "RON": { "s": "RON", "k": "", "e": "", "i": "" },
+  "ROOK": { "s": "ROOK", "k": "", "e": "", "i": "" },
+  "SECO": { "s": "SECO", "k": "", "e": "", "i": "" },
+  "SLND": { "s": "SLND", "k": "", "e": "", "i": "" },
+  "SLRS": { "s": "SLRS", "k": "", "e": "", "i": "" },
+  "SNY": { "s": "SNY", "k": "", "e": "", "i": "" },
+  "SOS": { "s": "SOS", "k": "", "e": "", "i": "" },
+  "SPA": { "s": "SPA", "k": "", "e": "", "i": "" },
+  "STARS": { "s": "STARS", "k": "", "e": "", "i": "" },
+  "STEP": { "s": "STEP", "k": "", "e": "", "i": "" },
+  "STETH": { "s": "STETH", "k": "", "e": "", "i": "" },
+  "STSOL": { "s": "STSOL", "k": "", "e": "", "i": "" },
+  "SWEAT": { "s": "SWEAT", "k": "", "e": "", "i": "" },
+  "TONCOIN": { "s": "TONCOIN", "k": "", "e": "", "i": "" },
+  "TRYB": { "s": "TRYB", "k": "", "e": "", "i": "" },
+  "TULIP": { "s": "TULIP", "k": "", "e": "", "i": "" },
+  "UBXT": { "s": "UBXT", "k": "", "e": "", "i": "" },
+  "UMEE": { "s": "UMEE", "k": "", "e": "", "i": "" },
+  "UNISWAP": { "s": "UNISWAP", "k": "", "e": "", "i": "" },
+  "USDT": { "s": "USDT", "k": "", "e": "", "i": "" },
+  "USTC": { "s": "USTC", "k": "", "e": "", "i": "" },
+  "WFLOW": { "s": "WFLOW", "k": "", "e": "", "i": "" },
+  "XAUT": { "s": "XAUT", "k": "", "e": "", "i": "" },
+  "XDC": { "s": "XDC", "k": "", "e": "", "i": "" },
+  "USDD": { "s": "USDD", "k": "", "e": "", "i": "" },
+  "GM": { "s": "GM", "k": "", "e": "", "i": "" },
+  "SIS": { "s": "SIS", "k": "", "e": "", "i": "" },
+  "1SOL": { "s": "1SOL", "k": "", "e": "", "i": "" },
+  "RSS3": { "s": "RSS3", "k": "", "e": "", "i": "" },
+  "SOLO": { "s": "SOLO", "k": "", "e": "", "i": "" },
+  "XETA": { "s": "XETA", "k": "", "e": "", "i": "" },
+  "DEVT": { "s": "DEVT", "k": "", "e": "", "i": "" },
+  "KUNCI": { "s": "KUNCI", "k": "", "e": "", "i": "" },
+  "DLC": { "s": "DLC", "k": "", "e": "", "i": "" },
+  "OKSE": { "s": "OKSE", "k": "", "e": "", "i": "" },
+  "NXD": { "s": "NXD", "k": "", "e": "", "i": "" },
+  "KASTA": { "s": "KASTA", "k": "", "e": "", "i": "" },
+  "DICE": { "s": "DICE", "k": "", "e": "", "i": "" },
+  "MELOS": { "s": "MELOS", "k": "", "e": "", "i": "" },
+  "SFUND": { "s": "SFUND", "k": "", "e": "", "i": "" },
+  "FCD": { "s": "FCD", "k": "", "e": "", "i": "" },
+  "SYNR": { "s": "SYNR", "k": "", "e": "", "i": "" },
+  "MOVEZ": { "s": "MOVEZ", "k": "", "e": "", "i": "" },
+  "KMON": { "s": "KMON", "k": "", "e": "", "i": "" },
+  "ERTHA": { "s": "ERTHA", "k": "", "e": "", "i": "" },
+  "DEFY": { "s": "DEFY", "k": "", "e": "", "i": "" },
+  "MV": { "s": "MV", "k": "", "e": "", "i": "" },
+  "FAME": { "s": "FAME", "k": "", "e": "", "i": "" },
+  "AFC": { "s": "AFC", "k": "", "e": "", "i": "" },
+  "MMC": { "s": "MMC", "k": "", "e": "", "i": "" },
+  "KON": { "s": "KON", "k": "", "e": "", "i": "" },
+  "GSTS": { "s": "GSTS", "k": "", "e": "", "i": "" },
+  "TAP": { "s": "TAP", "k": "", "e": "", "i": "" },
+  "CHRP": { "s": "CHRP", "k": "", "e": "", "i": "" },
+  "OBX": { "s": "OBX", "k": "", "e": "", "i": "" },
+  "COT": { "s": "COT", "k": "", "e": "", "i": "" },
+  "ETF": { "s": "ETF", "k": "", "e": "", "i": "" },
+  "PSTAKE": { "s": "PSTAKE", "k": "", "e": "", "i": "" },
+  "RAIN": { "s": "RAIN", "k": "", "e": "", "i": "" },
+  "GMX": { "s": "GMX", "k": "", "e": "", "i": "" },
+  "CBX": { "s": "CBX", "k": "", "e": "", "i": "" },
+  "WLKN": { "s": "WLKN", "k": "", "e": "", "i": "" },
+  "CULT": { "s": "CULT", "k": "", "e": "", "i": "" },
+  "DFI": { "s": "DFI", "k": "", "e": "", "i": "" },
+  "ZAM": { "s": "ZAM", "k": "", "e": "", "i": "" },
+  "SD": { "s": "SD", "k": "", "e": "", "i": "" },
+  "POSI": { "s": "POSI", "k": "", "e": "", "i": "" },
+  "FIU": { "s": "FIU", "k": "", "e": "", "i": "" },
+  "OKG": { "s": "OKG", "k": "", "e": "", "i": "" },
+  "APEX": { "s": "APEX", "k": "", "e": "", "i": "" },
+  "LING": { "s": "LING", "k": "", "e": "", "i": "" },
+  "CWAR": { "s": "CWAR", "k": "", "e": "", "i": "" },
+  "GALFT": { "s": "GALFT", "k": "", "e": "", "i": "" },
+  "CRAFT": { "s": "CRAFT", "k": "", "e": "", "i": "" },
+  "KOK": { "s": "KOK", "k": "", "e": "", "i": "" },
+  "ZBC": { "s": "ZBC", "k": "", "e": "", "i": "" },
+  "SIDUS": { "s": "SIDUS", "k": "", "e": "", "i": "" },
+  "FITFI": { "s": "FITFI", "k": "", "e": "", "i": "" },
+  "STAT": { "s": "STAT", "k": "", "e": "", "i": "" },
+  "ELT": { "s": "ELT", "k": "", "e": "", "i": "" },
+  "KRL": { "s": "KRL", "k": "", "e": "", "i": "" },
+  "FLOKI": { "s": "FLOKI", "k": "", "e": "", "i": "" },
+  "VINU": { "s": "VINU", "k": "", "e": "", "i": "" },
+  "XAVA": { "s": "XAVA", "k": "", "e": "", "i": "" },
+  "RACA": { "s": "RACA", "k": "", "e": "", "i": "" },
+  "SAITAMA": { "s": "SAITAMA", "k": "", "e": "", "i": "" },
+  "INSUR": { "s": "INSUR", "k": "", "e": "", "i": "" },
+  "WWY": { "s": "WWY", "k": "", "e": "", "i": "" },
+  "SEOR": { "s": "SEOR", "k": "", "e": "", "i": "" },
+  "DRIV": { "s": "DRIV", "k": "", "e": "", "i": "" },
+  "MNZ": { "s": "MNZ", "k": "", "e": "", "i": "" },
+  "HERO": { "s": "HERO", "k": "", "e": "", "i": "" },
+  "POKT": { "s": "POKT", "k": "", "e": "", "i": "" },
+  "XWG": { "s": "XWG", "k": "", "e": "", "i": "" },
+  "IZI": { "s": "IZI", "k": "", "e": "", "i": "" },
+  "TEL": { "s": "TEL", "k": "", "e": "", "i": "" },
+  "CUSD": { "s": "CUSD", "k": "", "e": "", "i": "" },
+  "DOME": { "s": "DOME", "k": "", "e": "", "i": "" },
+  "FORT": { "s": "FORT", "k": "", "e": "", "i": "" },
+  "CAPS": { "s": "CAPS", "k": "", "e": "", "i": "" },
+  "PLY": { "s": "PLY", "k": "", "e": "", "i": "" },
+  "MX": { "s": "MX", "k": "", "e": "", "i": "" },
+  "MPLX": { "s": "MPLX", "k": "", "e": "", "i": "" },
+  "SON": { "s": "SON", "k": "", "e": "", "i": "" },
+  "IME": { "s": "IME", "k": "", "e": "", "i": "" },
+  "THN": { "s": "THN", "k": "", "e": "", "i": "" },
+  "STRM": { "s": "STRM", "k": "", "e": "", "i": "" },
+  "SLG": { "s": "SLG", "k": "", "e": "", "i": "" },
+  "TRVL": { "s": "TRVL", "k": "", "e": "", "i": "" },
+  "CMP": { "s": "CMP", "k": "", "e": "", "i": "" },
+  "VPAD": { "s": "VPAD", "k": "", "e": "", "i": "" },
+  "LGX": { "s": "LGX", "k": "", "e": "", "i": "" },
+  "PLT": { "s": "PLT", "k": "", "e": "", "i": "" },
+  "SHILL": { "s": "SHILL", "k": "", "e": "", "i": "" },
+  "LFW": { "s": "LFW", "k": "", "e": "", "i": "" },
+  "PSP": { "s": "PSP", "k": "", "e": "", "i": "" },
+  "AZY": { "s": "AZY", "k": "", "e": "", "i": "" },
+  "GGM": { "s": "GGM", "k": "", "e": "", "i": "" },
+  "XCN": { "s": "XCN", "k": "", "e": "", "i": "" },
+  "CEEK": { "s": "CEEK", "k": "", "e": "", "i": "" }
+}
