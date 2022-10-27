@@ -1694,7 +1694,12 @@
   "DUSK": { "s": "DUSK", "k": "", "e": "", "i": "" },
   "WIN": { "s": "WIN", "k": "", "e": "", "i": "" },
   "COCOS": { "s": "COCOS", "k": "", "e": "", "i": "" },
-  "TOMO": { "s": "TOMO", "k": "", "e": "", "i": "" },
+  "TOMO": {
+    "s": "TOMO",
+    "k": "토모체인",
+    "e": "TomoChain",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/2570.png"
+  },
   "PERL": { "s": "PERL", "k": "", "e": "", "i": "" },
   "BAND": { "s": "BAND", "k": "", "e": "", "i": "" },
   "BUSD": { "s": "BUSD", "k": "", "e": "", "i": "" },
@@ -3157,5 +3162,315 @@
   "GCAKE": { "s": "GCAKE", "k": "", "e": "", "i": "" },
   "KICKS": { "s": "KICKS", "k": "", "e": "", "i": "" },
   "VMT": { "s": "VMT", "k": "", "e": "", "i": "" },
-  "XPLA": { "s": "XPLA", "k": "", "e": "", "i": "" }
+  "XPLA": { "s": "XPLA", "k": "", "e": "", "i": "" },
+  "KSC": {
+    "s": "KSC",
+    "k": "케이스타라이브",
+    "e": "KStarCoin",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/6493.png"
+  },
+  "PXL": {
+    "s": "PXL",
+    "k": "픽셀",
+    "e": "PIXEL",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/4091.png"
+  },
+  "HINT": {
+    "s": "HINT",
+    "k": "힌트체인",
+    "e": "Hintchain",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/4254.png"
+  },
+  "PIB": {
+    "s": "PIB",
+    "k": "피블",
+    "e": "PIBBLE",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/3768.png"
+  },
+  "ISR": {
+    "s": "ISR",
+    "k": "인슈어리움",
+    "e": "Insureum",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/3466.png"
+  },
+  "REDI": {
+    "s": "REDI",
+    "k": "레디",
+    "e": "REDi",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/8388.png"
+  },
+  "CLBK": {
+    "s": "CLBK",
+    "k": "클라우드브릭",
+    "e": "Cloudbric",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/3712.png"
+  },
+  "BAAS": {
+    "s": "BAAS",
+    "k": "바스아이디",
+    "e": "BaaSid",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/3142.png"
+  },
+  "DRM": {
+    "s": "DRM",
+    "k": "두드림체인",
+    "e": "DoDreamChain",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/5837.png"
+  },
+  "XPN": {
+    "s": "XPN",
+    "k": "판테온X",
+    "e": "PANTHEON X",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/4760.png"
+  },
+  "LBXC": {
+    "s": "LBXC",
+    "k": "럭스 바이오",
+    "e": "Lux Bio Cell",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/5490.png"
+  },
+  "MCH": {
+    "s": "MCH",
+    "k": "미콘캐시",
+    "e": "MeconCash",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/4844.png"
+  },
+  "KDAG": {
+    "s": "KDAG",
+    "k": "킹디에이쥐",
+    "e": "King DAG",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/5626.png"
+  },
+  "MNR": {
+    "s": "MNR",
+    "k": "미네랄",
+    "e": "Mineral",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/6053.png"
+  },
+  "TRCL": {
+    "s": "TRCL",
+    "k": "트리클",
+    "e": "Treecle",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/5800.png"
+  },
+  "TMTG": {
+    "s": "TMTG",
+    "k": "더마이다스터치골드",
+    "e": "The Midas Touch Gold",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/3356.png"
+  },
+  "MOV": {
+    "s": "MOV",
+    "k": "모티브",
+    "e": "MOTIV Protocol",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/5958.png"
+  },
+  "STPL": {
+    "s": "STPL",
+    "k": "스트림 프로토콜",
+    "e": "Stream Protocol",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/7322.png"
+  },
+  "GET": {
+    "s": "GET",
+    "k": "겟 프로토콜",
+    "e": "GET Protocol",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/2354.png"
+  },
+  "IBP": {
+    "s": "IBP",
+    "k": "아이비피 토큰",
+    "e": "Innovation Blockchain Payment",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/6625.png"
+  },
+  "NFUP": {
+    "s": "NFUP",
+    "k": "엔에프유피",
+    "e": "Natural Farm Union Protocol",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/8007.png"
+  },
+  "ISDT": {
+    "s": "ISDT",
+    "k": "아이스타더스트",
+    "e": "ISTARDUST",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/7148.png"
+  },
+  "AOA": {
+    "s": "AOA",
+    "k": "오로라",
+    "e": "Aurora",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/2874.png"
+  },
+  "IPX": {
+    "s": "IPX",
+    "k": "타키온 프로토콜",
+    "e": "Tachyon Protocol",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/5103.png"
+  },
+  "TOMOE": {
+    "s": "TOMOE",
+    "k": "토모체인",
+    "e": "TomoChain",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/2570.png"
+  },
+  "MSB": {
+    "s": "MSB",
+    "k": "미스블록",
+    "e": "Misbloc",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/7591.png"
+  },
+  "ASTA": {
+    "s": "ASTA",
+    "k": "아스타",
+    "e": "ASTA",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/6375.png"
+  },
+  "PURE": {
+    "s": "PURE",
+    "k": "퓨리에버",
+    "e": "Puriever",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/7203.png"
+  },
+  "PICA": {
+    "s": "PICA",
+    "k": "피카",
+    "e": "PicaArtMoney",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/7627.png"
+  },
+  "HANDY": {
+    "s": "HANDY",
+    "k": "핸디",
+    "e": "Handy",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/7755.png"
+  },
+  "SKLAY": {
+    "s": "SKLAY",
+    "k": "에스클레이",
+    "e": "sKLAY",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/7881.png"
+  },
+  "BMP": {
+    "s": "BMP",
+    "k": "비엠피",
+    "e": "Brother Music Platform",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/7732.png"
+  },
+  "TOM": {
+    "s": "TOM",
+    "k": "톰 파이낸스",
+    "e": "TOM Finance",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/7734.png"
+  },
+  "DON": {
+    "s": "DON",
+    "k": "도니 파이낸스",
+    "e": "Donnie Finance",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/8814.png"
+  },
+  "CBANK": {
+    "s": "CBANK",
+    "k": "크립토뱅크",
+    "e": "CryptoBank",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/8113.png"
+  },
+  "DRC": {
+    "s": "DRC",
+    "k": "디알씨 모빌리티",
+    "e": "DRC Mobility",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/8124.png"
+  },
+  "KSP": {
+    "s": "KSP",
+    "k": "클레이스왑",
+    "e": "KLAYswap Protocol",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/8296.png"
+  },
+  "TRIX": {
+    "s": "TRIX",
+    "k": "트라이엄프엑스",
+    "e": "TriumphX",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/6801.png"
+  },
+  "RUSH": {
+    "s": "RUSH",
+    "k": "러쉬 코인",
+    "e": "RUSH COIN",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/9920.png"
+  },
+  "CELEB": {
+    "s": "CELEB",
+    "k": "셀럽큐",
+    "e": "CELEBPLUS",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/8788.png"
+  },
+  "TEN": {
+    "s": "TEN",
+    "k": "테넷",
+    "e": "Tenet",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/8193.png"
+  },
+  "LZM": {
+    "s": "LZM",
+    "k": "라운지엠",
+    "e": "Milk Alliance LZM",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/5266.png"
+  },
+  "ATT": {
+    "s": "ATT",
+    "k": "아튜브",
+    "e": "Artube",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/15918.png"
+  },
+  "SOBA": {
+    "s": "SOBA",
+    "k": "소바",
+    "e": "Artube",
+    "i": "https://assets.coingecko.com/coins/images/14673/small/soba-logo-black.png?1617680379"
+  },
+  "BTR": {
+    "s": "BTR",
+    "k": "비트립스",
+    "e": "BTRIPS",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/13142.png"
+  },
+  "MYCE": {
+    "s": "MYCE",
+    "k": "마이스",
+    "e": "MYCE",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/12863.png"
+  },
+  "WE": {
+    "s": "WE",
+    "k": "위바이",
+    "e": "WeBuy",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/20456.png"
+  },
+  "ABL": {
+    "s": "ABL",
+    "k": "에어블록",
+    "e": "Airbloc",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/3156.png"
+  },
+  "BWO": {
+    "s": "BWO",
+    "k": "배틀월드",
+    "e": "Battle World",
+    "i": "https://s2.coinmarketcap.com/static/img/coins/64x64/20382.png"
+  },
+  "GXA": { "s": "GXA", "k": "", "e": "", "i": "" },
+  "MEGA": {
+    "s": "MEGA",
+    "k": "메가 프로토콜",
+    "e": "Mega Protocol",
+    "i": "https://cdn.theddari.com/static/MEGA.png"
+  },
+  "ESNC": { "s": "ESNC", "k": "", "e": "", "i": "" },
+  "APRT": { "s": "APRT", "k": "", "e": "", "i": "" },
+  "WBT": { "s": "WBT", "k": "", "e": "", "i": "" },
+  "ITA": { "s": "ITA", "k": "", "e": "", "i": "" },
+  "KAP": { "s": "KAP", "k": "", "e": "", "i": "" },
+  "THE": { "s": "THE", "k": "", "e": "", "i": "" },
+  "HELLO": { "s": "HELLO", "k": "", "e": "", "i": "" },
+  "USDN": { "s": "USDN", "k": "", "e": "", "i": "" },
+  "MTD": { "s": "MTD", "k": "", "e": "", "i": "" }
 }
