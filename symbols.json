@@ -3832,5 +3832,9 @@
   "TRIVIA": { "s": "TRIVIA", "k": "", "e": "", "i": "" },
   "GOO": { "s": "GOO", "k": "", "e": "", "i": "" },
   "PIAS": { "s": "PIAS", "k": "", "e": "", "i": "" },
-  "PARADOX": { "s": "PARADOX", "k": "", "e": "", "i": "" }
+  "PARADOX": { "s": "PARADOX", "k": "", "e": "", "i": "" },
+  "MATCH": { "s": "MATCH", "k": "", "e": "", "i": "" },
+  "MFOOTBALL": { "s": "MFOOTBALL", "k": "", "e": "", "i": "" },
+  "VATRENI": { "s": "VATRENI", "k": "", "e": "", "i": "" },
+  "FNF": { "s": "FNF", "k": "", "e": "", "i": "" }
 }
