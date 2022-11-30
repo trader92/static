@@ -99,6 +99,9 @@
   "AC": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "ACA": {
     "markets": [
+      "binance_btc",
+      "binance_busd",
+      "binance_usdt",
       "bybit_usdt",
       "okx_usdt",
       "huobi_usdt",
@@ -106,7 +109,15 @@
       "mexc_usdt",
       "kucoin_usdt"
     ],
-    "exchanges": ["bybit", "okx", "huobi", "bitget", "mexc", "kucoin"]
+    "exchanges": [
+      "binance",
+      "bybit",
+      "okx",
+      "huobi",
+      "bitget",
+      "mexc",
+      "kucoin"
+    ]
   },
   "ACE": { "markets": ["kucoin_usdt"], "exchanges": ["kucoin"] },
   "ACH": {
@@ -138,13 +149,7 @@
   },
   "ACK": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "ACM": {
-    "markets": [
-      "binance_busd",
-      "binance_usdt",
-      "bybit_usdt",
-      "bitget_usdt",
-      "mexc_usdt"
-    ],
+    "markets": ["binance_usdt", "bybit_usdt", "bitget_usdt", "mexc_usdt"],
     "exchanges": ["binance", "bybit", "bitget", "mexc"]
   },
   "ACOIN": { "markets": ["kucoin_usdt"], "exchanges": ["kucoin"] },
@@ -163,8 +168,8 @@
       "binance_btc",
       "binance_usdt",
       "binance_busd",
-      "binance_usdt_perp",
       "binance_busd_perp",
+      "binance_usdt_perp",
       "bybit_usdt",
       "bybit_usdt_perp",
       "okx_usdt",
@@ -219,6 +224,7 @@
       "upbit_krw",
       "bithumb_krw",
       "binance_btc",
+      "binance_busd",
       "okx_usdt",
       "bitget_usdt",
       "mexc_usdt",
@@ -290,6 +296,7 @@
   "AKRO": {
     "markets": [
       "binance_usdt",
+      "binance_busd",
       "bybit_usdt_perp",
       "huobi_usdt",
       "bitget_usdt",
@@ -305,7 +312,7 @@
   "AKTIO": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "ALBT": { "markets": ["kucoin_usdt"], "exchanges": ["kucoin"] },
   "ALCX": {
-    "markets": ["binance_btc", "okx_usdt"],
+    "markets": ["binance_btc", "binance_busd", "binance_usdt", "okx_usdt"],
     "exchanges": ["binance", "okx"]
   },
   "ALD": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
@@ -377,7 +384,14 @@
   "ALM": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "ALPA": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "ALPACA": {
-    "markets": ["binance_btc", "bitget_usdt", "mexc_usdt", "kucoin_usdt"],
+    "markets": [
+      "binance_btc",
+      "binance_busd",
+      "binance_usdt",
+      "bitget_usdt",
+      "mexc_usdt",
+      "kucoin_usdt"
+    ],
     "exchanges": ["binance", "bitget", "mexc", "kucoin"]
   },
   "ALPHA": {
@@ -437,6 +451,7 @@
     "markets": [
       "binance_btc",
       "binance_busd",
+      "binance_usdt",
       "huobi_usdt",
       "bitget_usdt",
       "kucoin_usdt"
@@ -471,6 +486,7 @@
       "upbit_krw",
       "bithumb_krw",
       "coinone_krw",
+      "binance_btc",
       "binance_usdt",
       "binance_busd",
       "binance_usdt_perp",
@@ -548,8 +564,8 @@
       "binance_usdt",
       "binance_busd",
       "binance_btc",
-      "binance_busd_perp",
       "binance_usdt_perp",
+      "binance_busd_perp",
       "bybit_usdt",
       "bybit_usdt_perp",
       "okx_usdt",
@@ -693,7 +709,7 @@
   "ARCADE": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "ARCX": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "ARDR": {
-    "markets": ["upbit_btc", "upbit_krw", "binance_btc"],
+    "markets": ["upbit_btc", "upbit_krw", "binance_btc", "binance_usdt"],
     "exchanges": ["upbit", "binance"]
   },
   "ARG": {
@@ -761,13 +777,7 @@
   },
   "ASPO": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "ASR": {
-    "markets": [
-      "binance_btc",
-      "binance_usdt",
-      "binance_busd",
-      "bitget_usdt",
-      "mexc_usdt"
-    ],
+    "markets": ["binance_btc", "binance_busd", "bitget_usdt", "mexc_usdt"],
     "exchanges": ["binance", "bitget", "mexc"]
   },
   "ASS": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
@@ -895,6 +905,8 @@
   "AUDIO": {
     "markets": [
       "upbit_btc",
+      "binance_btc",
+      "binance_busd",
       "binance_usdt",
       "binance_usdt_perp",
       "bybit_usdt_perp",
@@ -931,7 +943,13 @@
     "exchanges": ["binance", "mexc"]
   },
   "AVA": {
-    "markets": ["binance_usdt", "bybit_usdt", "mexc_usdt", "kucoin_usdt"],
+    "markets": [
+      "binance_busd",
+      "binance_usdt",
+      "bybit_usdt",
+      "mexc_usdt",
+      "kucoin_usdt"
+    ],
     "exchanges": ["binance", "bybit", "mexc", "kucoin"]
   },
   "AVAX": {
@@ -1147,7 +1165,6 @@
       "coinone_krw",
       "binance_btc",
       "binance_usdt",
-      "binance_busd",
       "binance_usdt_perp",
       "bybit_usdt",
       "bybit_usdt_perp",
@@ -1289,6 +1306,7 @@
     "markets": [
       "binance_btc",
       "binance_busd",
+      "binance_usdt",
       "bybit_usdt",
       "bybit_usdt_perp",
       "okx_usdt",
@@ -1310,8 +1328,8 @@
     ]
   },
   "BIFI": {
-    "markets": ["mexc_usdt", "kucoin_usdt"],
-    "exchanges": ["mexc", "kucoin"]
+    "markets": ["binance_busd", "binance_usdt", "mexc_usdt", "kucoin_usdt"],
+    "exchanges": ["binance", "mexc", "kucoin"]
   },
   "BIN": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "BIOFI": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
@@ -1368,8 +1386,8 @@
       "binance_btc",
       "binance_usdt",
       "binance_busd",
-      "binance_busd_perp",
       "binance_usdt_perp",
+      "binance_busd_perp",
       "bybit_usdt",
       "bybit_usdt_perp",
       "huobi_usdt",
@@ -1430,7 +1448,7 @@
   },
   "BNX": {
     "markets": [
-      "binance_btc",
+      "binance_busd",
       "binance_usdt",
       "binance_usdt_perp",
       "bybit_usdt_perp",
@@ -1652,7 +1670,10 @@
       "kucoin"
     ]
   },
-  "BTTC": { "markets": ["binance_usdt"], "exchanges": ["binance"] },
+  "BTTC": {
+    "markets": ["binance_usdt", "binance_busd"],
+    "exchanges": ["binance"]
+  },
   "BULL": {
     "markets": ["huobi_usdt", "mexc_usdt", "kucoin_usdt"],
     "exchanges": ["huobi", "mexc", "kucoin"]
@@ -1765,6 +1786,7 @@
     "exchanges": ["huobi", "mexc"]
   },
   "CBANK": { "markets": ["coinone_krw"], "exchanges": ["coinone"] },
+  "CBC": { "markets": ["kucoin_usdt"], "exchanges": ["kucoin"] },
   "CBK": {
     "markets": ["upbit_btc", "upbit_krw", "coinone_krw", "mexc_usdt"],
     "exchanges": ["upbit", "coinone", "mexc"]
@@ -1899,7 +1921,7 @@
   "CHAT": { "markets": ["okx_usdt"], "exchanges": ["okx"] },
   "CHE": { "markets": ["okx_usdt", "mexc_usdt"], "exchanges": ["okx", "mexc"] },
   "CHESS": {
-    "markets": ["binance_usdt", "mexc_usdt"],
+    "markets": ["binance_busd", "binance_usdt", "mexc_usdt"],
     "exchanges": ["binance", "mexc"]
   },
   "CHMB": { "markets": ["kucoin_usdt"], "exchanges": ["kucoin"] },
@@ -1909,7 +1931,10 @@
     "markets": [
       "upbit_btc",
       "bithumb_krw",
+      "binance_btc",
       "binance_usdt",
+      "binance_busd",
+      "binance_usdt_perp",
       "bybit_usdt_perp",
       "huobi_usdt",
       "huobi_usdt_perp",
@@ -1977,8 +2002,6 @@
   "CITY": {
     "markets": [
       "binance_btc",
-      "binance_busd",
-      "binance_usdt",
       "bybit_usdt",
       "okx_usdt",
       "bitget_usdt",
@@ -2279,6 +2302,7 @@
     "markets": [
       "bithumb_krw",
       "binance_btc",
+      "binance_busd",
       "binance_usdt",
       "binance_usdt_perp",
       "bybit_usdt_perp",
@@ -2320,7 +2344,6 @@
   "CTXC": {
     "markets": [
       "bithumb_krw",
-      "binance_btc",
       "binance_usdt",
       "binance_busd",
       "okx_usdt",
@@ -2350,8 +2373,6 @@
       "upbit_krw",
       "binance_btc",
       "binance_usdt",
-      "binance_busd",
-      "binance_usdt_perp",
       "bybit_usdt_perp",
       "okx_usdt",
       "okx_usdt_perp",
@@ -2387,6 +2408,7 @@
   "CVX": {
     "markets": [
       "coinone_krw",
+      "binance_btc",
       "binance_busd",
       "binance_usdt",
       "binance_busd_perp",
@@ -2521,7 +2543,6 @@
     "markets": ["huobi_usdt", "mexc_usdt", "mexc_usdt_perp", "kucoin_usdt"],
     "exchanges": ["huobi", "mexc", "kucoin"]
   },
-  "DCERC": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "DCR": {
     "markets": [
       "binance_btc",
@@ -2554,7 +2575,6 @@
     "markets": [
       "upbit_btc",
       "binance_usdt",
-      "binance_busd",
       "binance_usdt_perp",
       "bybit_usdt_perp",
       "bitget_usdt",
@@ -2579,8 +2599,14 @@
     "exchanges": ["bybit", "okx", "mexc"]
   },
   "DEXE": {
-    "markets": ["huobi_usdt", "mexc_usdt", "kucoin_usdt"],
-    "exchanges": ["huobi", "mexc", "kucoin"]
+    "markets": [
+      "binance_busd",
+      "binance_usdt",
+      "huobi_usdt",
+      "mexc_usdt",
+      "kucoin_usdt"
+    ],
+    "exchanges": ["binance", "huobi", "mexc", "kucoin"]
   },
   "DEXI": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "DF": {
@@ -2683,7 +2709,7 @@
   "DNT": { "markets": ["upbit_btc"], "exchanges": ["upbit"] },
   "DNXC": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "DOCK": {
-    "markets": ["binance_usdt", "binance_busd", "huobi_usdt"],
+    "markets": ["binance_btc", "binance_usdt", "binance_busd", "huobi_usdt"],
     "exchanges": ["binance", "huobi"]
   },
   "DODO": {
@@ -3138,8 +3164,8 @@
   },
   "EPS": { "markets": ["kucoin_usdt"], "exchanges": ["kucoin"] },
   "EPX": {
-    "markets": ["mexc_usdt", "kucoin_usdt"],
-    "exchanges": ["mexc", "kucoin"]
+    "markets": ["binance_usdt", "binance_busd", "mexc_usdt", "kucoin_usdt"],
+    "exchanges": ["binance", "mexc", "kucoin"]
   },
   "EQ": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "EQX": { "markets": ["kucoin_usdt"], "exchanges": ["kucoin"] },
@@ -3151,6 +3177,7 @@
   "ERN": {
     "markets": [
       "coinone_krw",
+      "binance_busd",
       "binance_usdt",
       "okx_usdt",
       "huobi_usdt",
@@ -3173,8 +3200,8 @@
       "binance_btc",
       "binance_usdt",
       "binance_busd",
-      "binance_busd_perp",
       "binance_usdt_perp",
+      "binance_busd_perp",
       "bybit_usdt",
       "bybit_usdt_perp",
       "okx_usdt",
@@ -3326,14 +3353,29 @@
     "exchanges": ["mexc", "kucoin"]
   },
   "FEI": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
+  "FEN": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "FET": {
-    "markets": ["coinone_krw", "bitget_usdt", "mexc_usdt"],
-    "exchanges": ["coinone", "bitget", "mexc"]
+    "markets": [
+      "coinone_krw",
+      "binance_btc",
+      "binance_usdt",
+      "binance_busd",
+      "bitget_usdt",
+      "mexc_usdt"
+    ],
+    "exchanges": ["coinone", "binance", "bitget", "mexc"]
   },
   "FIC": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "FID": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "FIDA": {
-    "markets": ["binance_usdt", "bybit_usdt", "mexc_usdt", "kucoin_usdt"],
+    "markets": [
+      "binance_usdt",
+      "binance_busd",
+      "binance_btc",
+      "bybit_usdt",
+      "mexc_usdt",
+      "kucoin_usdt"
+    ],
     "exchanges": ["binance", "bybit", "mexc", "kucoin"]
   },
   "FIL": {
@@ -3343,8 +3385,8 @@
       "binance_btc",
       "binance_busd",
       "binance_usdt",
-      "binance_busd_perp",
       "binance_usdt_perp",
+      "binance_busd_perp",
       "bybit_usdt",
       "bybit_usdt_perp",
       "okx_usdt",
@@ -3375,11 +3417,17 @@
   },
   "FINA": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "FIO": {
-    "markets": ["binance_btc", "binance_usdt", "huobi_usdt", "mexc_usdt"],
+    "markets": [
+      "binance_btc",
+      "binance_busd",
+      "binance_usdt",
+      "huobi_usdt",
+      "mexc_usdt"
+    ],
     "exchanges": ["binance", "huobi", "mexc"]
   },
   "FIRO": {
-    "markets": ["binance_btc", "binance_busd", "mexc_usdt"],
+    "markets": ["binance_btc", "binance_usdt", "binance_busd", "mexc_usdt"],
     "exchanges": ["binance", "mexc"]
   },
   "FIS": {
@@ -3499,8 +3547,6 @@
   "FOR": {
     "markets": [
       "upbit_btc",
-      "binance_btc",
-      "binance_busd",
       "binance_usdt",
       "huobi_usdt",
       "bitget_usdt",
@@ -3518,8 +3564,16 @@
     "exchanges": ["bybit", "bitget", "mexc", "kucoin"]
   },
   "FORTH": {
-    "markets": ["okx_usdt", "huobi_usdt", "mexc_usdt", "kucoin_usdt"],
-    "exchanges": ["okx", "huobi", "mexc", "kucoin"]
+    "markets": [
+      "binance_btc",
+      "binance_busd",
+      "binance_usdt",
+      "okx_usdt",
+      "huobi_usdt",
+      "mexc_usdt",
+      "kucoin_usdt"
+    ],
+    "exchanges": ["binance", "okx", "huobi", "mexc", "kucoin"]
   },
   "FOTA": { "markets": ["huobi_usdt"], "exchanges": ["huobi"] },
   "FOX": {
@@ -3528,12 +3582,15 @@
   },
   "FPFT": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "FRA": { "markets": ["kucoin_usdt"], "exchanges": ["kucoin"] },
+  "FREEDOM": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "FRM": { "markets": ["kucoin_usdt"], "exchanges": ["kucoin"] },
   "FRONT": {
     "markets": [
       "bithumb_krw",
       "coinone_krw",
+      "binance_busd",
       "binance_btc",
+      "binance_usdt",
       "okx_usdt",
       "huobi_usdt",
       "bitget_usdt",
@@ -3626,6 +3683,7 @@
   "FXS": {
     "markets": [
       "binance_btc",
+      "binance_busd",
       "binance_usdt",
       "bybit_usdt_perp",
       "bitget_usdt",
@@ -3642,7 +3700,6 @@
       "binance_busd",
       "binance_btc",
       "binance_usdt_perp",
-      "binance_busd_perp",
       "bybit_usdt",
       "bybit_usdt_perp",
       "huobi_usdt",
@@ -3663,8 +3720,8 @@
       "binance_usdt",
       "binance_busd",
       "binance_btc",
-      "binance_busd_perp",
       "binance_usdt_perp",
+      "binance_busd_perp",
       "bybit_usdt",
       "bybit_usdt_perp",
       "okx_usdt",
@@ -3755,15 +3812,8 @@
   "GHD": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "GHNY": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "GHST": {
-    "markets": [
-      "binance_busd",
-      "binance_usdt",
-      "okx_usdt",
-      "huobi_usdt",
-      "bitget_usdt",
-      "mexc_usdt"
-    ],
-    "exchanges": ["binance", "okx", "huobi", "bitget", "mexc"]
+    "markets": ["okx_usdt", "huobi_usdt", "bitget_usdt", "mexc_usdt"],
+    "exchanges": ["okx", "huobi", "bitget", "mexc"]
   },
   "GHX": {
     "markets": ["bithumb_krw", "kucoin_usdt"],
@@ -3776,7 +3826,7 @@
       "upbit_btc",
       "upbit_krw",
       "bithumb_krw",
-      "binance_btc",
+      "binance_busd",
       "okx_usdt",
       "huobi_usdt",
       "bitget_usdt",
@@ -3847,8 +3897,8 @@
       "binance_btc",
       "binance_busd",
       "binance_usdt",
-      "binance_usdt_perp",
       "binance_busd_perp",
+      "binance_usdt_perp",
       "bybit_usdt",
       "bybit_usdt_perp",
       "okx_usdt",
@@ -4157,7 +4207,6 @@
       "bithumb_krw",
       "binance_btc",
       "binance_usdt",
-      "binance_busd",
       "huobi_usdt",
       "mexc_usdt"
     ],
@@ -4293,7 +4342,9 @@
       "upbit_krw",
       "bithumb_krw",
       "coinone_krw",
+      "binance_btc",
       "binance_usdt",
+      "binance_busd",
       "binance_usdt_perp",
       "bybit_usdt",
       "bybit_usdt_perp",
@@ -4340,7 +4391,6 @@
   "ILV": {
     "markets": [
       "coinone_krw",
-      "binance_usdt",
       "binance_busd",
       "binance_btc",
       "bybit_usdt_perp",
@@ -4518,6 +4568,7 @@
     "markets": [
       "upbit_btc",
       "coinone_krw",
+      "binance_btc",
       "binance_usdt",
       "binance_busd",
       "binance_usdt_perp",
@@ -4557,7 +4608,7 @@
   },
   "IRENA": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "IRIS": {
-    "markets": ["binance_btc", "huobi_usdt", "mexc_usdt"],
+    "markets": ["binance_btc", "binance_usdt", "huobi_usdt", "mexc_usdt"],
     "exchanges": ["binance", "huobi", "mexc"]
   },
   "ISDT": { "markets": ["coinone_krw"], "exchanges": ["coinone"] },
@@ -4572,10 +4623,7 @@
     "markets": ["huobi_usdt", "bitget_usdt", "mexc_usdt"],
     "exchanges": ["huobi", "bitget", "mexc"]
   },
-  "ITAMCUBE": {
-    "markets": ["coinone_krw", "mexc_usdt"],
-    "exchanges": ["coinone", "mexc"]
-  },
+  "ITAMCUBE": { "markets": ["coinone_krw"], "exchanges": ["coinone"] },
   "ITEM": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "ITGR": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "ITHEUM": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
@@ -4631,7 +4679,6 @@
   "JNS": { "markets": ["bitget_usdt"], "exchanges": ["bitget"] },
   "JOE": {
     "markets": [
-      "binance_btc",
       "binance_busd",
       "binance_usdt",
       "okx_usdt",
@@ -4690,6 +4737,7 @@
     "markets": [
       "upbit_btc",
       "binance_btc",
+      "binance_busd",
       "binance_usdt",
       "bybit_usdt",
       "huobi_usdt",
@@ -4780,7 +4828,10 @@
   "KDAG": { "markets": ["coinone_krw"], "exchanges": ["coinone"] },
   "KDG": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "KEK": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
-  "KEY": { "markets": ["bitget_usdt"], "exchanges": ["bitget"] },
+  "KEY": {
+    "markets": ["binance_usdt", "binance_busd", "bitget_usdt"],
+    "exchanges": ["binance", "bitget"]
+  },
   "KIBA": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "KICKS": {
     "markets": ["huobi_usdt", "mexc_usdt", "kucoin_usdt"],
@@ -4991,13 +5042,7 @@
     "exchanges": ["mexc", "kucoin"]
   },
   "LAZIO": {
-    "markets": [
-      "binance_btc",
-      "binance_usdt",
-      "binance_busd",
-      "bitget_usdt",
-      "mexc_usdt"
-    ],
+    "markets": ["binance_btc", "binance_usdt", "bitget_usdt", "mexc_usdt"],
     "exchanges": ["binance", "bitget", "mexc"]
   },
   "LBA": { "markets": ["okx_usdt", "mexc_usdt"], "exchanges": ["okx", "mexc"] },
@@ -5115,8 +5160,8 @@
       "binance_btc",
       "binance_usdt",
       "binance_busd",
-      "binance_usdt_perp",
       "binance_busd_perp",
+      "binance_usdt_perp",
       "bybit_usdt",
       "bybit_usdt_perp",
       "okx_usdt",
@@ -5297,14 +5342,7 @@
     ]
   },
   "LSK": {
-    "markets": [
-      "upbit_btc",
-      "upbit_krw",
-      "binance_btc",
-      "binance_usdt",
-      "binance_busd",
-      "okx_usdt"
-    ],
+    "markets": ["upbit_btc", "upbit_krw", "binance_btc", "okx_usdt"],
     "exchanges": ["upbit", "binance", "okx"]
   },
   "LSS": { "markets": ["kucoin_usdt"], "exchanges": ["kucoin"] },
@@ -5341,7 +5379,7 @@
     ]
   },
   "LTO": {
-    "markets": ["binance_btc", "binance_usdt", "binance_busd", "kucoin_usdt"],
+    "markets": ["binance_btc", "binance_usdt", "kucoin_usdt"],
     "exchanges": ["binance", "kucoin"]
   },
   "LTX": {
@@ -5582,7 +5620,7 @@
   },
   "MBOX": {
     "markets": [
-      "binance_btc",
+      "binance_busd",
       "binance_usdt",
       "huobi_usdt",
       "bitget_usdt",
@@ -5602,7 +5640,13 @@
     "exchanges": ["bithumb", "huobi", "mexc"]
   },
   "MC": {
-    "markets": ["binance_busd", "binance_usdt", "huobi_usdt", "kucoin_usdt"],
+    "markets": [
+      "binance_btc",
+      "binance_busd",
+      "binance_usdt",
+      "huobi_usdt",
+      "kucoin_usdt"
+    ],
     "exchanges": ["binance", "huobi", "kucoin"]
   },
   "MCASH": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
@@ -5623,11 +5667,19 @@
   "MDA": { "markets": ["okx_usdt"], "exchanges": ["okx"] },
   "MDS": { "markets": ["huobi_usdt"], "exchanges": ["huobi"] },
   "MDT": {
-    "markets": ["binance_usdt", "okx_usdt", "mexc_usdt"],
+    "markets": [
+      "binance_btc",
+      "binance_usdt",
+      "binance_busd",
+      "okx_usdt",
+      "mexc_usdt"
+    ],
     "exchanges": ["binance", "okx", "mexc"]
   },
   "MDX": {
     "markets": [
+      "binance_btc",
+      "binance_busd",
       "binance_usdt",
       "huobi_usdt",
       "huobi_usdt_perp",
@@ -5959,7 +6011,6 @@
   "MULTI": {
     "markets": [
       "binance_btc",
-      "binance_busd",
       "binance_usdt",
       "huobi_usdt",
       "bitget_usdt",
@@ -6013,6 +6064,7 @@
     "exchanges": ["okx", "huobi", "mexc"]
   },
   "NATION": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
+  "NAVI": { "markets": ["kucoin_usdt"], "exchanges": ["kucoin"] },
   "NAX": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "NBLH": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "NBS": {
@@ -6031,8 +6083,8 @@
       "binance_btc",
       "binance_busd",
       "binance_usdt",
-      "binance_busd_perp",
       "binance_usdt_perp",
+      "binance_busd_perp",
       "bybit_usdt",
       "bybit_usdt_perp",
       "okx_usdt",
@@ -6188,12 +6240,22 @@
     "markets": [
       "upbit_btc",
       "bithumb_krw",
+      "binance_busd",
+      "binance_usdt",
       "okx_usdt",
       "bitget_usdt",
       "mexc_usdt",
       "kucoin_usdt"
     ],
-    "exchanges": ["upbit", "bithumb", "okx", "bitget", "mexc", "kucoin"]
+    "exchanges": [
+      "upbit",
+      "bithumb",
+      "binance",
+      "okx",
+      "bitget",
+      "mexc",
+      "kucoin"
+    ]
   },
   "NMT": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "NNT": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
@@ -6337,6 +6399,7 @@
     "markets": [
       "binance_btc",
       "binance_usdt",
+      "binance_busd",
       "huobi_usdt",
       "bitget_usdt",
       "mexc_usdt"
@@ -6494,6 +6557,7 @@
       "upbit_krw",
       "bithumb_krw",
       "coinone_krw",
+      "binance_btc",
       "binance_usdt",
       "binance_busd",
       "binance_usdt_perp",
@@ -6606,7 +6670,6 @@
   "ORCA": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "ORN": {
     "markets": [
-      "binance_btc",
       "binance_usdt",
       "binance_busd",
       "bitget_usdt",
@@ -6621,14 +6684,7 @@
     "exchanges": ["bybit", "mexc"]
   },
   "OSMO": {
-    "markets": [
-      "binance_btc",
-      "binance_usdt",
-      "binance_busd",
-      "bitget_usdt",
-      "mexc_usdt",
-      "mexc_usdt_perp"
-    ],
+    "markets": ["binance_busd", "bitget_usdt", "mexc_usdt", "mexc_usdt_perp"],
     "exchanges": ["binance", "bitget", "mexc"]
   },
   "OSWAP": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
@@ -6643,6 +6699,8 @@
       "upbit_btc",
       "bithumb_krw",
       "binance_btc",
+      "binance_usdt",
+      "binance_busd",
       "okx_usdt",
       "huobi_usdt",
       "bitget_usdt",
@@ -6675,7 +6733,6 @@
   "PAXG": {
     "markets": [
       "binance_btc",
-      "binance_busd",
       "binance_usdt",
       "bybit_usdt",
       "bybit_usdt_perp",
@@ -6916,7 +6973,6 @@
   "POM": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "POND": {
     "markets": [
-      "binance_btc",
       "binance_busd",
       "binance_usdt",
       "huobi_usdt",
@@ -6956,10 +7012,12 @@
       "upbit_krw",
       "upbit_btc",
       "bithumb_krw",
+      "binance_btc",
+      "binance_usdt",
       "bitget_usdt",
       "kucoin_usdt"
     ],
-    "exchanges": ["upbit", "bithumb", "bitget", "kucoin"]
+    "exchanges": ["upbit", "bithumb", "binance", "bitget", "kucoin"]
   },
   "PPAD": { "markets": ["bitget_usdt"], "exchanges": ["bitget"] },
   "PPT": { "markets": ["okx_usdt"], "exchanges": ["okx"] },
@@ -7036,8 +7094,8 @@
   "PTR": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "PTU": { "markets": ["bybit_usdt"], "exchanges": ["bybit"] },
   "PUMLX": {
-    "markets": ["bybit_usdt", "kucoin_usdt"],
-    "exchanges": ["bybit", "kucoin"]
+    "markets": ["bybit_usdt", "bitget_usdt", "kucoin_usdt"],
+    "exchanges": ["bybit", "bitget", "kucoin"]
   },
   "PUNDIX": {
     "markets": [
@@ -7090,6 +7148,7 @@
       "upbit_krw",
       "bithumb_krw",
       "binance_btc",
+      "binance_busd",
       "bitget_usdt",
       "mexc_usdt"
     ],
@@ -7183,8 +7242,16 @@
   },
   "RACEFI": { "markets": ["kucoin_usdt"], "exchanges": ["kucoin"] },
   "RAD": {
-    "markets": ["upbit_btc", "huobi_usdt", "bitget_usdt", "mexc_usdt"],
-    "exchanges": ["upbit", "huobi", "bitget", "mexc"]
+    "markets": [
+      "upbit_btc",
+      "binance_btc",
+      "binance_busd",
+      "binance_usdt",
+      "huobi_usdt",
+      "bitget_usdt",
+      "mexc_usdt"
+    ],
+    "exchanges": ["upbit", "binance", "huobi", "bitget", "mexc"]
   },
   "RADAR": {
     "markets": ["huobi_usdt", "mexc_usdt"],
@@ -7264,6 +7331,7 @@
     "markets": [
       "upbit_btc",
       "bithumb_krw",
+      "binance_usdt",
       "binance_busd",
       "huobi_usdt",
       "mexc_usdt"
@@ -7319,9 +7387,7 @@
   "REQ": {
     "markets": [
       "bithumb_krw",
-      "binance_btc",
       "binance_usdt",
-      "binance_busd",
       "bybit_usdt_perp",
       "huobi_usdt",
       "kucoin_usdt"
@@ -7629,7 +7695,6 @@
     "markets": [
       "upbit_btc",
       "upbit_krw",
-      "binance_usdt",
       "binance_busd",
       "bybit_usdt",
       "bybit_usdt_perp",
@@ -8084,7 +8149,7 @@
   },
   "SSS": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "SSV": {
-    "markets": ["binance_btc", "bitget_usdt", "mexc_usdt"],
+    "markets": ["binance_btc", "binance_busd", "bitget_usdt", "mexc_usdt"],
     "exchanges": ["binance", "bitget", "mexc"]
   },
   "SSX": {
@@ -8132,6 +8197,7 @@
   "STG": {
     "markets": [
       "binance_btc",
+      "binance_busd",
       "binance_usdt",
       "binance_usdt_perp",
       "bybit_usdt",
@@ -8152,7 +8218,6 @@
       "upbit_btc",
       "binance_btc",
       "binance_usdt",
-      "binance_busd",
       "binance_usdt_perp",
       "bybit_usdt_perp",
       "bitget_usdt",
@@ -8208,10 +8273,13 @@
       "upbit_btc",
       "upbit_krw",
       "coinone_krw",
+      "binance_btc",
+      "binance_usdt",
+      "binance_busd",
       "huobi_usdt",
       "bitget_usdt"
     ],
-    "exchanges": ["upbit", "coinone", "huobi", "bitget"]
+    "exchanges": ["upbit", "coinone", "binance", "huobi", "bitget"]
   },
   "STRAX": {
     "markets": [
@@ -8219,7 +8287,8 @@
       "upbit_krw",
       "bithumb_krw",
       "binance_btc",
-      "binance_busd"
+      "binance_busd",
+      "binance_usdt"
     ],
     "exchanges": ["upbit", "bithumb", "binance"]
   },
@@ -8419,7 +8488,6 @@
   "SYS": {
     "markets": [
       "binance_btc",
-      "binance_busd",
       "binance_usdt",
       "huobi_usdt",
       "bitget_usdt",
@@ -8508,6 +8576,7 @@
       "bithumb_krw",
       "binance_btc",
       "binance_usdt",
+      "binance_busd",
       "kucoin_usdt"
     ],
     "exchanges": ["upbit", "bithumb", "binance", "kucoin"]
@@ -8728,11 +8797,14 @@
     "exchanges": ["bitget", "mexc"]
   },
   "TRIX": { "markets": ["coinone_krw"], "exchanges": ["coinone"] },
-  "TROY": { "markets": ["binance_usdt"], "exchanges": ["binance"] },
+  "TROY": {
+    "markets": ["binance_usdt", "binance_busd"],
+    "exchanges": ["binance"]
+  },
   "TRR": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "TRTL": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "TRU": {
-    "markets": ["binance_usdt", "mexc_usdt", "kucoin_usdt"],
+    "markets": ["binance_btc", "binance_usdt", "mexc_usdt", "kucoin_usdt"],
     "exchanges": ["binance", "mexc", "kucoin"]
   },
   "TRUE": { "markets": ["okx_usdt"], "exchanges": ["okx"] },
@@ -8802,7 +8874,13 @@
     "exchanges": ["upbit", "huobi", "bitget", "mexc"]
   },
   "TVK": {
-    "markets": ["coinone_krw", "binance_usdt", "kucoin_usdt"],
+    "markets": [
+      "coinone_krw",
+      "binance_btc",
+      "binance_busd",
+      "binance_usdt",
+      "kucoin_usdt"
+    ],
     "exchanges": ["coinone", "binance", "kucoin"]
   },
   "TWT": {
@@ -8844,6 +8922,7 @@
       "bithumb_krw",
       "coinone_krw",
       "binance_btc",
+      "binance_usdt",
       "binance_busd",
       "bybit_usdt",
       "okx_usdt",
@@ -8901,8 +8980,8 @@
       "binance_btc",
       "binance_busd",
       "binance_usdt",
-      "binance_busd_perp",
       "binance_usdt_perp",
+      "binance_busd_perp",
       "bybit_usdt",
       "bybit_usdt_perp",
       "okx_usdt",
@@ -9003,7 +9082,7 @@
   },
   "UT": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "UTK": {
-    "markets": ["binance_busd", "okx_usdt", "huobi_usdt"],
+    "markets": ["binance_btc", "binance_usdt", "okx_usdt", "huobi_usdt"],
     "exchanges": ["binance", "okx", "huobi"]
   },
   "UUU": { "markets": ["huobi_usdt"], "exchanges": ["huobi"] },
@@ -9148,6 +9227,7 @@
     ],
     "exchanges": ["bithumb", "okx", "huobi", "bitget", "mexc", "kucoin"]
   },
+  "VRJAM": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "VRS": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "VRT": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
   "VRYNT": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
@@ -9192,8 +9272,8 @@
       "binance_btc",
       "binance_usdt",
       "binance_busd",
-      "binance_usdt_perp",
       "binance_busd_perp",
+      "binance_usdt_perp",
       "bybit_usdt",
       "bybit_usdt_perp",
       "okx_usdt",
@@ -9333,7 +9413,14 @@
     "exchanges": ["binance", "okx", "huobi", "bitget", "mexc", "kucoin"]
   },
   "WING": {
-    "markets": ["binance_busd", "okx_usdt", "bitget_usdt", "mexc_usdt"],
+    "markets": [
+      "binance_btc",
+      "binance_busd",
+      "binance_usdt",
+      "okx_usdt",
+      "bitget_usdt",
+      "mexc_usdt"
+    ],
     "exchanges": ["binance", "okx", "bitget", "mexc"]
   },
   "WIRTUAL": { "markets": ["bitget_usdt"], "exchanges": ["bitget"] },
@@ -9524,6 +9611,7 @@
     "markets": [
       "upbit_btc",
       "upbit_krw",
+      "binance_usdt",
       "binance_usdt_perp",
       "bybit_usdt",
       "bybit_usdt_perp",
@@ -9630,7 +9718,6 @@
   "XNO": {
     "markets": [
       "binance_btc",
-      "binance_busd",
       "binance_usdt",
       "bybit_usdt_perp",
       "okx_usdt",
@@ -9745,13 +9832,7 @@
     "exchanges": ["binance", "mexc"]
   },
   "XVS": {
-    "markets": [
-      "bithumb_krw",
-      "binance_btc",
-      "binance_busd",
-      "binance_usdt",
-      "mexc_usdt"
-    ],
+    "markets": ["bithumb_krw", "binance_busd", "binance_usdt", "mexc_usdt"],
     "exchanges": ["bithumb", "binance", "mexc"]
   },
   "XWC": { "markets": ["mexc_usdt"], "exchanges": ["mexc"] },
@@ -9912,7 +9993,6 @@
   },
   "ZEN": {
     "markets": [
-      "binance_btc",
       "binance_usdt",
       "binance_busd",
       "binance_usdt_perp",
